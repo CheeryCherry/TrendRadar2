@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T05:14:01.261361+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2025-12-10T06:15:55.855603+08:00",
+  "total_titles_processed": 671,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 日本 韩国 @5",
-      "match_count": 121,
+      "match_count": 144,
       "titles": [
         {
           "title": "在南海坠毁的2架美国军机已被捞出",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "韩国硬刚高市早苗",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "外交部建议日本记者去问问日本",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "玉渊谭天披露：音频实证日本有意滋扰中方训练",
@@ -48,11 +48,12 @@
             11,
             9,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "音频实证日本有意滋扰中方训练",
@@ -60,11 +61,12 @@
           "source": "今日头条",
           "ranks": [
             7,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "玉渊谭天：音频实证日本有意滋扰中方训练",
@@ -77,8 +79,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "美国上演部长级引体向上大战，71岁小肯尼迪一口气连做20个(图)",
@@ -89,8 +91,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "日本强震 高市神色慌张一路小跑",
@@ -105,8 +107,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "特朗普宣布向农民发放百亿援助大礼包 或仍难挡美国农业继续下滑",
@@ -117,8 +119,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "日本7.5级强震：一核废处理厂池水溢出，当地警告或有更大地震",
@@ -130,8 +132,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "王毅：日本作为战败国应深刻反省",
@@ -143,8 +145,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "日本真有事,近海突发7.5级强震",
@@ -154,8 +156,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "释新闻｜日本青森县近海强震，未来一周大规模地震风险多高？",
@@ -166,8 +168,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "一图看懂｜辽宁舰正常演训，日本为何炒作所谓“雷达照射”问题",
@@ -178,8 +180,22 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
+        },
+        {
+          "title": "韩国女子以怀孕为由敲诈孙兴慜获刑",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%A5%B3%E5%AD%90%E4%BB%A5%E6%80%80%E5%AD%95%E4%B8%BA%E7%94%B1%E6%95%B2%E8%AF%88%E5%AD%99%E5%85%B4%E6%85%9C%E8%8E%B7%E5%88%91",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            25,
+            14,
+            19
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "time_info": "[01时16分 ~ 06时15分]"
         },
         {
           "title": "韩方：将坚决回应日本涉独岛不当主张",
@@ -196,18 +212,40 @@
           "time_info": "[00时21分 ~ 05时14分]"
         },
         {
-          "title": "韩国女子以怀孕为由敲诈孙兴慜获刑",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%A5%B3%E5%AD%90%E4%BB%A5%E6%80%80%E5%AD%95%E4%B8%BA%E7%94%B1%E6%95%B2%E8%AF%88%E5%AD%99%E5%85%B4%E6%85%9C%E8%8E%B7%E5%88%91",
+          "title": "默茨喊话美国：就算和欧洲过不下去，至少别撇下德国",
+          "url": "https://news.ifeng.com/c/8oxAPGkyGSE",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时31分 ~ 06时15分]"
+        },
+        {
+          "title": "委内瑞拉称准备退出国际刑事法院 指责其服务于美国",
+          "url": "https://wallstreetcn.com/livenews/3017911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "日本核污染水排放因地震暂停后重启",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%94%BE%E5%9B%A0%E5%9C%B0%E9%9C%87%E6%9A%82%E5%81%9C%E5%90%8E%E9%87%8D%E5%90%AF",
           "source": "百度热搜",
           "ranks": [
-            24,
+            30,
             25,
-            14,
+            26,
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 05时14分]"
+          "appearance_count": 6,
+          "time_info": "[02时31分 ~ 06时15分]"
         },
         {
           "title": "美国银行：供应过剩料将在2026年把石油价格压低至60美元下方。",
@@ -227,20 +265,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
         {
-          "title": "美债价格在美国职位空缺数据发布后显著下挫",
-          "url": "https://wallstreetcn.com/livenews/3017876",
-          "source": "华尔街见闻-快讯",
+          "title": "美国贸易代表格里尔：预计未来几周将签署更多贸易协议。",
+          "url": "https://flash.jin10.com/detail/20251210060050471800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时14分"
+          "time_info": "06时15分"
         },
         {
           "title": "凤凰专访丨日本驻华大使：希望通过对话解决两国问题",
@@ -260,31 +298,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
         {
-          "title": "礼来制药将在美国阿拉巴马州Huntsville修建60亿美元规模的设施。 该设施将生产活性药物成分。 该设施将侧重于（供应）美国本土的产品和GLP-1 Orforglipron。 预计将在2025年年底之前（向美国医药监管部门）递交Orforglipron（研究报告/新药申请）。 该设施将带来3450个生产、建筑岗位。",
-          "url": "https://wallstreetcn.com/livenews/3017875",
-          "source": "华尔街见闻-快讯",
+          "title": "据三位高级政府官员透露，美国总统和美国财长贝森特计划于周三面试美联储前理事凯文·沃什。",
+          "url": "https://flash.jin10.com/detail/20251210060008586800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时14分"
-        },
-        {
-          "title": "默茨喊话美国：就算和欧洲过不下去，至少别撇下德国",
-          "url": "https://news.ifeng.com/c/8oxAPGkyGSE",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时31分 ~ 05时14分]"
+          "time_info": "06时15分"
         },
         {
           "title": "美国货币监理署主管：监管机构正在调查各大银行与“去银行化”相关的政策。",
@@ -293,9 +320,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "美国高级政府官员表示，哈塞特仍处于领先地位，有望在五月接替鲍威尔出任美联储主席。",
+          "url": "https://flash.jin10.com/detail/20251210055859659800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）将加速补充发布因特朗普政府关门事件而造成的持仓周报（COT）发布。",
@@ -304,7 +342,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -318,6 +356,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "美国总统特朗普将于本周启动美联储主席人选的最后一轮面试。",
+          "url": "https://flash.jin10.com/detail/20251210055642373800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         },
         {
           "title": "美国财政部拍卖390亿美元10年期国债，得标利率4.175%（11月12日为4.074%），投标倍数2.55（前次为2.43）。",
@@ -348,18 +397,18 @@
           "time_info": "[02时31分 ~ 05时14分]"
         },
         {
-          "title": "日本核污染水排放因地震暂停后重启",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%94%BE%E5%9B%A0%E5%9C%B0%E9%9C%87%E6%9A%82%E5%81%9C%E5%90%8E%E9%87%8D%E5%90%AF",
-          "source": "百度热搜",
+          "title": "音频实证日本有意滋扰中方训练",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%B3%E9%A2%91%E5%AE%9E%E8%AF%81%E6%97%A5%E6%9C%AC%E6%9C%89%E6%84%8F%E6%BB%8B%E6%89%B0%E4%B8%AD%E6%96%B9%E8%AE%AD%E7%BB%83%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
-            30,
-            25,
-            26,
-            19
+            11,
+            17,
+            29,
+            30
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[02时31分 ~ 05时14分]"
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "美国食品药品管理局（FDA）调查所谓与新冠疫苗接种有关的死亡事故，其中包括多名成年人。",
@@ -387,6 +436,18 @@
           "time_info": "[04时16分 ~ 05时14分]"
         },
         {
+          "title": "美债价格在美国职位空缺数据发布后显著下挫",
+          "url": "https://wallstreetcn.com/livenews/3017876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时14分 ~ 06时15分]"
+        },
+        {
           "title": "EIA上调今年美国石油产量预测至1361万桶/日",
           "url": "https://flash.jin10.com/detail/20251210035658964800",
           "source": "金十数据",
@@ -397,6 +458,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时16分 ~ 05时14分]"
+        },
+        {
+          "title": "礼来制药将在美国阿拉巴马州Huntsville修建60亿美元规模的设施。 该设施将生产活性药物成分。 该设施将侧重于（供应）美国本土的产品和GLP-1 Orforglipron。 预计将在2025年年底之前（向美国医药监管部门）递交Orforglipron（研究报告/新药申请）。 该设施将带来3450个生产、建筑岗位。",
+          "url": "https://wallstreetcn.com/livenews/3017875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时14分 ~ 06时15分]"
         },
         {
           "title": "美国10年期国债收益率在拍卖后持稳，最新报4.1722%。",
@@ -447,17 +520,17 @@
           "time_info": "[01时17分 ~ 02时31分]"
         },
         {
-          "title": "音频实证日本有意滋扰中方训练",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%B3%E9%A2%91%E5%AE%9E%E8%AF%81%E6%97%A5%E6%9C%AC%E6%9C%89%E6%84%8F%E6%BB%8B%E6%89%B0%E4%B8%AD%E6%96%B9%E8%AE%AD%E7%BB%83%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "日本海啸预警解除",
+          "url": "https://www.douyin.com/hot/2330977",
+          "source": "抖音",
           "ranks": [
-            11,
-            17,
-            29
+            21,
+            20,
+            13
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "time_info": "[04时16分 ~ 06时15分]"
         },
         {
           "title": "德总理：欧洲不接受美国家安全战略部分内容",
@@ -494,18 +567,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时21分 ~ 01时17分]"
-        },
-        {
-          "title": "日本海啸预警解除",
-          "url": "https://www.douyin.com/hot/2330977",
-          "source": "抖音",
-          "ranks": [
-            21,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时16分 ~ 05时14分]"
         },
         {
           "title": "据福克斯新闻：以为知情人士透露，美国总统特朗普尚未与司法部反垄断部门会面，就派拉蒙天舞、奈飞(NFLX.O)和华纳兄弟探索公司(WBD.O)之间的交易问题表达其意见。",
@@ -700,13 +761,24 @@
           "time_info": "[03时12分 ~ 04时16分]"
         },
         {
+          "title": "市场消息：加拿大负责美国事务的特使将离职，怀斯曼（Wiseman）被视作头号候选人。",
+          "url": "https://flash.jin10.com/detail/20251210055335161800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
           "title": "花旗集团CFO Mason等高管预计，四季度市场收入同比增幅可能处于0%-10%区间的低端。 四季度IB费用同比增幅可能处于20%-30%区间的中部。 运营效率可能会超过63.5%。 美联储将在明天（12月10日）降息。 （美国）经济继续保持韧性，消费者开支保持稳健和韧性。 花旗股价下跌，刷新日低。",
           "url": "https://wallstreetcn.com/livenews/3017873",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -744,6 +816,17 @@
           "time_info": "01时17分"
         },
         {
+          "title": "委内瑞拉称准备退出国际刑事法院 指责其服务于美国",
+          "url": "https://flash.jin10.com/detail/20251210054558250800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
           "title": "美国劳工统计局（BLS）：12月消费者物价指数（CPI）将于1月13日发布。",
           "url": "https://wallstreetcn.com/livenews/3017807",
           "source": "华尔街见闻-快讯",
@@ -753,6 +836,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "加拿大负责美国事务的特使将离职，Wiseman被视作头号候选人。",
+          "url": "https://wallstreetcn.com/livenews/3017902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         },
         {
           "title": "美国10月职位空缺升至五个月来最高水平 招聘持续低迷",
@@ -786,6 +880,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：若担任美联储主席，我将保持政治中立。",
+          "url": "https://flash.jin10.com/detail/20251210053856839800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         },
         {
           "title": "摩根大通分析师Marianne Lake：（美国的）消费者环境看似“略微更加脆弱不堪”。",
@@ -838,9 +943,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "美国至12月5日当周API投产原油量 18.7万桶/日，前值41.6万桶/日。",
+          "url": "https://flash.jin10.com/detail/20251210053818333800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "周二（12月9日）纽约尾盘，现货黄金涨0.44%，报4208.92美元/盎司，日内交投区间为4170.29-4221.39美元。 COMEX黄金期货涨0.47%，报4237.40美元/盎司，也曾在美国职位空缺数据发布后刷新日高至4251.70美元。",
+          "url": "https://wallstreetcn.com/livenews/3017899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         },
         {
           "title": "美国至12月9日6周国债竞拍-得标利率 3.65%，前值3.70%。",
@@ -865,6 +992,28 @@
           "time_info": "02时31分"
         },
         {
+          "title": "美国至12月5日当周API成品油进口 -27.9万桶/日，前值12.5万桶/日。",
+          "url": "https://flash.jin10.com/detail/20251210053810263800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "行业周报：美国上周API原油库存降约480万桶，汽油库存增约700万桶",
+          "url": "https://wallstreetcn.com/livenews/3017898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
           "title": "美国职位空缺与劳动力流动调查JOLTS：10月裁员率升至1.2%，高于8月的1.1%。10月离职率降至1.8%，低于8月的1.9%。10月招聘率与8月持平，为3.2%。",
           "url": "https://flash.jin10.com/detail/20251209230846692800",
           "source": "金十数据",
@@ -874,6 +1023,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "美国至12月5日当周API原油进口 17.5万桶，前值27.6万桶。",
+          "url": "https://flash.jin10.com/detail/20251210053800742800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         },
         {
           "title": "美国劳工统计局：12月实际收入数据将于1月13日公布，就业状况报告将于1月9日公布。",
@@ -893,9 +1053,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "美国至12月5日当周API取暖油库存 29.6万桶，前值3万桶。",
+          "url": "https://flash.jin10.com/detail/20251210053751542800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "提醒：北京时间05:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3017896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         },
         {
           "title": "美国劳工统计局：12月消费者物价指数（CPI）将于1月13日发布。",
@@ -937,9 +1119,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "美国至12月5日当周API库欣原油库存 4.7万桶，前值-8.9万桶。",
+          "url": "https://flash.jin10.com/detail/20251210053737756800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         },
         {
           "title": "乌克兰总统泽连斯基：关于和平计划的“完善文件”将在不久的将来发送至美国。",
@@ -981,9 +1174,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "美国至12月5日当周API精炼油库存 102.7万桶，预期147.8万桶，前值288.4万桶。",
+          "url": "https://flash.jin10.com/detail/20251210053723000800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         },
         {
           "title": "美国谘商会：领先指标连续第二个月下滑 年底至明年初增长将放缓",
@@ -1014,9 +1218,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "美国至12月5日当周API汽油库存 695.5万桶，预期234.3万桶，前值313.6万桶。",
+          "url": "https://flash.jin10.com/detail/20251210053706786800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         },
         {
           "title": "乌克兰总统泽连斯基：乌克兰和欧洲已准备好向美国提交和平方案。",
@@ -1058,9 +1273,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "美国至12月5日当周API原油库存 -477.9万桶，预期-175万桶，前值248万桶。",
+          "url": "https://flash.jin10.com/detail/20251210053647172800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         },
         {
           "title": "美国财政部将部分俄罗斯个人从制裁名单中移除。",
@@ -1113,7 +1339,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -1157,9 +1383,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "美国至12月5日当周API原油库存将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20251210052000001800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         },
         {
           "title": "美国9月谘商会领先指标环比 -0.3%，预期 -0.3%。",
@@ -1212,7 +1449,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -1245,7 +1482,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -1327,6 +1564,17 @@
           "time_info": "04时16分"
         },
         {
+          "title": "提醒：美国商品期货交易委员会（CFTC）补充发布11月4日当周的（投机者）持仓报告。 其中，WTI原油净多头头寸增加18,061手合约。 COMEX铜（净多头头寸）减少4,156手合约。 CBOT大豆净多头头寸增加60,194手合约。",
+          "url": "https://wallstreetcn.com/livenews/3017879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
           "title": "EIA短期能源展望报告：预计2025年美国原油产量为1361.00万桶/日，此前预期为1359.00万桶/日。",
           "url": "https://flash.jin10.com/detail/20251210014554965800",
           "source": "金十数据",
@@ -1402,6 +1650,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "美国肯塔基州立大学校园发生枪击事件，造成多人受伤，大学校园已被封锁。目前，一名嫌疑人已被拘捕。",
+          "url": "https://flash.jin10.com/detail/20251210050932053800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         }
       ]
     },
@@ -1417,19 +1676,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "原中国华融国际控股有限公司总经理白天辉被执行死刑",
           "url": "https://m.thepaper.cn/newsDetail_forward_32136715",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "美国防部长：漠视中国军力愚蠢而失敬",
@@ -1442,8 +1702,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "梁文锋杜梦然入选《自然》杂志十大科学人物，这对于中国科学界意味着什么？",
@@ -1454,11 +1714,12 @@
             8,
             5,
             7,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "中国中冶跌10.03%",
@@ -1470,8 +1731,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -1483,8 +1744,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "驻南非使馆提醒中国公民加强防范",
@@ -1496,8 +1757,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "11月国产新剧测评",
@@ -1509,11 +1770,12 @@
             11,
             13,
             17,
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "中国美院原教授在伦敦因车祸去世，朋友：他在斑马线上被撞倒",
@@ -1524,8 +1786,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "中国游客滞留日本新千岁机场遭遇地震",
@@ -1537,11 +1799,12 @@
             24,
             25,
             29,
-            26
+            26,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "在中国抱怨菜价贵是幸福的烦恼",
@@ -1552,8 +1815,52 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
+        },
+        {
+          "title": "美国总统特朗普宣布，允许英伟达向中国出售 H200 芯片，此举意味着什么？",
+          "url": "https://www.zhihu.com/question/1981659657740234762",
+          "source": "知乎",
+          "ranks": [
+            16,
+            13,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "time_info": "[01时16分 ~ 06时15分]"
+        },
+        {
+          "title": "中国女子埃及景区拍照被浪卷入海中",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%9F%83%E5%8F%8A%E6%99%AF%E5%8C%BA%E6%8B%8D%E7%85%A7%E8%A2%AB%E6%B5%AA%E5%8D%B7%E5%85%A5%E6%B5%B7%E4%B8%AD",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            24,
+            19,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 06时15分]"
+        },
+        {
+          "title": "中国女博士生和女儿遇害现场有斧头",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%8D%9A%E5%A3%AB%E7%94%9F%E5%92%8C%E5%A5%B3%E5%84%BF%E9%81%87%E5%AE%B3%E7%8E%B0%E5%9C%BA%E6%9C%89%E6%96%A7%E5%A4%B4%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            25,
+            22,
+            19,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 06时15分]"
         },
         {
           "title": "中国向日本出口稀土出现延误？外交部回应",
@@ -1568,59 +1875,18 @@
           "time_info": "[00时21分 ~ 01时17分]"
         },
         {
-          "title": "美国总统特朗普宣布，允许英伟达向中国出售 H200 芯片，此举意味着什么？",
-          "url": "https://www.zhihu.com/question/1981659657740234762",
-          "source": "知乎",
-          "ranks": [
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 05时14分]"
-        },
-        {
-          "title": "中国女子埃及景区拍照被浪卷入海中",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%9F%83%E5%8F%8A%E6%99%AF%E5%8C%BA%E6%8B%8D%E7%85%A7%E8%A2%AB%E6%B5%AA%E5%8D%B7%E5%85%A5%E6%B5%B7%E4%B8%AD",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            24,
-            19,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 05时14分]"
-        },
-        {
-          "title": "中国女博士生和女儿遇害现场有斧头",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%8D%9A%E5%A3%AB%E7%94%9F%E5%92%8C%E5%A5%B3%E5%84%BF%E9%81%87%E5%AE%B3%E7%8E%B0%E5%9C%BA%E6%9C%89%E6%96%A7%E5%A4%B4%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            25,
-            22,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 05时14分]"
-        },
-        {
           "title": "美防长说忽视中国军力愚蠢且失敬",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E9%98%B2%E9%95%BF%E8%AF%B4%E5%BF%BD%E8%A7%86%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%8A%9B%E6%84%9A%E8%A0%A2%E4%B8%94%E5%A4%B1%E6%95%AC%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
             27,
             9,
-            28
+            28,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 05时14分]"
+          "appearance_count": 7,
+          "time_info": "[01时16分 ~ 06时15分]"
         },
         {
           "title": "在日中国游客称“连滚带爬躲厕所”",
@@ -1632,8 +1898,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 05时14分]"
+          "appearance_count": 7,
+          "time_info": "[01时16分 ~ 06时15分]"
         },
         {
           "title": "日媒：中国施压日本 美国冷眼旁观",
@@ -1646,8 +1912,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 03时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "刚果（金）东部安全形势恶化 我使馆紧急提醒中国公民尽快撤离",
@@ -1666,11 +1932,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32140947",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时16分 ~ 05时14分]"
+          "appearance_count": 4,
+          "time_info": "[04时16分 ~ 06时15分]"
         },
         {
           "title": "吉利副总裁陈政痛批部分车企拉低中国车设计高度，汽车行业设计存在哪些乱象？",
@@ -1701,18 +1968,6 @@
       "match_count": 17,
       "titles": [
         {
-          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32137588",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
-        },
-        {
           "title": "NMIXX翻唱UP主AI版大东北",
           "url": "https://search.bilibili.com/all?keyword=NMIXX%E7%BF%BB%E5%94%B1UP%E4%B8%BBAI%E7%89%88%E5%A4%A7%E4%B8%9C%E5%8C%97",
           "source": "bilibili 热搜",
@@ -1722,8 +1977,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
+        },
+        {
+          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32137588",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
@@ -1734,8 +2002,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "马上评｜用AI写年度总结与职场人的“AI化”",
@@ -1746,8 +2014,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "【明日主题前瞻】一天一个价，存储芯片或迎以AI驱动的新一轮景气周期",
@@ -1758,8 +2026,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 05时14分]"
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 06时15分]"
         },
         {
           "title": "OpenAI宣布在Linux基金会下共同创立Agentic AI基金会",
@@ -1915,8 +2183,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
@@ -1969,7 +2237,7 @@
     },
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "浙江台州科技馆志愿者名单再现百度人名大全，多人批量上榜",
@@ -1980,8 +2248,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         },
         {
           "title": "北京WB零封金陵科技学院",
@@ -2020,6 +2288,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时31分 ~ 04时16分]"
+        },
+        {
+          "title": "周二（12月9日），美股行业ETF涨跌各异，能源业ETF收涨0.62%，网络股指数ETF、科技行业ETF、全球科技股指数ETF至多涨0.32%，半导体ETF涨0.12%。 金融业ETF则收跌0.37%，生物科技指数ETF跌1.68%。",
+          "url": "https://wallstreetcn.com/livenews/3017891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         }
       ]
     },
@@ -2036,8 +2315,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时15分]"
         }
       ]
     },

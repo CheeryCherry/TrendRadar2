@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T06:16:51.687951+08:00",
-  "total_titles_processed": 673,
+  "generated_at": "2025-12-11T07:13:44.352776+08:00",
+  "total_titles_processed": 724,
   "failed_sources": [],
   "trends": [
     {
@@ -92,7 +92,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         }
@@ -100,29 +100,53 @@
     },
     {
       "keyword_group": "DeepSeek ChatGPT Claude Grok 豆包 doubao Gemini @10",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "Gemini获得CFTC关键批准，公司着眼于预测市场",
+          "url": "https://wallstreetcn.com/livenews/3018705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
         {
           "title": "谷歌(GOOG.O)：宣布对我们的Gemini 2.5 Flash和Gemini 2.5 Pro文本转语音（TTS）预览模型进行重大升级。",
           "url": "https://flash.jin10.com/detail/20251211055023100800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时13分]"
         },
         {
           "title": "Gemini Space Station Inc.（GEMI）美股盘后涨15%。",
           "url": "https://wallstreetcn.com/livenews/3018677",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时13分]"
+        },
+        {
+          "title": "OpenAI：ChatGPT用户在安卓设备上遭遇错误率飙升。",
+          "url": "https://flash.jin10.com/detail/20251211064706062800",
+          "source": "金十数据",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时16分"
+          "time_info": "07时13分"
         },
         {
           "title": "谷歌(GOOG.O)：将把Gemini 3引入Stitch——我们的实验性AI驱动设计工具。",

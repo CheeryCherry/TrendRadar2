@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T11:19:20.156334+08:00",
-  "total_titles_processed": 1042,
+  "generated_at": "2025-12-10T12:29:44.608756+08:00",
+  "total_titles_processed": 1156,
   "failed_sources": [],
   "trends": [
     {
@@ -40,7 +40,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -51,7 +51,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -139,11 +139,12 @@
           "url": "https://wallstreetcn.com/articles/3760995",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时13分 ~ 11时19分]"
+          "appearance_count": 3,
+          "time_info": "[09时13分 ~ 12时29分]"
         },
         {
           "title": "ChatGPT周活跃用户数接近9亿。（The Information）",
@@ -193,71 +194,8 @@
       ]
     },
     {
-      "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "特斯拉机器人摔倒前做出「摘头显」动作被疑受远程操控，这算露馅了吗？从专业角度分析，可能是什么原因？",
-          "url": "https://www.zhihu.com/question/1981656074458199100",
-          "source": "知乎",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 09时13分]"
-        },
-        {
-          "title": "总台机器人互动展演节目",
-          "url": "https://search.bilibili.com/all?keyword=%E6%80%BB%E5%8F%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%92%E5%8A%A8%E5%B1%95%E6%BC%94%E8%8A%82%E7%9B%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "特斯拉CEO埃隆·马斯克：人工智能的竞争是有史以来最顶尖激烈的较量。硬件的部署速度，尤其是机器人领域，是关键所在。",
-          "url": "https://flash.jin10.com/detail/20251210024538180800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "四川“十五五”规划建议：加快发展人工智能、低空经济等新兴产业",
-          "url": "https://www.cls.cn/detail/2224818",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
-        },
-        {
-          "title": "四川“十五五”规划建议：加快发展人工智能、低空经济、智能网联汽车、核医疗等新兴产业",
-          "url": "https://wallstreetcn.com/livenews/3017971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "月球 登月 火星 宇宙 飞船 航空 @5",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "平行宇宙的武林外传",
@@ -269,11 +207,12 @@
             28,
             22,
             30,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 11时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 12时29分]"
         },
         {
           "title": "印度航空业遭遇罕见危机，外媒发出预警！",
@@ -283,8 +222,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时13分 ~ 11时19分]"
+          "appearance_count": 3,
+          "time_info": "[09时13分 ~ 12时29分]"
         },
         {
           "title": "亚马逊(AMZN.O)：配送业务不应纳入美国联邦航空管理局（FAA）的“较宽松的”超视距运行（BVLOS）框架。",
@@ -309,11 +248,86 @@
           "time_info": "01时17分"
         },
         {
+          "title": "日航空自卫队紧急升空",
+          "url": "https://www.douyin.com/hot/2332096",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        },
+        {
           "title": "中金：2026年将是航空供需真正反转之年",
           "url": "https://wallstreetcn.com/livenews/3017955",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "特斯拉机器人摔倒前做出「摘头显」动作被疑受远程操控，这算露馅了吗？从专业角度分析，可能是什么原因？",
+          "url": "https://www.zhihu.com/question/1981656074458199100",
+          "source": "知乎",
+          "ranks": [
+            3,
+            4,
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 12时29分]"
+        },
+        {
+          "title": "总台机器人互动展演节目",
+          "url": "https://search.bilibili.com/all?keyword=%E6%80%BB%E5%8F%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%92%E5%8A%A8%E5%B1%95%E6%BC%94%E8%8A%82%E7%9B%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "四川“十五五”规划建议：加快发展人工智能、低空经济等新兴产业",
+          "url": "https://www.cls.cn/detail/2224818",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 12时29分]"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：人工智能的竞争是有史以来最顶尖激烈的较量。硬件的部署速度，尤其是机器人领域，是关键所在。",
+          "url": "https://flash.jin10.com/detail/20251210024538180800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "四川“十五五”规划建议：加快发展人工智能、低空经济、智能网联汽车、核医疗等新兴产业",
+          "url": "https://wallstreetcn.com/livenews/3017971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 1,

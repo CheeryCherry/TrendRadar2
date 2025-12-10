@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T20:31:39.870949+08:00",
-  "total_titles_processed": 1864,
+  "generated_at": "2025-12-10T21:34:18.385806+08:00",
+  "total_titles_processed": 1955,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "浙江台州科技馆志愿者名单再现百度人名大全，多人批量上榜",
@@ -45,17 +45,6 @@
           "time_info": "11时19分"
         },
         {
-          "title": "澜起科技：发行境外上市股份（H股）获中国证监会备案。",
-          "url": "https://wallstreetcn.com/livenews/3018449",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
           "title": "金十图示：2025年12月10日（周三）中国科技互联网公司市值排名TOP 50一览",
           "url": "https://flash.jin10.com/detail/20251210105510172800",
           "source": "金十数据",
@@ -76,6 +65,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
+        },
+        {
+          "title": "如何评价 AI 科技自媒体「十字路口」对原神前主创的采访文章?",
+          "url": "https://www.zhihu.com/question/1981848905307137705",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "恒生指数主连夜盘收跌0.16%，报25399点。 恒生科技指数主连夜盘收跌0.07%，报5553点。",
@@ -101,6 +101,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时15分 ~ 20时31分]"
+        },
+        {
+          "title": "澜起科技：发行境外上市股份（H股）获中国证监会备案。",
+          "url": "https://wallstreetcn.com/livenews/3018449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 21时34分]"
         },
         {
           "title": "美光科技一度上涨大约3.5%，汇丰分析师Ricky Seo覆盖该公司，给予买入的初始评级。",
@@ -160,6 +172,150 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "蓝思科技：拟收购裴美高国际有限公司100%股权 开拓AI算力基础设施新赛道",
+          "url": "https://wallstreetcn.com/livenews/3018452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek ChatGPT Claude Grok 豆包 doubao Gemini @10",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
+          "url": "https://wallstreetcn.com/articles/3760976",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 11时19分]"
+        },
+        {
+          "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
+          "url": "https://wallstreetcn.com/articles/3760995",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时13分 ~ 16时22分]"
+        },
+        {
+          "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
+          "url": "https://wallstreetcn.com/livenews/3017850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时12分 ~ 05时14分]"
+        },
+        {
+          "title": "ChatGPT周活跃用户数接近9亿。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3017782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时17分]"
+        },
+        {
+          "title": "Adobe：将Adobe Photoshop、Adobe Express、Adobe Acrobat直接引入ChatGPT。 将在接下来的几周内，继续为ChatGPT中的Adobe应用添加新功能。",
+          "url": "https://wallstreetcn.com/livenews/3018469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
+          "url": "https://flash.jin10.com/detail/20251210023813881800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "ChatGPT整合Adobe Photoshop等部分软件功能",
+          "url": "https://flash.jin10.com/detail/20251210210732222800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "美国国防部表示，已选择谷歌(GOOG.O)公司的Gemini for Government系统，为其约300万文职和军事雇员提供人工智能服务。",
+          "url": "https://flash.jin10.com/detail/20251210063207113800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "限量发售的豆包AI手机被追捧，二手价最高3.6万元",
+          "url": "https://wallstreetcn.com/livenews/3018230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "Adobe：将Adobe Photoshop、Adobe Express和Adobe Acrobat直接接入ChatGPT。",
+          "url": "https://flash.jin10.com/detail/20251210210023476800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "据The Information：ChatGPT周活跃用户接近9亿。",
+          "url": "https://flash.jin10.com/detail/20251209230341120800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
         }
       ]
     },
@@ -275,106 +431,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek ChatGPT Claude Grok 豆包 doubao Gemini @10",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
-          "url": "https://wallstreetcn.com/articles/3760976",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 11时19分]"
-        },
-        {
-          "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
-          "url": "https://wallstreetcn.com/articles/3760995",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时13分 ~ 16时22分]"
-        },
-        {
-          "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
-          "url": "https://wallstreetcn.com/livenews/3017850",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时12分 ~ 05时14分]"
-        },
-        {
-          "title": "ChatGPT周活跃用户数接近9亿。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3017782",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时17分]"
-        },
-        {
-          "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
-          "url": "https://flash.jin10.com/detail/20251210023813881800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "美国国防部表示，已选择谷歌(GOOG.O)公司的Gemini for Government系统，为其约300万文职和军事雇员提供人工智能服务。",
-          "url": "https://flash.jin10.com/detail/20251210063207113800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "限量发售的豆包AI手机被追捧，二手价最高3.6万元",
-          "url": "https://wallstreetcn.com/livenews/3018230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "据The Information：ChatGPT周活跃用户接近9亿。",
-          "url": "https://flash.jin10.com/detail/20251209230341120800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
         }
       ]
     },

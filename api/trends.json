@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T22:19:28.659846+08:00",
-  "total_titles_processed": 2129,
+  "generated_at": "2025-12-11T23:18:59.134111+08:00",
+  "total_titles_processed": 2204,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "我国重大科技成果数量月月攀高",
@@ -157,6 +157,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "行业ETF美股盘初涨跌各异，科技行业ETF跌超1.4%",
+          "url": "https://wallstreetcn.com/livenews/3019297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "成立科技新公司布局充电桩业务？字节跳动澄清：园区部署需要",
           "url": "https://wallstreetcn.com/livenews/3019175",
           "source": "华尔街见闻-快讯",
@@ -221,6 +232,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "美股开盘，道指涨0.05%，标普500指数跌0.37%，纳指跌0.6%。业绩和指引均不及预期的甲骨文(ORCL.N)大跌14%拖累AI股票，英伟达(NVDA.O)跌2%，英特尔(INTC.O)跌1.9%，美光科技(MU.O)跌0.95%。",
+          "url": "https://flash.jin10.com/detail/20251211223024942800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "浙江省脑机接口重大科技专项与创新联合体将开启 相关脑机接口立项国际标准启动",
@@ -293,7 +315,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -348,8 +370,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时20分 ~ 22时19分]"
+          "appearance_count": 17,
+          "time_info": "[11时20分 ~ 23时18分]"
         },
         {
           "title": "胜通能源：控股股东变更为“七腾机器人”，股票复牌",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T05:13:50.814136+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2025-12-14T06:14:33.568065+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 05时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 06时14分]"
         },
         {
           "title": "对标智能手机生态？宇树首发人形机器人App Store，复杂动作“即下即用”",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 05时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 06时14分]"
         },
         {
           "title": "广东省人工智能与机器人企业超3700家",
@@ -37,11 +38,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             20,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 05时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 06时14分]"
         }
       ]
     },
@@ -55,11 +57,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 05时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 06时14分]"
         },
         {
           "title": "豆包手机助手使用系统原生截屏接口，无法截屏银行键盘等受保护内容",
@@ -67,11 +70,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 05时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 06时14分]"
         }
       ]
     },
@@ -87,8 +91,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 05时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 06时14分]"
         }
       ]
     }

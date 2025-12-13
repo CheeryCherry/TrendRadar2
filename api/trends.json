@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T06:14:33.568065+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2025-12-14T07:14:26.172846+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 07时14分]"
         },
         {
           "title": "对标智能手机生态？宇树首发人形机器人App Store，复杂动作“即下即用”",
@@ -26,11 +27,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 07时14分]"
         },
         {
           "title": "广东省人工智能与机器人企业超3700家",
@@ -42,8 +44,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 07时14分]"
         }
       ]
     },
@@ -61,8 +63,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 07时14分]"
         },
         {
           "title": "豆包手机助手使用系统原生截屏接口，无法截屏银行键盘等受保护内容",
@@ -74,8 +76,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 07时14分]"
         }
       ]
     },
@@ -91,8 +93,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 07时14分]"
         }
       ]
     }

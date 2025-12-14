@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T14:22:29.423293+08:00",
-  "total_titles_processed": 862,
+  "generated_at": "2025-12-14T15:15:12.072292+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时17分 ~ 14时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时17分 ~ 15时15分]"
         },
         {
           "title": "对标智能手机生态？宇树首发人形机器人App Store，复杂动作“即下即用”",
@@ -59,8 +59,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时32分 ~ 14时22分]"
+          "appearance_count": 6,
+          "time_info": "[12时32分 ~ 15时15分]"
         },
         {
           "title": "松延动力获1000台小布米Bumi人形机器人订单",
@@ -70,11 +70,12 @@
             2,
             9,
             15,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 14时22分]"
+          "appearance_count": 5,
+          "time_info": "[11时25分 ~ 15时15分]"
         },
         {
           "title": "广东人工智能和机器人产业核心指标位列全国第一",
@@ -84,11 +85,12 @@
             6,
             13,
             19,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 14时22分]"
+          "appearance_count": 5,
+          "time_info": "[11时25分 ~ 15时15分]"
         }
       ]
     },
@@ -151,11 +153,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 14时22分]"
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 15时15分]"
         }
       ]
     }

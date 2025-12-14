@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T00:17:29.209848+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-15T01:13:01.465472+08:00",
+  "total_titles_processed": 340,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时13分]"
         },
         {
           "title": "机器人年终盘点①：宇树科技官宣IPO，掀起行业资本浪潮",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时13分]"
         }
       ]
     },
@@ -43,19 +43,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时13分]"
         },
         {
           "title": "据港交所文件，12月14日，广州广合科技股份有限公司向港交所提交上市申请书，联席保荐人为中信证券、汇丰。",
           "url": "https://wallstreetcn.com/livenews/3020412",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时13分]"
         }
       ]
     },
@@ -71,8 +72,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时13分]"
         }
       ]
     },
@@ -85,11 +86,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%B4%9B%E7%86%99%E4%BA%8B%E4%BB%B6%E6%89%8B%E6%9C%AF%E7%9B%91%E6%8E%A7%E6%91%84%E5%83%8F%E9%85%8D%E7%BD%AE%E5%90%88%E8%A7%84%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 01时13分]"
         }
       ]
     }

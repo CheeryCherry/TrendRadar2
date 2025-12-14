@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T01:13:01.465472+08:00",
-  "total_titles_processed": 340,
+  "generated_at": "2025-12-15T02:20:48.440804+08:00",
+  "total_titles_processed": 366,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 01时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时20分]"
         },
         {
           "title": "机器人年终盘点①：宇树科技官宣IPO，掀起行业资本浪潮",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 01时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时20分]"
         }
       ]
     },
@@ -40,11 +40,12 @@
           "url": "https://www.cls.cn/detail/2229026",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 01时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时20分]"
         },
         {
           "title": "据港交所文件，12月14日，广州广合科技股份有限公司向港交所提交上市申请书，联席保荐人为中信证券、汇丰。",
@@ -52,11 +53,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时20分]"
         }
       ]
     },
@@ -72,8 +74,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 01时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时20分]"
         }
       ]
     },

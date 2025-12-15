@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T21:37:40.196486+08:00",
-  "total_titles_processed": 1715,
+  "generated_at": "2025-12-15T22:21:13.665079+08:00",
+  "total_titles_processed": 1787,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "事关胜宏科技、金力永磁等多只热门股，深证成指、创业板指等指数样本股明日调整",
@@ -65,6 +65,19 @@
           "time_info": "13时21分"
         },
         {
+          "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
+          "url": "https://wallstreetcn.com/articles/3761417",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时33分 ~ 22时21分]"
+        },
+        {
           "title": "证监会：坚持严监严管，切实提升监管执法效能。强化科技赋能监管，继续重拳惩治财务造假、内幕交易、市场操纵、挪用侵占私募基金财产等证券期货违法违规行为。推动出台上市公司监管条例，积极配合修订证券公司、证券投资基金等重点领域法律法规。",
           "url": "https://wallstreetcn.com/livenews/3020677",
           "source": "华尔街见闻-快讯",
@@ -112,16 +125,16 @@
           "time_info": "[18时20分 ~ 19时15分]"
         },
         {
-          "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
-          "url": "https://wallstreetcn.com/articles/3761417",
-          "source": "华尔街见闻",
+          "title": "国产算力掀资本化浪潮：沐曦股份上市在即 壁仞科技港股IPO获备案",
+          "url": "https://www.cls.cn/detail/2230118",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            8
+            13,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时33分 ~ 21时37分]"
+          "time_info": "[21时37分 ~ 22时21分]"
         },
         {
           "title": "科技巨头扎堆买楼，香港写字楼抄底时机来了",
@@ -134,6 +147,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时26分 ~ 15时21分]"
+        },
+        {
+          "title": "2026年别再盯着AI和科技巨头了！高盛、美银预言美股轮动将至……",
+          "url": "https://www.cls.cn/detail/2229723",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 22时21分]"
         },
         {
           "title": "欧盟抵制美国迫使其修改科技规则的企图",
@@ -200,17 +224,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
-        },
-        {
-          "title": "国产算力掀资本化浪潮：沐曦股份上市在即 壁仞科技港股IPO获备案",
-          "url": "https://www.cls.cn/detail/2230118",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时37分"
         },
         {
           "title": "金十图示：2025年12月15日（周一）中国科技互联网公司市值排名TOP 50一览",
@@ -293,11 +306,12 @@
             8,
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时26分 ~ 21时37分]"
+          "appearance_count": 9,
+          "time_info": "[17时26分 ~ 22时21分]"
         },
         {
           "title": "首批L3自动驾驶车型获批",
@@ -307,11 +321,38 @@
             8,
             4,
             7,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时24分 ~ 21时37分]"
+          "appearance_count": 10,
+          "time_info": "[16时24分 ~ 22时21分]"
+        },
+        {
+          "title": "L3来了！深蓝、极狐首批入围 中汽协：自动驾驶加速迈向“量产应用”",
+          "url": "https://www.cls.cn/detail/2230081",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时33分 ~ 22时21分]"
+        },
+        {
+          "title": "首批 L3 级有条件自动驾驶车型「长安深蓝 SL03 和极狐阿尔法 S6」获准入许可，对行业发展有哪些影响？",
+          "url": "https://www.zhihu.com/question/1983929548224554609",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时15分 ~ 22时21分]"
         },
         {
           "title": "我国首批L3自动驾驶车型获准入许可",
@@ -319,11 +360,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            4
+            4,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时20分 ~ 20时34分]"
+          "appearance_count": 6,
+          "time_info": "[18时20分 ~ 22时21分]"
         },
         {
           "title": "我国首批L3级自动驾驶车型产品获得准入许可",
@@ -340,29 +382,30 @@
           "time_info": "[16时24分 ~ 21时37分]"
         },
         {
-          "title": "首批 L3 级有条件自动驾驶车型「长安深蓝 SL03 和极狐阿尔法 S6」获准入许可，对行业发展有哪些影响？",
-          "url": "https://www.zhihu.com/question/1983929548224554609",
-          "source": "知乎",
+          "title": "扫地机器人鼻祖要破产了",
+          "url": "https://www.baidu.com/s?wd=%E6%89%AB%E5%9C%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%BC%BB%E7%A5%96%E8%A6%81%E7%A0%B4%E4%BA%A7%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            6,
+            25,
             4,
-            1
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时15分 ~ 21时37分]"
+          "appearance_count": 5,
+          "time_info": "[20时33分 ~ 22时21分]"
         },
         {
-          "title": "L3来了！深蓝、极狐首批入围 中汽协：自动驾驶加速迈向“量产应用”",
-          "url": "https://www.cls.cn/detail/2230081",
+          "title": "一图看懂 | L0-L5自动驾驶有何区别，驾驶责任如何划分",
+          "url": "https://www.cls.cn/detail/2229922",
           "source": "财联社热门",
           "ranks": [
-            5,
-            4
+            11,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时33分 ~ 21时37分]"
+          "appearance_count": 6,
+          "time_info": "[19时15分 ~ 22时21分]"
         },
         {
           "title": "我国首批L3自动驾驶车型获准入许可",
@@ -377,39 +420,16 @@
           "time_info": "[17时26分 ~ 18时20分]"
         },
         {
-          "title": "扫地机器人鼻祖要破产了",
-          "url": "https://www.baidu.com/s?wd=%E6%89%AB%E5%9C%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%BC%BB%E7%A5%96%E8%A6%81%E7%A0%B4%E4%BA%A7%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时33分 ~ 21时37分]"
-        },
-        {
-          "title": "一图看懂 | L0-L5自动驾驶有何区别，驾驶责任如何划分",
-          "url": "https://www.cls.cn/detail/2229922",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时15分 ~ 21时37分]"
-        },
-        {
           "title": "机器人年终盘点②：具身智能加速奔赴“场景”，机遇与挑战共存",
           "url": "https://www.cls.cn/detail/2228828",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时33分 ~ 21时37分]"
+          "appearance_count": 5,
+          "time_info": "[20时33分 ~ 22时21分]"
         },
         {
           "title": "模塑科技：与国内某机器人公司签订了零部件采购框架协议，并于近日正式接到客户发出的人形机器人外覆盖件小批量采购订单。",
@@ -545,6 +565,30 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "关于拍人像，有什么摄影简单粗暴的技巧吗？",
+          "url": "https://www.zhihu.com/question/623657704",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时33分 ~ 22时21分]"
+        },
+        {
+          "title": "2025摄影高光大晒",
+          "url": "https://www.douyin.com/hot/2337097",
+          "source": "抖音",
+          "ranks": [
+            27,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 22时21分]"
+        },
+        {
           "title": "小洛熙事件手术监控摄像配置合规",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%B4%9B%E7%86%99%E4%BA%8B%E4%BB%B6%E6%89%8B%E6%9C%AF%E7%9B%91%E6%8E%A7%E6%91%84%E5%83%8F%E9%85%8D%E7%BD%AE%E5%90%88%E8%A7%84%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -555,29 +599,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时17分 ~ 01时13分]"
-        },
-        {
-          "title": "关于拍人像，有什么摄影简单粗暴的技巧吗？",
-          "url": "https://www.zhihu.com/question/623657704",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时33分 ~ 21时37分]"
-        },
-        {
-          "title": "2025摄影高光大晒",
-          "url": "https://www.douyin.com/hot/2337097",
-          "source": "抖音",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 21时37分]"
         }
       ]
     },

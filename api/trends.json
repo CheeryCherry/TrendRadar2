@@ -1,191 +1,11 @@
 {
-  "generated_at": "2025-12-15T19:15:35.724957+08:00",
-  "total_titles_processed": 1512,
+  "generated_at": "2025-12-15T20:34:11.924059+08:00",
+  "total_titles_processed": 1616,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "机器人年终盘点①：宇树科技官宣IPO，掀起行业资本浪潮",
-          "url": "https://www.cls.cn/detail/2228623",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 09时11分]"
-        },
-        {
-          "title": "人形机器人细分龙头年内涨超300% 梳理产业链成本占比居前A股名单",
-          "url": "https://www.cls.cn/detail/2228749",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 07时14分]"
-        },
-        {
-          "title": "首批L3自动驾驶车型获批",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E6%89%B9L3%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%BD%A6%E5%9E%8B%E8%8E%B7%E6%89%B9",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时24分 ~ 19时15分]"
-        },
-        {
-          "title": "我国首批L3自动驾驶车型获准入许可",
-          "url": "https://www.toutiao.com/trending/7583985792616238638/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时15分]"
-        },
-        {
-          "title": "L3级自动驾驶落地关键一步！工信部公布首批准入许可车型",
-          "url": "https://www.cls.cn/detail/2229764",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时26分 ~ 19时15分]"
-        },
-        {
-          "title": "我国首批L3自动驾驶车型获准入许可",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E6%89%B9L3%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%BD%A6%E5%9E%8B%E8%8E%B7%E5%87%86%E5%85%A5%E8%AE%B8%E5%8F%AF%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时26分 ~ 18时20分]"
-        },
-        {
-          "title": "我国首批L3级自动驾驶车型产品获得准入许可",
-          "url": "https://www.cls.cn/detail/2229701",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时24分 ~ 19时15分]"
-        },
-        {
-          "title": "首批 L3 级有条件自动驾驶车型「长安深蓝 SL03 和极狐阿尔法 S6」获准入许可，对行业发展有哪些影响？",
-          "url": "https://www.zhihu.com/question/1983929548224554609",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "模塑科技：与国内某机器人公司签订了零部件采购框架协议，并于近日正式接到客户发出的人形机器人外覆盖件小批量采购订单。",
-          "url": "https://wallstreetcn.com/livenews/3020914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "一图看懂 | L0-L5自动驾驶有何区别，驾驶责任如何划分",
-          "url": "https://www.cls.cn/detail/2229922",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "智元机器人将于12月22日发布擎天租平台",
-          "url": "https://wallstreetcn.com/livenews/3020685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时21分"
-        },
-        {
-          "title": "首批 L3 级自动驾驶车型「长安深蓝 SL03 和极狐阿尔法 S6」获准入许可，意味着什么？对行业发展有何影响？",
-          "url": "https://www.zhihu.com/question/1983929548224554609",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "中国工信部许可两款L3级自动驾驶车型产品，两款产品分别来自长安汽车和北汽蓝谷。",
-          "url": "https://wallstreetcn.com/livenews/3020808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
-          "title": "我国首批L3级自动驾驶车型产品获得准入许可",
-          "url": "https://wallstreetcn.com/livenews/3020803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
-          "title": "L3自动驾驶将在京渝上路试点",
-          "url": "https://s.weibo.com/weibo?q=%23L3%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%B0%86%E5%9C%A8%E4%BA%AC%E6%B8%9D%E4%B8%8A%E8%B7%AF%E8%AF%95%E7%82%B9%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "事关胜宏科技、金力永磁等多只热门股，深证成指、创业板指等指数样本股明日调整",
@@ -245,6 +65,17 @@
           "time_info": "13时21分"
         },
         {
+          "title": "飞沃科技：商业航天业务处于初期阶段，占主营业务收入不足1%",
+          "url": "https://wallstreetcn.com/livenews/3020991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
           "title": "证监会：坚持严监严管，切实提升监管执法效能。强化科技赋能监管，继续重拳惩治财务造假、内幕交易、市场操纵、挪用侵占私募基金财产等证券期货违法违规行为。推动出台上市公司监管条例，积极配合修订证券公司、证券投资基金等重点领域法律法规。",
           "url": "https://wallstreetcn.com/livenews/3020677",
           "source": "华尔街见闻-快讯",
@@ -280,6 +111,17 @@
           "time_info": "[18时20分 ~ 19时15分]"
         },
         {
+          "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
+          "url": "https://wallstreetcn.com/articles/3761417",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 20时34分]"
+        },
+        {
           "title": "科技巨头扎堆买楼，香港写字楼抄底时机来了",
           "url": "https://www.cls.cn/detail/2229124",
           "source": "财联社热门",
@@ -290,6 +132,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时26分 ~ 15时21分]"
+        },
+        {
+          "title": "欧盟抵制美国迫使其修改科技规则的企图",
+          "url": "https://flash.jin10.com/detail/20251215201358251800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "次新基金快速进场，“科技新锐”坚定看多",
@@ -312,6 +165,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
+        },
+        {
+          "title": "韦德布什：将美光科技(MU.O)目标价从220美元上调至300美元。",
+          "url": "https://flash.jin10.com/detail/20251215201305316800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "港股收盘：恒生指数收跌1.34%，恒生科技指数收跌2.48%，科网股多数走低，华虹半导体跌超6%，百度跌超5%；消费股、内险股走高，李宁涨超5%，中国平安涨超2%。",
@@ -358,6 +222,17 @@
           "time_info": "16时24分"
         },
         {
+          "title": "臻镭科技：公司关注到近期“商业航天概念股”因商业航天相关政策及有关事件的影响涨幅明显，公司股票价格短期波动幅度较大；公司卫星领域的营收主要受商业航天行业发展和客户需求影响，存在一定不可预见性，敬请广大投资者明辨信息。",
+          "url": "https://wallstreetcn.com/livenews/3020962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
           "title": "香港交易所正式推出“港交所科技100指数”，越疆入选。",
           "url": "https://wallstreetcn.com/livenews/3020610",
           "source": "华尔街见闻-快讯",
@@ -367,6 +242,223 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "机器人年终盘点①：宇树科技官宣IPO，掀起行业资本浪潮",
+          "url": "https://www.cls.cn/detail/2228623",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 09时11分]"
+        },
+        {
+          "title": "人形机器人细分龙头年内涨超300% 梳理产业链成本占比居前A股名单",
+          "url": "https://www.cls.cn/detail/2228749",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 07时14分]"
+        },
+        {
+          "title": "首批L3自动驾驶车型获批",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E6%89%B9L3%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%BD%A6%E5%9E%8B%E8%8E%B7%E6%89%B9",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时24分 ~ 20时34分]"
+        },
+        {
+          "title": "L3级自动驾驶落地关键一步！工信部公布首批准入许可车型",
+          "url": "https://www.cls.cn/detail/2229764",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时26分 ~ 20时34分]"
+        },
+        {
+          "title": "我国首批L3自动驾驶车型获准入许可",
+          "url": "https://www.toutiao.com/trending/7583985792616238638/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 20时34分]"
+        },
+        {
+          "title": "我国首批L3级自动驾驶车型产品获得准入许可",
+          "url": "https://www.cls.cn/detail/2229701",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时24分 ~ 20时34分]"
+        },
+        {
+          "title": "L3来了！深蓝、极狐首批入围 中汽协：自动驾驶加速迈向“量产应用”",
+          "url": "https://www.cls.cn/detail/2230081",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 20时34分]"
+        },
+        {
+          "title": "我国首批L3自动驾驶车型获准入许可",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E6%89%B9L3%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%BD%A6%E5%9E%8B%E8%8E%B7%E5%87%86%E5%85%A5%E8%AE%B8%E5%8F%AF%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 18时20分]"
+        },
+        {
+          "title": "首批 L3 级有条件自动驾驶车型「长安深蓝 SL03 和极狐阿尔法 S6」获准入许可，对行业发展有哪些影响？",
+          "url": "https://www.zhihu.com/question/1983929548224554609",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 20时34分]"
+        },
+        {
+          "title": "一图看懂 | L0-L5自动驾驶有何区别，驾驶责任如何划分",
+          "url": "https://www.cls.cn/detail/2229922",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 20时34分]"
+        },
+        {
+          "title": "机器人年终盘点②：具身智能加速奔赴“场景”，机遇与挑战共存",
+          "url": "https://www.cls.cn/detail/2228828",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 20时34分]"
+        },
+        {
+          "title": "扫地机器人鼻祖要破产了",
+          "url": "https://www.baidu.com/s?wd=%E6%89%AB%E5%9C%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%BC%BB%E7%A5%96%E8%A6%81%E7%A0%B4%E4%BA%A7%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 20时34分]"
+        },
+        {
+          "title": "模塑科技：与国内某机器人公司签订了零部件采购框架协议，并于近日正式接到客户发出的人形机器人外覆盖件小批量采购订单。",
+          "url": "https://wallstreetcn.com/livenews/3020914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "智元机器人将于12月22日发布擎天租平台",
+          "url": "https://wallstreetcn.com/livenews/3020685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "首批 L3 级自动驾驶车型「长安深蓝 SL03 和极狐阿尔法 S6」获准入许可，意味着什么？对行业发展有何影响？",
+          "url": "https://www.zhihu.com/question/1983929548224554609",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "中国工信部许可两款L3级自动驾驶车型产品，两款产品分别来自长安汽车和北汽蓝谷。",
+          "url": "https://wallstreetcn.com/livenews/3020808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "我国首批L3级自动驾驶车型产品获得准入许可",
+          "url": "https://wallstreetcn.com/livenews/3020803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "L3自动驾驶将在京渝上路试点",
+          "url": "https://s.weibo.com/weibo?q=%23L3%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%B0%86%E5%9C%A8%E4%BA%AC%E6%B8%9D%E4%B8%8A%E8%B7%AF%E8%AF%95%E7%82%B9%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         }
       ]
     },
@@ -433,7 +525,7 @@
     },
     {
       "keyword_group": "摄影 摄像 相机",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "小洛熙事件手术监控摄像配置合规",
@@ -448,13 +540,24 @@
           "time_info": "[00时17分 ~ 01时13分]"
         },
         {
+          "title": "关于拍人像，有什么摄影简单粗暴的技巧吗？",
+          "url": "https://www.zhihu.com/question/623657704",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 20时34分]"
+        },
+        {
           "title": "2025摄影高光大晒",
           "url": "https://www.douyin.com/hot/2337097",
           "source": "抖音",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         }

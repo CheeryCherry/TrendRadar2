@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T16:24:36.405520+08:00",
-  "total_titles_processed": 1225,
+  "generated_at": "2025-12-15T17:27:13.676950+08:00",
+  "total_titles_processed": 1344,
   "failed_sources": [],
   "trends": [
     {
@@ -54,17 +54,6 @@
           "time_info": "[12时35分 ~ 16时24分]"
         },
         {
-          "title": "港股新股果下科技暗盘涨超70%。",
-          "url": "https://wallstreetcn.com/livenews/3020838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
           "title": "恒生科技指数日内跌幅扩大至2%。华虹半导体跌超7%，百度、快手跌超4%，中芯国际跌近4%。",
           "url": "https://wallstreetcn.com/livenews/3020701",
           "source": "华尔街见闻-快讯",
@@ -85,6 +74,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
+        },
+        {
+          "title": "港股新股果下科技暗盘涨超70%。",
+          "url": "https://wallstreetcn.com/livenews/3020838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 17时27分]"
         },
         {
           "title": "科技巨头扎堆买楼，香港写字楼抄底时机来了",
@@ -116,7 +117,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -127,7 +128,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -160,7 +161,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -179,7 +180,7 @@
     },
     {
       "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "机器人年终盘点①：宇树科技官宣IPO，掀起行业资本浪潮",
@@ -205,26 +206,50 @@
           "time_info": "[00时17分 ~ 07时14分]"
         },
         {
+          "title": "我国首批L3自动驾驶车型获准入许可",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E6%89%B9L3%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%BD%A6%E5%9E%8B%E8%8E%B7%E5%87%86%E5%85%A5%E8%AE%B8%E5%8F%AF%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 17时27分]"
+        },
+        {
           "title": "首批L3自动驾驶车型获批",
           "url": "https://www.baidu.com/s?wd=%E9%A6%96%E6%89%B9L3%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%BD%A6%E5%9E%8B%E8%8E%B7%E6%89%B9",
           "source": "百度热搜",
           "ranks": [
-            8
+            8,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时24分 ~ 17时27分]"
         },
         {
           "title": "我国首批L3级自动驾驶车型产品获得准入许可",
           "url": "https://www.cls.cn/detail/2229701",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时24分 ~ 17时27分]"
+        },
+        {
+          "title": "L3级自动驾驶落地关键一步！工信部公布首批准入许可车型",
+          "url": "https://www.cls.cn/detail/2229764",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 17时27分]"
         },
         {
           "title": "智元机器人将于12月22日发布擎天租平台",
@@ -244,7 +269,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -255,7 +280,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -266,7 +291,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         }
@@ -294,7 +319,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },

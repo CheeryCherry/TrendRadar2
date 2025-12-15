@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T17:27:13.676950+08:00",
-  "total_titles_processed": 1344,
+  "generated_at": "2025-12-15T18:20:28.030512+08:00",
+  "total_titles_processed": 1423,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "事关胜宏科技、金力永磁等多只热门股，深证成指、创业板指等指数样本股明日调整",
@@ -63,6 +63,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
+        },
+        {
+          "title": "TCL科技：拟60.45亿元收购深圳华星半导体10.7656%股权",
+          "url": "https://wallstreetcn.com/livenews/3020889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "证监会：坚持严监严管，切实提升监管执法效能。强化科技赋能监管，继续重拳惩治财务造假、内幕交易、市场操纵、挪用侵占私募基金财产等证券期货违法违规行为。推动出台上市公司监管条例，积极配合修订证券公司、证券投资基金等重点领域法律法规。",
@@ -180,7 +191,7 @@
     },
     {
       "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "机器人年终盘点①：宇树科技官宣IPO，掀起行业资本浪潮",
@@ -206,17 +217,6 @@
           "time_info": "[00时17分 ~ 07时14分]"
         },
         {
-          "title": "我国首批L3自动驾驶车型获准入许可",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E6%89%B9L3%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%BD%A6%E5%9E%8B%E8%8E%B7%E5%87%86%E5%85%A5%E8%AE%B8%E5%8F%AF%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 17时27分]"
-        },
-        {
           "title": "首批L3自动驾驶车型获批",
           "url": "https://www.baidu.com/s?wd=%E9%A6%96%E6%89%B9L3%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%BD%A6%E5%9E%8B%E8%8E%B7%E6%89%B9",
           "source": "百度热搜",
@@ -225,8 +225,31 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 18时20分]"
+        },
+        {
+          "title": "我国首批L3自动驾驶车型获准入许可",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E6%89%B9L3%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%BD%A6%E5%9E%8B%E8%8E%B7%E5%87%86%E5%85%A5%E8%AE%B8%E5%8F%AF%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时24分 ~ 17时27分]"
+          "time_info": "[17时26分 ~ 18时20分]"
+        },
+        {
+          "title": "我国首批L3自动驾驶车型获准入许可",
+          "url": "https://www.toutiao.com/trending/7583985792616238638/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "我国首批L3级自动驾驶车型产品获得准入许可",
@@ -234,22 +257,24 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时24分 ~ 17时27分]"
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 18时20分]"
         },
         {
           "title": "L3级自动驾驶落地关键一步！工信部公布首批准入许可车型",
           "url": "https://www.cls.cn/detail/2229764",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 17时27分]"
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 18时20分]"
         },
         {
           "title": "智元机器人将于12月22日发布擎天租平台",
@@ -261,6 +286,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
+        },
+        {
+          "title": "首批 L3 级自动驾驶车型「长安深蓝 SL03 和极狐阿尔法 S6」获准入许可，意味着什么？对行业发展有何影响？",
+          "url": "https://www.zhihu.com/question/1983929548224554609",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "中国工信部许可两款L3级自动驾驶车型产品，两款产品分别来自长安汽车和北汽蓝谷。",

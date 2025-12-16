@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T18:18:59.648352+08:00",
-  "total_titles_processed": 1659,
+  "generated_at": "2025-12-16T19:16:15.242775+08:00",
+  "total_titles_processed": 1743,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时10分 ~ 18时18分]"
+          "appearance_count": 15,
+          "time_info": "[09时10分 ~ 19时16分]"
         },
         {
           "title": "国产算力掀资本化浪潮：沐曦股份上市在即 壁仞科技港股IPO获备案",
@@ -155,7 +155,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -295,7 +295,7 @@
     },
     {
       "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "L3来了！深蓝、极狐首批入围 中汽协：自动驾驶加速迈向“量产应用”",
@@ -336,6 +336,18 @@
           "time_info": "[00时31分 ~ 04时18分]"
         },
         {
+          "title": "扫地机器人鼻祖 iRobot 申请破产，中国公司将获其 100% 股权，它衰落的原因是什么？",
+          "url": "https://www.zhihu.com/question/1983957113387622537",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时22分 ~ 19时16分]"
+        },
+        {
           "title": "首批L3自动驾驶获准入许可，中国无人驾驶进入“商业化应用”新纪元",
           "url": "https://wallstreetcn.com/articles/3761426",
           "source": "华尔街见闻",
@@ -347,8 +359,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时15分 ~ 18时18分]"
+          "appearance_count": 17,
+          "time_info": "[07时15分 ~ 19时16分]"
         },
         {
           "title": "机器人年终盘点②：具身智能加速奔赴“场景”，机遇与挑战共存",
@@ -379,18 +391,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时31分 ~ 11时20分]"
-        },
-        {
-          "title": "扫地机器人鼻祖 iRobot 申请破产，中国公司将获其 100% 股权，它衰落的原因是什么？",
-          "url": "https://www.zhihu.com/question/1983957113387622537",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时22分 ~ 18时18分]"
         },
         {
           "title": "首批L3自动驾驶车型获批",
@@ -441,6 +441,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时20分 ~ 12时32分]"
+        },
+        {
+          "title": "机器人年终盘点③：爆发元年！产业链核心标的全梳理",
+          "url": "https://www.cls.cn/detail/2231203",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时16分]"
         },
         {
           "title": "我国公布首批L3级自动驾驶车型准入许可 高阶智驾渗透率或持续提升",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T20:31:55.497506+08:00",
-  "total_titles_processed": 1838,
+  "generated_at": "2025-12-16T21:36:03.796086+08:00",
+  "total_titles_processed": 1934,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "非农前夕，科技股续跌拖累大盘，特斯拉年内新高，加密货币跌，人民币走强，金银走高",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时10分 ~ 20时31分]"
+          "appearance_count": 18,
+          "time_info": "[09时10分 ~ 21时36分]"
         },
         {
           "title": "国产算力掀资本化浪潮：沐曦股份上市在即 壁仞科技港股IPO获备案",
@@ -138,13 +138,24 @@
           "time_info": "[06时16分 ~ 07时16分]"
         },
         {
+          "title": "社保基金会党组：充分发挥长期资金、耐心资本作用 更好支持科技创新和产业创新深度融合",
+          "url": "https://www.cls.cn/detail/2231125",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 21时36分]"
+        },
+        {
           "title": "微芯科技(MCHP.O)美股盘前上涨2%。",
           "url": "https://flash.jin10.com/detail/20251216200947250800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -155,7 +166,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -287,7 +298,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -343,6 +354,19 @@
           "time_info": "[00时31分 ~ 07时16分]"
         },
         {
+          "title": "扫地机器人鼻祖 iRobot 申请破产，中国公司将获其 100% 股权，它衰落的原因是什么？",
+          "url": "https://www.zhihu.com/question/1983957113387622537",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时22分 ~ 21时36分]"
+        },
+        {
           "title": "首批 L3 级有条件自动驾驶车型「长安深蓝 SL03 和极狐阿尔法 S6」获准入许可，对行业发展有哪些影响？",
           "url": "https://www.zhihu.com/question/1983929548224554609",
           "source": "知乎",
@@ -355,18 +379,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时31分 ~ 05时26分]"
-        },
-        {
-          "title": "扫地机器人鼻祖 iRobot 申请破产，中国公司将获其 100% 股权，它衰落的原因是什么？",
-          "url": "https://www.zhihu.com/question/1983957113387622537",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时22分 ~ 20时31分]"
         },
         {
           "title": "一图看懂 | L0-L5自动驾驶有何区别，驾驶责任如何划分",
@@ -426,6 +438,19 @@
           "time_info": "[00时31分 ~ 11时20分]"
         },
         {
+          "title": "机器人年终盘点③：爆发元年！产业链核心标的全梳理",
+          "url": "https://www.cls.cn/detail/2231203",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时15分 ~ 21时36分]"
+        },
+        {
           "title": "首批L3自动驾驶车型获批",
           "url": "https://www.baidu.com/s?wd=%E9%A6%96%E6%89%B9L3%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%BD%A6%E5%9E%8B%E8%8E%B7%E6%89%B9",
           "source": "百度热搜",
@@ -451,18 +476,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时23分 ~ 06时16分]"
-        },
-        {
-          "title": "机器人年终盘点③：爆发元年！产业链核心标的全梳理",
-          "url": "https://www.cls.cn/detail/2231203",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时15分 ~ 20时31分]"
         },
         {
           "title": "工信部官员谈L3级自动驾驶车型获附条件准入许可：筑牢安全发展“防护栏”",
@@ -620,7 +633,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         }
@@ -650,11 +663,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E5%86%9B%E6%96%B9%E7%A0%94%E5%8F%91%E6%98%86%E8%99%AB%E9%97%B4%E8%B0%8D+%E8%9F%91%E8%9E%82%E8%87%AA%E5%B8%A6%E6%91%84%E5%83%8F%E5%A4%B4",
           "source": "百度热搜",
           "ranks": [
-            28
+            28,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时31分 ~ 21时36分]"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T14:25:02.743823+08:00",
-  "total_titles_processed": 1262,
+  "generated_at": "2025-12-16T15:20:15.992307+08:00",
+  "total_titles_processed": 1357,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "国产算力掀资本化浪潮：沐曦股份上市在即 壁仞科技港股IPO获备案",
@@ -40,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时10分 ~ 14时25分]"
+          "appearance_count": 9,
+          "time_info": "[09时10分 ~ 15时20分]"
         },
         {
           "title": "中国农村的科技含量越来越高",
@@ -51,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时19分 ~ 14时25分]"
+          "appearance_count": 5,
+          "time_info": "[13时19分 ~ 15时20分]"
         },
         {
           "title": "非农数据前夕，科技股续跌拖累大盘，特斯拉创年内新高，加密货币遭挫，人民币走强",
@@ -219,7 +219,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -244,12 +244,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        },
+        {
+          "title": "北证次新股逆势活跃，大鹏工业触及30cm涨停，精创电气涨超15%，南特科技、世昌股份、泰凯英、锦华新材、奥美森等冲高。",
+          "url": "https://wallstreetcn.com/livenews/3021464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         }
       ]
     },
     {
       "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "L3来了！深蓝、极狐首批入围 中汽协：自动驾驶加速迈向“量产应用”",
@@ -290,6 +301,21 @@
           "time_info": "[00时31分 ~ 04时18分]"
         },
         {
+          "title": "首批L3自动驾驶获准入许可，中国无人驾驶进入“商业化应用”新纪元",
+          "url": "https://wallstreetcn.com/articles/3761426",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[07时15分 ~ 15时20分]"
+        },
+        {
           "title": "机器人年终盘点②：具身智能加速奔赴“场景”，机遇与挑战共存",
           "url": "https://www.cls.cn/detail/2228828",
           "source": "财联社热门",
@@ -318,20 +344,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时31分 ~ 11时20分]"
-        },
-        {
-          "title": "首批L3自动驾驶获准入许可，中国无人驾驶进入“商业化应用”新纪元",
-          "url": "https://wallstreetcn.com/articles/3761426",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时15分 ~ 14时25分]"
         },
         {
           "title": "首批L3自动驾驶车型获批",
@@ -404,6 +416,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "小鹏汽车港股跌幅快速收窄至2%。据报道，小鹏获L3级自动驾驶道路测试牌照。",
+          "url": "https://wallstreetcn.com/livenews/3021473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "小鹏获L3级自动驾驶道路测试牌照",
+          "url": "https://wallstreetcn.com/livenews/3021472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         }
       ]
     },
@@ -418,11 +452,12 @@
           "ranks": [
             16,
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时10分 ~ 14时25分]"
+          "appearance_count": 9,
+          "time_info": "[09时10分 ~ 15时20分]"
         },
         {
           "title": "宇宙的结局会是什么",

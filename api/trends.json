@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T12:32:05.448053+08:00",
-  "total_titles_processed": 1088,
+  "generated_at": "2025-12-16T13:19:24.119224+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "国产算力掀资本化浪潮：沐曦股份上市在即 壁仞科技港股IPO获备案",
@@ -40,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时10分 ~ 12时32分]"
+          "appearance_count": 5,
+          "time_info": "[09时10分 ~ 13时19分]"
         },
         {
           "title": "非农数据前夕，科技股续跌拖累大盘，特斯拉创年内新高，加密货币遭挫，人民币走强",
@@ -53,6 +53,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时15分 ~ 07时16分]"
+        },
+        {
+          "title": "中国农村的科技含量越来越高",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9D%91%E7%9A%84%E7%A7%91%E6%8A%80%E5%90%AB%E9%87%8F%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%AB%98%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         },
         {
           "title": "标普500指数初步收跌0.1%，科技板块初步收跌1%，能源板块跌0.8%，电信板块跌0.1%，可选消费板块则涨0.5%，公用事业板块涨0.8%，保健板块涨1.3%。 纳斯达克100指数初步收跌0.5%，成分股中，Strategy初步收跌7.9%，博通、CoStar Group跌6.2%，Arm控股跌5.2%，Booking、ISRG、万豪国际、康卡斯特、特斯拉则涨超3%。 Salesforce初步收跌3.1%，3M、亚马逊、苹果、卡特彼勒跌超1%，领跌道指成分股，宝洁、强生、霍尼韦尔则至少涨约1.6%，Travelers Companies Inc.涨1.9%，安进涨2.2%。",
@@ -227,7 +238,7 @@
     },
     {
       "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "L3来了！深蓝、极狐首批入围 中汽协：自动驾驶加速迈向“量产应用”",
@@ -331,11 +342,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时15分 ~ 12时32分]"
+          "appearance_count": 7,
+          "time_info": "[07时15分 ~ 13时19分]"
         },
         {
           "title": "工信部官员谈L3级自动驾驶车型获附条件准入许可：筑牢安全发展“防护栏”",
@@ -359,6 +371,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时20分 ~ 12时32分]"
+        },
+        {
+          "title": "工业机器人产量增长超20%",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%B8%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%A7%E9%87%8F%E5%A2%9E%E9%95%BF%E8%B6%8520%25%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         },
         {
           "title": "专家分析L3级自动驾驶车型获附条件准入许可：从“技术验证”迈向“量产应用”新阶段",
@@ -394,11 +417,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时10分 ~ 12时32分]"
+          "appearance_count": 5,
+          "time_info": "[09时10分 ~ 13时19分]"
         },
         {
           "title": "美国联邦航空管理局将改革航空安全工作，并设立新的安全办公室。",

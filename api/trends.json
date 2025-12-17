@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T21:31:45.775711+08:00",
-  "total_titles_processed": 1967,
+  "generated_at": "2025-12-17T22:17:39.170134+08:00",
+  "total_titles_processed": 2065,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时14分 ~ 21时31分]"
+          "appearance_count": 20,
+          "time_info": "[07时14分 ~ 22时17分]"
         },
         {
           "title": "非农前夕，科技股续跌拖累大盘，特斯拉年内新高，加密货币跌，人民币走强，金银走高",
@@ -39,11 +39,12 @@
           "ranks": [
             11,
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时18分 ~ 21时31分]"
+          "appearance_count": 7,
+          "time_info": "[18时18分 ~ 22时17分]"
         },
         {
           "title": "香港恒生指数涨1%，恒生科技指数涨1.2%。",
@@ -130,6 +131,29 @@
           "time_info": "[05时16分 ~ 06时16分]"
         },
         {
+          "title": "稀宇科技(MiniMax)通过港交所上市聆讯，官方不予置评",
+          "url": "https://wallstreetcn.com/livenews/3022438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 22时17分]"
+        },
+        {
+          "title": "创业板涨超3%，沐曦涨近700%，算力硬件爆发，金融股走强，宽基ETF放量，碳酸锂期货涨超7％，铂钯期货涨停，沪银涨超5%，港股科技股普涨",
+          "url": "https://wallstreetcn.com/articles/3761532",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 22时17分]"
+        },
+        {
           "title": "社保基金会党组：充分发挥长期资金、耐心资本作用 更好支持科技创新和产业创新深度融合",
           "url": "https://www.cls.cn/detail/2231125",
           "source": "财联社热门",
@@ -175,17 +199,6 @@
           "time_info": "19时15分"
         },
         {
-          "title": "稀宇科技(MiniMax)通过港交所上市聆讯，官方不予置评",
-          "url": "https://wallstreetcn.com/livenews/3022438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
-        },
-        {
           "title": "周二（12月16日），彭博电动汽车价格回报指数跌1.57%，报3383.42点，亚太早盘显著走低，北京时间10:00过后（主要）持续交投于3390点下方，整体呈现出长尾L形走势。 成分股中，Ola Electric Mobility Ltd.跌超7.7%，沃尔沃汽车集团（欧股）收跌超6.8%，“特斯拉劲敌”Rivian跌约4%，Lucid集团跌超2.6%，特斯拉、微宏控股（MVST）、普拉格动力公司、禾赛科技则涨超3%，小马智行涨约7.3%。",
           "url": "https://wallstreetcn.com/livenews/3021907",
           "source": "华尔街见闻-快讯",
@@ -195,17 +208,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
-        },
-        {
-          "title": "创业板涨超3%，沐曦涨近700%，算力硬件爆发，金融股走强，宽基ETF放量，碳酸锂期货涨超7％，铂钯期货涨停，沪银涨超5%，港股科技股普涨",
-          "url": "https://wallstreetcn.com/articles/3761532",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.34%，报7556.33点。 热门中概股里，网易、百胜中国、拼多多初步收跌超1%，蔚来涨0.6%，小鹏涨1.1%，文远知行涨2.8%，小马智行涨7.8%。 ETF中，XtrackersHarvest中证50（ASHS）收跌1.26%，德银嘉实沪深300指数ETF（ASHR）收跌0.97%。 中国科技指数ETF（CQQQ）收跌0.60%，中概互联网指数ETF（KWEB）收跌0.30%。",
@@ -255,7 +257,7 @@
     },
     {
       "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "机器人年终盘点③：爆发元年！产业链核心标的全梳理",
@@ -280,8 +282,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时18分 ~ 21时31分]"
+          "appearance_count": 7,
+          "time_info": "[18时18分 ~ 22时17分]"
         },
         {
           "title": "2025年自动驾驶出租车行业报告：Waymo谋划全球扩张，Zoox、特斯拉还处在起跑线",
@@ -347,9 +349,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
+        },
+        {
+          "title": "全球首条！具身智能机器人在宁德时代电池产线实现规模化落地",
+          "url": "https://wallstreetcn.com/livenews/3022458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "L3级自动驾驶车型产品获准入许可，智能网联汽车迈入量产应用",
@@ -402,6 +415,17 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "如果宇宙是无限的，是不是意味着地球这样的行星肯定不是唯一？",
+          "url": "https://www.zhihu.com/question/588658441",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 22时17分]"
+        },
+        {
           "title": "日本宇宙航空研究开发机构：因设施故障，H3火箭原定于周三的发射活动已被取消。",
           "url": "https://flash.jin10.com/detail/20251217101829030800",
           "source": "金十数据",
@@ -422,17 +446,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
-        },
-        {
-          "title": "如果宇宙是无限的，是不是意味着地球这样的行星肯定不是唯一？",
-          "url": "https://www.zhihu.com/question/588658441",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
         },
         {
           "title": "彭博援引知情人士报道称，已经申请破产的航空公司Spirit Airlines Holdings Inc.考虑与Frontier Group Holdings合并。 Frontier美股盘后涨16%。",

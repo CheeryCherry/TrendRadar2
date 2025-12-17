@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T06:16:15.753613+08:00",
-  "total_titles_processed": 630,
+  "generated_at": "2025-12-18T07:15:38.082022+08:00",
+  "total_titles_processed": 672,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 18,
+      "match_count": 25,
       "titles": [
         {
           "title": "非农数据喜忧参半，标普三连跌，科技股反弹撑纳指，人民币创14个月新高，原油重挫",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 07时15分]"
         },
         {
           "title": "【焦点复盘】科技成长赛道引领反弹，创指百点长阳收复60日线，全市场超3600股飘红",
@@ -25,22 +25,12 @@
           "ranks": [
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 06时16分]"
-        },
-        {
-          "title": "美光科技：将2026财年资本开支预期提高至200亿美元，公司原本预计180亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3022623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 07时15分]"
         },
         {
           "title": "创业板涨超3%，沐曦涨近700%，算力硬件爆发，金融股走强，宽基ETF放量，碳酸锂期货涨超7％，铂钯期货涨停，沪银涨超5%，港股科技股普涨",
@@ -51,19 +41,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 06时16分]"
-        },
-        {
-          "title": "美光科技(MU.O) CEO：预计服务器需求强劲态势将持续至2026年。",
-          "url": "https://flash.jin10.com/detail/20251218053921663800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 07时15分]"
         },
         {
           "title": "美光科技：记忆/存储（芯片）供应将保持“显著的短缺（状态）”。 供应短缺将在2026年持续，并维持更久。 对无法满足客户需求“感到失望”。",
@@ -72,18 +51,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "美光科技(MU.O) CEO：预计紧张的内存市场状况将持续到2026年之后。",
-          "url": "https://flash.jin10.com/detail/20251218053857036800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         },
@@ -101,6 +69,54 @@
           "time_info": "[03时17分 ~ 05时15分]"
         },
         {
+          "title": "美光科技：将2026财年资本开支预期提高至200亿美元，公司原本预计180亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3022623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时15分]"
+        },
+        {
+          "title": "美光科技(MU.O) CEO：预计服务器需求强劲态势将持续至2026年。",
+          "url": "https://flash.jin10.com/detail/20251218053921663800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时15分]"
+        },
+        {
+          "title": "美光科技(MU.O) CEO：预计紧张的内存市场状况将持续到2026年之后。",
+          "url": "https://flash.jin10.com/detail/20251218053857036800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时15分]"
+        },
+        {
+          "title": "美光科技(MU.O) CEO：公司已就2026年的高带宽内存（HBM）供应与客户达成了价格和容量协议。",
+          "url": "https://flash.jin10.com/detail/20251218053445388800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时15分]"
+        },
+        {
           "title": "恒生指数主连夜盘收跌0.57%，报25304点。 恒生科技指数主连夜盘收跌0.81%，报5414点。",
           "url": "https://wallstreetcn.com/livenews/3022574",
           "source": "华尔街见闻-快讯",
@@ -113,37 +129,94 @@
           "time_info": "[04时18分 ~ 05时15分]"
         },
         {
-          "title": "美光科技(MU.O) CEO：公司已就2026年的高带宽内存（HBM）供应与客户达成了价格和容量协议。",
-          "url": "https://flash.jin10.com/detail/20251218053445388800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
           "title": "营收指引远超预期，美光科技乘AI东风业绩“狂飙”",
           "url": "https://flash.jin10.com/detail/20251218051441855800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时15分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.73%，报7501.36点，整体呈现出平滑、持续的高开低走状态。 热门中概股里，拼多多跌3.7%，蔚来、理想跌3.3%，小马智行跌3%，阿里跌1.5%，新东方涨0.6%，百胜中国涨0.7%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.33%，德银嘉实沪深300指数ETF（ASHR）收涨1.17%。 中国科技指数ETF（CQQQ）收跌0.21%，中概互联网指数ETF（KWEB）收跌0.83%。",
           "url": "https://wallstreetcn.com/livenews/3022607",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时15分]"
+        },
+        {
+          "title": "美光科技(MU.O) CFO：2026财年的资本支出将更多集中在下半年。",
+          "url": "https://flash.jin10.com/detail/20251218060137414800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "美光科技(MU.O) CEO：预计将于2026年在纽约开工建设新晶圆厂，该晶圆厂将于2030年前投入运营。",
+          "url": "https://flash.jin10.com/detail/20251218055117685800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "美光科技(MU.O) CEO：预计第二座爱达荷工厂将于2028年投入运营。",
+          "url": "https://flash.jin10.com/detail/20251218055049232800",
+          "source": "金十数据",
+          "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时16分"
+          "time_info": "07时15分"
+        },
+        {
+          "title": "美光科技(MU.O) CEO：首批晶圆将于2027年初从爱达荷州新工厂产出，比此前预期更早。",
+          "url": "https://flash.jin10.com/detail/20251218054945214800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "美光科技美股盘后涨幅重新扩大至5.56%，业绩报告出炉后一度涨超6.77%。",
+          "url": "https://wallstreetcn.com/livenews/3022628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "美光科技(MU.O) CEO：预计2026年资本支出将增至200亿美元，高于此前预计的180亿美元。",
+          "url": "https://flash.jin10.com/detail/20251218054918723800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         },
         {
           "title": "美光科技(MU.O)：第二财季展望反映出收入、毛利率、每股收益和自由现金流均创下历史新高。",
@@ -152,7 +225,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         },
@@ -163,7 +236,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         },
@@ -174,9 +247,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "美光科技：记忆/存储（芯片）供应将保持“显著的短缺（状态）”。 供应短缺将在2026年持续，并维持更久。 对无法满足客户需求“感到失望”。 （估计）只能满足1/2-2/3的关键客户的需求。",
+          "url": "https://wallstreetcn.com/livenews/3022621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         },
         {
           "title": "美光科技(MU.O)2026财年Q1营收136.43亿美元，市场预期为127.64亿美元，上年同期为87.09亿美元。",
@@ -185,7 +269,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         },
@@ -215,7 +299,7 @@
     },
     {
       "keyword_group": "DeepSeek ChatGPT Claude Grok 豆包 doubao Gemini @10",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "谷歌发布效率更高的Gemini 3 AI模型。",
@@ -227,6 +311,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。",
+          "url": "https://flash.jin10.com/detail/20251218063011323800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         },
         {
           "title": "谷歌搜索产品副总裁Robby Stein介绍，在谷歌搜索中，新的Gemini Flash模型将帮助用户进行带有多个条件的更精细搜索。例如，用户可以使用它来查找适合带幼儿的父母参加的最佳晚间活动。",
@@ -251,6 +346,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 02时24分]"
+        },
+        {
+          "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。 在ChatGPT内引入一个APP目录。 将在新年推出第一批经过批准的APPs。",
+          "url": "https://wallstreetcn.com/livenews/3022640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         },
         {
           "title": "谷歌在旗下产品中发布更高效的新版Gemini 3 AI模型",
@@ -328,8 +434,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 07时15分]"
         },
         {
           "title": "英伟达就前工程师泄露自动驾驶商业机密案与法雷奥达成和解",

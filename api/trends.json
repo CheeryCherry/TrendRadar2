@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T12:29:59.958775+08:00",
-  "total_titles_processed": 1091,
+  "generated_at": "2025-12-17T13:18:38.742053+08:00",
+  "total_titles_processed": 1152,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时14分 ~ 12时29分]"
+          "appearance_count": 7,
+          "time_info": "[07时14分 ~ 13时18分]"
         },
         {
           "title": "标普500指数跌幅扩大至0.8%，刷新日低。 道指跌456点，跌幅0.94%，纳指跌128点跌幅0.56%，生物科技指数跌1%，半导体指数跌1.2%，银行指数跌1.2%。 在美上市欧元区ETF跌0.5%，刷新日低。 Spotify ADR跌2.4%，刷新日低，跌幅随后收窄至1%。",
@@ -51,11 +51,12 @@
           "url": "https://flash.jin10.com/detail/20251217120220101800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时29分 ~ 13时18分]"
         },
         {
           "title": "科技巨头推动国会简化人工智能与芯片项目审批流程",
@@ -168,6 +169,17 @@
           "time_info": "[02时24分 ~ 04时18分]"
         },
         {
+          "title": "脑机接口实现用意念控制具身机器人",
+          "url": "https://www.baidu.com/s?wd=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E5%AE%9E%E7%8E%B0%E7%94%A8%E6%84%8F%E5%BF%B5%E6%8E%A7%E5%88%B6%E5%85%B7%E8%BA%AB%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时29分 ~ 13时18分]"
+        },
+        {
           "title": "据The Information：自动驾驶公司Waymo正商讨以逾1000亿美元的估值筹集数十亿美元资金。",
           "url": "https://flash.jin10.com/detail/20251217063449503800",
           "source": "金十数据",
@@ -199,17 +211,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
-        },
-        {
-          "title": "脑机接口实现用意念控制具身机器人",
-          "url": "https://www.baidu.com/s?wd=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E5%AE%9E%E7%8E%B0%E7%94%A8%E6%84%8F%E5%BF%B5%E6%8E%A7%E5%88%B6%E5%85%B7%E8%BA%AB%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时29分"
         }
       ]
     },

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T22:18:24.667591+08:00",
-  "total_titles_processed": 2044,
+  "generated_at": "2025-12-18T23:17:59.077674+08:00",
+  "total_titles_processed": 2159,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 53,
+      "match_count": 56,
       "titles": [
         {
           "title": "非农数据喜忧参半，标普三连跌，科技股反弹撑纳指，人民币创14个月新高，原油重挫",
@@ -66,8 +66,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时33分 ~ 22时18分]"
+          "appearance_count": 3,
+          "time_info": "[21时33分 ~ 23时17分]"
         },
         {
           "title": "美光科技：记忆/存储（芯片）供应将保持“显著的短缺（状态）”。 供应短缺将在2026年持续，并维持更久。 对无法满足客户需求“感到失望”。",
@@ -93,6 +93,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时18分 ~ 16时22分]"
+        },
+        {
+          "title": "英雄城红色传承受年轻人追捧：“硬货”加科技，南昌红色文旅不断创新",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32193479",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时15分 ~ 23时17分]"
         },
         {
           "title": "标普500指数跌幅扩大至1%，科技板块跌1.87%，工业板块跌1.4%，电信板块跌1.2%，能源板块涨1.3%。 道指跌0.4%，纳指跌1.6%，半导体指数跌3.6%。 英伟达目前维持3.2%的跌幅，此前一度跌超4%。",
@@ -204,18 +217,6 @@
           "time_info": "[17时22分 ~ 18时17分]"
         },
         {
-          "title": "英雄城红色传承受年轻人追捧：“硬货”加科技，南昌红色文旅不断创新",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32193479",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时15分 ~ 22时18分]"
-        },
-        {
           "title": "美光科技(MU.O) CEO：公司已就2026年的高带宽内存（HBM）供应与客户达成了价格和容量协议。",
           "url": "https://flash.jin10.com/detail/20251218053445388800",
           "source": "金十数据",
@@ -294,7 +295,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -330,6 +331,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
+        },
+        {
+          "title": "行业ETF美股盘初普遍上涨，半导体ETF涨3.3%，全球科技股指数ETF、科技行业ETF、可选消费ETF至多涨1.66%，网络股指数ETF涨1.11%，银行业ETF涨0.58%，能源业ETF回撤0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3023222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "美光科技(MU.O) CEO：预计将于2026年在纽约开工建设新晶圆厂，该晶圆厂将于2030年前投入运营。",
@@ -431,6 +443,17 @@
           "time_info": "14时24分"
         },
         {
+          "title": "特朗普媒体科技涨29%。",
+          "url": "https://wallstreetcn.com/livenews/3023215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "美光科技(MU.O)：第二财季展望反映出收入、毛利率、每股收益和自由现金流均创下历史新高。",
           "url": "https://flash.jin10.com/detail/20251218050527480800",
           "source": "金十数据",
@@ -473,6 +496,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "美光科技涨14%，创4月9日以来最佳盘中表现。",
+          "url": "https://wallstreetcn.com/livenews/3023212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "美光科技(MU.O)美股盘后涨6%。",
@@ -708,6 +742,18 @@
           "time_info": "[14时24分 ~ 15时19分]"
         },
         {
+          "title": "豆包AI视频能说方言了",
+          "url": "https://www.douyin.com/hot/2340352",
+          "source": "抖音",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时33分 ~ 23时17分]"
+        },
+        {
           "title": "谷歌搜索产品副总裁Robby Stein介绍，在谷歌搜索中，新的Gemini Flash模型将帮助用户进行带有多个条件的更精细搜索。例如，用户可以使用它来查找适合带幼儿的父母参加的最佳晚间活动。",
           "url": "https://wallstreetcn.com/livenews/3022530",
           "source": "华尔街见闻-快讯",
@@ -730,17 +776,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 02时24分]"
-        },
-        {
-          "title": "豆包AI视频能说方言了",
-          "url": "https://www.douyin.com/hot/2340352",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时33分 ~ 22时18分]"
         },
         {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。 在ChatGPT内引入一个APP目录。 将在新年推出第一批经过批准的APPs。",
@@ -812,7 +847,7 @@
     },
     {
       "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "机器人年终盘点④：是谁，迈入量产大门？",
@@ -831,11 +866,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时31分 ~ 22时18分]"
+          "appearance_count": 4,
+          "time_info": "[20时31分 ~ 23时17分]"
         },
         {
           "title": "人形机器人量产路线清晰 机构建议关注产业链投资布局机会",
@@ -886,6 +922,17 @@
           "time_info": "15时19分"
         },
         {
+          "title": "全球首条！人形机器人批量上岗宁德时代电池产线 单日工作量较人工提升3倍",
+          "url": "https://www.cls.cn/detail/2233474",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "Grab与Momenta达成战略合作 加速自动驾驶技术在东南亚落地",
           "url": "https://wallstreetcn.com/livenews/3022969",
           "source": "华尔街见闻-快讯",
@@ -903,18 +950,6 @@
       "match_count": 7,
       "titles": [
         {
-          "title": "马斯克好友掌舵NASA，曾称目标是抢在中国前重返月球",
-          "url": "https://news.ifeng.com/c/8pBpknY3tVX",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时15分 ~ 22时18分]"
-        },
-        {
           "title": "美队确认回归主演《复联 5》并出现在首支预告中，这对漫威电影宇宙意味着什么？",
           "url": "https://www.zhihu.com/question/1984044366617141741",
           "source": "知乎",
@@ -926,8 +961,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时22分 ~ 22时18分]"
+          "appearance_count": 9,
+          "time_info": "[16时22分 ~ 23时17分]"
+        },
+        {
+          "title": "马斯克好友掌舵NASA，曾称目标是抢在中国前重返月球",
+          "url": "https://news.ifeng.com/c/8pBpknY3tVX",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 22时18分]"
         },
         {
           "title": "亿万富翁Jared Isaacman被国会山确认为美国国家航空航天局（NASA）局长。 Isaacman是马斯克旗下SpaceX的宇航员，也是Shift4 Payments Inc.的创始人。",

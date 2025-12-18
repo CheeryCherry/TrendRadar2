@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T12:30:53.544615+08:00",
-  "total_titles_processed": 1090,
+  "generated_at": "2025-12-18T13:18:54.778553+08:00",
+  "total_titles_processed": 1148,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "非农数据喜忧参半，标普三连跌，科技股反弹撑纳指，人民币创14个月新高，原油重挫",
@@ -41,8 +41,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 12时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 13时18分]"
+        },
+        {
+          "title": "存储芯片板块午后拉升，万润科技涨停，成都华微涨超10%，大为股份、普冉股份、德明利、江波龙、香农芯创等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3022850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
           "title": "美光科技：记忆/存储（芯片）供应将保持“显著的短缺（状态）”。 供应短缺将在2026年持续，并维持更久。 对无法满足客户需求“感到失望”。",
@@ -54,6 +65,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "摩根大通将美光科技目标价从220美元上调至350美元。",
+          "url": "https://wallstreetcn.com/livenews/3022848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
           "title": "标普500指数跌幅扩大至1%，科技板块跌1.87%，工业板块跌1.4%，电信板块跌1.2%，能源板块涨1.3%。 道指跌0.4%，纳指跌1.6%，半导体指数跌3.6%。 英伟达目前维持3.2%的跌幅，此前一度跌超4%。",
@@ -165,6 +187,18 @@
           "time_info": "[06时16分 ~ 07时15分]"
         },
         {
+          "title": "派杰投资：将美光科技(MU.O)目标价从200美元上调至275美元。",
+          "url": "https://flash.jin10.com/detail/20251218115107165800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 13时18分]"
+        },
+        {
           "title": "美光科技(MU.O) CFO：2026财年的资本支出将更多集中在下半年。",
           "url": "https://flash.jin10.com/detail/20251218060137414800",
           "source": "金十数据",
@@ -253,15 +287,15 @@
           "time_info": "11时17分"
         },
         {
-          "title": "派杰投资：将美光科技(MU.O)目标价从200美元上调至275美元。",
-          "url": "https://flash.jin10.com/detail/20251218115107165800",
-          "source": "金十数据",
+          "title": "如何看待西安电子科技大学外国语学院调整为语言智能学部？",
+          "url": "https://www.zhihu.com/question/1983769057573496263",
+          "source": "知乎",
           "ranks": [
-            16
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时30分"
+          "time_info": "13时18分"
         },
         {
           "title": "美光科技(MU.O)：第二财季展望反映出收入、毛利率、每股收益和自由现金流均创下历史新高。",
@@ -355,7 +389,7 @@
     },
     {
       "keyword_group": "DeepSeek ChatGPT Claude Grok 豆包 doubao Gemini @10",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "谷歌发布效率更高的Gemini 3 AI模型。",
@@ -413,6 +447,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "豆包日均Tokens超50万亿 千问接入阿里生态 AI应用商业化临界点来了？",
+          "url": "https://www.cls.cn/detail/2233153",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
           "title": "谷歌在旗下产品中发布更高效的新版Gemini 3 AI模型",
@@ -500,6 +545,17 @@
           "time_info": "[09时06分 ~ 12时30分]"
         },
         {
+          "title": "人形机器人量产路线清晰 机构建议关注产业链投资布局机会",
+          "url": "https://www.cls.cn/detail/2232856",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时29分 ~ 13时18分]"
+        },
+        {
           "title": "英伟达就前工程师泄露自动驾驶商业机密案与法雷奥达成和解",
           "url": "https://flash.jin10.com/detail/20251218030517320800",
           "source": "金十数据",
@@ -510,17 +566,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时18分 ~ 05时15分]"
-        },
-        {
-          "title": "人形机器人量产路线清晰 机构建议关注产业链投资布局机会",
-          "url": "https://www.cls.cn/detail/2232856",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时29分 ~ 12时30分]"
         }
       ]
     },

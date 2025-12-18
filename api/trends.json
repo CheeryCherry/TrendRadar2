@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T17:22:02.566312+08:00",
-  "total_titles_processed": 1548,
+  "generated_at": "2025-12-18T18:17:41.808661+08:00",
+  "total_titles_processed": 1637,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "非农数据喜忧参半，标普三连跌，科技股反弹撑纳指，人民币创14个月新高，原油重挫",
@@ -45,6 +45,19 @@
           "time_info": "[00时20分 ~ 16时22分]"
         },
         {
+          "title": "东方AI“震撼”华尔街！美国投资者今年爆买中国科技ETF",
+          "url": "https://www.cls.cn/detail/2233335",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 18时17分]"
+        },
+        {
           "title": "美光科技：记忆/存储（芯片）供应将保持“显著的短缺（状态）”。 供应短缺将在2026年持续，并维持更久。 对无法满足客户需求“感到失望”。",
           "url": "https://wallstreetcn.com/livenews/3022621",
           "source": "华尔街见闻-快讯",
@@ -54,29 +67,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
-        },
-        {
-          "title": "美光科技美股盘前涨超9%，芯片需求旺盛，美光业绩与指引双双“爆表”。",
-          "url": "https://wallstreetcn.com/livenews/3023017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
-          "title": "东方AI“震撼”华尔街！美国投资者今年爆买中国科技ETF",
-          "url": "https://www.cls.cn/detail/2233335",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 17时22分]"
         },
         {
           "title": "如何看待西安电子科技大学外国语学院调整为语言智能学部？",
@@ -190,6 +180,18 @@
           "time_info": "[11时17分 ~ 12时30分]"
         },
         {
+          "title": "美光科技美股盘前涨超9%，芯片需求旺盛，美光业绩与指引双双“爆表”。",
+          "url": "https://wallstreetcn.com/livenews/3023017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时17分]"
+        },
+        {
           "title": "美光科技(MU.O) CEO：公司已就2026年的高带宽内存（HBM）供应与客户达成了价格和容量协议。",
           "url": "https://flash.jin10.com/detail/20251218053445388800",
           "source": "金十数据",
@@ -212,6 +214,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时18分 ~ 05时15分]"
+        },
+        {
+          "title": "韩国计划孵化万家AI等硬科技初创企业",
+          "url": "https://wallstreetcn.com/livenews/3023014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时17分]"
         },
         {
           "title": "营收指引远超预期，美光科技乘AI东风业绩“狂飙”",
@@ -259,17 +273,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
-        },
-        {
-          "title": "韩国计划孵化万家AI等硬科技初创企业",
-          "url": "https://wallstreetcn.com/livenews/3023014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
         },
         {
           "title": "美光科技(MU.O) CFO：2026财年的资本支出将更多集中在下半年。",
@@ -470,6 +473,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "金十数据整理：科技巨头打响“AI军备赛”，钱都烧向了哪里？（二）",
+          "url": "https://flash.jin10.com/detail/20251218174438346800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "金十数据整理：每日科技要闻速递（12月18日）",
           "url": "https://flash.jin10.com/detail/20251218072004017800",
           "source": "金十数据",
@@ -506,11 +520,12 @@
             10,
             8,
             6,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时18分 ~ 17时22分]"
+          "appearance_count": 8,
+          "time_info": "[13时18分 ~ 18时17分]"
         },
         {
           "title": "谷歌发布效率更高的Gemini 3 AI模型。",
@@ -533,6 +548,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "字节豆包大模型重磅升级",
+          "url": "https://www.toutiao.com/trending/7584012466800525363/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 18时17分]"
+        },
+        {
+          "title": "Claude Code 改一个 bug 就引入另一个 bug，陷入死循环怎么办？",
+          "url": "https://www.zhihu.com/question/1984549559230289347",
+          "source": "知乎",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 18时17分]"
         },
         {
           "title": "谷歌发布 Gemini 3 Flash，相比上一代 2.5 Flash 有哪些提升？使用体验如何？",
@@ -558,17 +596,6 @@
           "time_info": "[01时20分 ~ 02时24分]"
         },
         {
-          "title": "字节豆包大模型重磅升级",
-          "url": "https://www.toutiao.com/trending/7584012466800525363/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 17时22分]"
-        },
-        {
           "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
           "url": "https://wallstreetcn.com/articles/3761592",
           "source": "华尔街见闻",
@@ -590,17 +617,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 02时24分]"
-        },
-        {
-          "title": "Claude Code 改一个 bug 就引入另一个 bug，陷入死循环怎么办？",
-          "url": "https://www.zhihu.com/question/1984549559230289347",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 17时22分]"
         },
         {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。 在ChatGPT内引入一个APP目录。 将在新年推出第一批经过批准的APPs。",
@@ -748,18 +764,19 @@
     },
     {
       "keyword_group": "月球 登月 火星 宇宙 飞船 航空 @5",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美队确认回归主演《复联 5》并出现在首支预告中，这对漫威电影宇宙意味着什么？",
           "url": "https://www.zhihu.com/question/1984044366617141741",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 17时22分]"
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 18时17分]"
         },
         {
           "title": "亿万富翁Jared Isaacman被国会山确认为美国国家航空航天局（NASA）局长。 Isaacman是马斯克旗下SpaceX的宇航员，也是Shift4 Payments Inc.的创始人。",
@@ -805,6 +822,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
+        },
+        {
+          "title": "“同仁堂宇宙”里有多少在贴牌山寨",
+          "url": "https://www.toutiao.com/trending/7585004989568286774/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         }
       ]
     }

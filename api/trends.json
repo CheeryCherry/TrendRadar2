@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T14:24:07.517580+08:00",
-  "total_titles_processed": 1339,
+  "generated_at": "2025-12-19T15:18:23.768795+08:00",
+  "total_titles_processed": 1448,
   "failed_sources": [],
   "trends": [
     {
@@ -53,8 +53,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 14时24分]"
+          "appearance_count": 6,
+          "time_info": "[12时31分 ~ 15时18分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.63%，报25675点。 恒生科技指数主连夜盘收涨0.59%，报5466点。",
@@ -79,6 +79,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时23分 ~ 04时16分]"
+        },
+        {
+          "title": "媒体：中国科技进步 路透社本不必焦虑",
+          "url": "https://www.toutiao.com/trending/7585365702878432774/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时23分 ~ 15时18分]"
         },
         {
           "title": "纳斯达克100指数涨幅扩大至2%，成分股美光科技涨11.3%，核电股Constellation Energy（CEG）涨7.7%，Applovin涨6.6%，拉姆研究涨6.2%，露露柠檬涨5.4%，特斯拉涨3.8%，Strategy（MSTR）涨3.7%，AMD涨3.2%。 标普500质素目前涨1.4%，道指涨448点涨幅超过0.9%，纳指涨1.9%，半导体指数涨3.5%，银行指数涨0.9%。",
@@ -115,17 +127,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时16分]"
-        },
-        {
-          "title": "媒体：中国科技进步 路透社本不必焦虑",
-          "url": "https://www.toutiao.com/trending/7585365702878432774/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 14时24分]"
         },
         {
           "title": "环球时报：中国科技进步，路透社本不必焦虑",
@@ -319,19 +320,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时09分 ~ 14时24分]"
+          "appearance_count": 8,
+          "time_info": "[09时09分 ~ 15时18分]"
         },
         {
           "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
           "url": "https://www.cls.cn/detail/2234192",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时20分 ~ 14时24分]"
+          "appearance_count": 7,
+          "time_info": "[11时20分 ~ 15时18分]"
         },
         {
           "title": "特朗普：美国将在月球部署核反应堆",
@@ -378,6 +380,18 @@
           "time_info": "09时09分"
         },
         {
+          "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
+          "url": "https://www.cls.cn/detail/2234355",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时23分 ~ 15时18分]"
+        },
+        {
           "title": "特朗普签署行政命令 重申2028年登月目标",
           "url": "https://flash.jin10.com/detail/20251219054334067800",
           "source": "金十数据",
@@ -400,17 +414,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时15分]"
-        },
-        {
-          "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
-          "url": "https://www.cls.cn/detail/2234355",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 14时24分]"
         },
         {
           "title": "美国众议院委员会通过法案，以避免政府停摆期间出现航空中断。",
@@ -480,11 +483,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            30
+            30,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时17分 ~ 14时24分]"
+          "appearance_count": 4,
+          "time_info": "[13时17分 ~ 15时18分]"
         },
         {
           "title": "据商务部商务大数据，11月份，重点监测平台运动相机、具身智能机器人、一级能效电视销量增长均超20%。",

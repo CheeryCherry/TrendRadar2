@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T21:31:16.388421+08:00",
-  "total_titles_processed": 2110,
+  "generated_at": "2025-12-19T22:17:10.862038+08:00",
+  "total_titles_processed": 2203,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
@@ -353,6 +353,17 @@
           "time_info": "09时09分"
         },
         {
+          "title": "据港交所文件：北京智谱华章科技股份有限公司通过港交所上市聆讯。",
+          "url": "https://wallstreetcn.com/livenews/3024000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "美光科技涨幅从17%收窄至10%。",
           "url": "https://wallstreetcn.com/livenews/3023238",
           "source": "华尔街见闻-快讯",
@@ -381,7 +392,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -494,11 +505,12 @@
           "ranks": [
             16,
             15,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时17分 ~ 21时31分]"
+          "appearance_count": 8,
+          "time_info": "[18时17分 ~ 22时17分]"
         },
         {
           "title": "特朗普：美国将在月球部署核反应堆",
@@ -553,8 +565,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时29分 ~ 21时31分]"
+          "appearance_count": 5,
+          "time_info": "[20时29分 ~ 22时17分]"
         },
         {
           "title": "特朗普签署行政命令 重申2028年登月目标",
@@ -617,7 +629,7 @@
     },
     {
       "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "机器人年终盘点⑤：欢迎来到“机器人”纪元 一图看懂产业星图",
@@ -672,6 +684,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[16时22分 ~ 20时29分]"
+        },
+        {
+          "title": "岚图L3级自动驾驶完成11万公里实测，加速推进量产准入",
+          "url": "https://wallstreetcn.com/livenews/3024015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "1-11月全国网上零售额增长9.1%，智能穿戴、智能机器人分别增长22.1%和19.4%",
@@ -738,7 +761,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T01:16:02.209345+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2025-12-20T02:22:29.831807+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             25,
-            13
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 02时22分]"
         },
         {
           "title": "王力宏演唱会上机器人伴舞秀空翻",
@@ -28,8 +29,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 02时22分]"
         }
       ]
     },
@@ -75,19 +76,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 02时22分]"
         },
         {
           "title": "特朗普签署行政命令，重申2028年登月目标",
           "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 02时22分]"
         }
       ]
     },
@@ -101,11 +103,12 @@
           "source": "今日头条",
           "ranks": [
             6,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 02时22分]"
         }
       ]
     }

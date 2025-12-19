@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T15:18:23.768795+08:00",
-  "total_titles_processed": 1448,
+  "generated_at": "2025-12-19T16:22:19.588703+08:00",
+  "total_titles_processed": 1574,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
@@ -50,11 +50,23 @@
           "ranks": [
             9,
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时31分 ~ 15时18分]"
+          "appearance_count": 7,
+          "time_info": "[12时31分 ~ 16时22分]"
+        },
+        {
+          "title": "港股收盘：恒生指数收涨0.75%，恒生科技指数收涨1.12%，小鹏汽车涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3023753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.63%，报25675点。 恒生科技指数主连夜盘收涨0.59%，报5466点。",
@@ -272,6 +284,17 @@
           "time_info": "06时15分"
         },
         {
+          "title": "美国上市的中国科技ETF为何全线吸金",
+          "url": "https://www.toutiao.com/trending/7585451434351529526/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "A股商业航天概念延续强势，华体科技2连板，广联航空、瑞华泰、优机股份涨超10%，国机精工、航天智装、通宇通讯、西部材料涨超7%。",
           "url": "https://wallstreetcn.com/livenews/3023466",
           "source": "华尔街见闻-快讯",
@@ -320,8 +343,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时09分 ~ 15时18分]"
+          "appearance_count": 9,
+          "time_info": "[09时09分 ~ 16时22分]"
         },
         {
           "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
@@ -332,8 +355,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时20分 ~ 15时18分]"
+          "appearance_count": 8,
+          "time_info": "[11时20分 ~ 16时22分]"
         },
         {
           "title": "特朗普：美国将在月球部署核反应堆",
@@ -385,11 +408,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时23分 ~ 15时18分]"
+          "appearance_count": 4,
+          "time_info": "[14时23分 ~ 16时22分]"
         },
         {
           "title": "特朗普签署行政命令 重申2028年登月目标",
@@ -452,7 +476,7 @@
     },
     {
       "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "机器人年终盘点⑤：欢迎来到“机器人”纪元 一图看懂产业星图",
@@ -484,11 +508,12 @@
           "ranks": [
             9,
             30,
-            24
+            24,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时17分 ~ 15时18分]"
+          "appearance_count": 5,
+          "time_info": "[13时17分 ~ 16时22分]"
         },
         {
           "title": "据商务部商务大数据，11月份，重点监测平台运动相机、具身智能机器人、一级能效电视销量增长均超20%。",
@@ -534,6 +559,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        },
+        {
+          "title": "王力宏演唱会机器人伴舞",
+          "url": "https://www.douyin.com/hot/2340808",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "王力宏全球首个机器人舞台秀",

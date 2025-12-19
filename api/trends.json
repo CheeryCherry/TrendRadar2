@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T09:09:26.918834+08:00",
-  "total_titles_processed": 881,
+  "generated_at": "2025-12-19T11:20:24.333941+08:00",
+  "total_titles_processed": 1048,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
@@ -115,6 +115,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "金十图示：2025年12月19日（周五）全球主要科技与互联网公司市值变化",
+          "url": "https://flash.jin10.com/detail/20251219105530610800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
           "title": "美国CPI通胀报告出炉当天，标普500指数初步收涨0.8%，可选消费板块涨1.9%，电信、科技板块涨1.5%，能源板块跌1.4%。 纳斯达克100指数初步收涨1.5%，成分股中，美光科技涨10.4%，拉姆研究涨6.5%，核电股CEG涨6.1%，Applovin、星巴克、Palantir、科磊、Doordash、特斯拉至少涨3.9%，贝克休斯则跌1.8%，PAYX跌2.1%，华纳兄弟探索WBD跌2.3%，Diamondback Energy跌4.9%。 亚马逊初步收涨2.5%，英伟达涨2%，Merck涨1.8%，微软涨1.7%，领跑道指成分股，联合健康、雪佛龙、宝洁则跌超1%。 半导体指数中行2.5%。",
           "url": "https://wallstreetcn.com/livenews/3023339",
           "source": "华尔街见闻-快讯",
@@ -132,9 +143,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "金十图示：2025年12月19日（周五）中国科技互联网公司市值排名TOP 50一览",
+          "url": "https://flash.jin10.com/detail/20251219105218325800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         },
         {
           "title": "文件显示：特朗普媒体科技集团(DJT.O)与TAE签署了无担保可转换本票，据此TMTG同意向TAE提供2亿美元资金。",
@@ -165,7 +187,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
         },
@@ -203,13 +225,24 @@
           "time_info": "06时15分"
         },
         {
+          "title": "A股商业航天概念延续强势，华体科技2连板，广联航空、瑞华泰、优机股份涨超10%，国机精工、航天智装、通宇通讯、西部材料涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3023466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
           "title": "金十数据整理：每日科技要闻速递（12月19日）",
           "url": "https://flash.jin10.com/detail/20251219071347328800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
         },
@@ -228,8 +261,20 @@
     },
     {
       "keyword_group": "月球 登月 火星 宇宙 飞船 航空 @5",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "特朗普签署行政命令，重申2028年登月目标",
+          "url": "https://news.ifeng.com/c/8pCbX95hrxq",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时09分 ~ 11时20分]"
+        },
         {
           "title": "特朗普：美国将在月球部署核反应堆",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%9C%A8%E6%9C%88%E7%90%83%E9%83%A8%E7%BD%B2%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86",
@@ -237,18 +282,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时09分"
-        },
-        {
-          "title": "特朗普签署行政命令，重申2028年登月目标",
-          "url": "https://news.ifeng.com/c/8pCbX95hrxq",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
         },
@@ -259,9 +293,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
+          "url": "https://www.cls.cn/detail/2234192",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         },
         {
           "title": "特朗普下令要求美国人2028年登月",
@@ -270,7 +315,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
         },
@@ -281,7 +326,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
         },
@@ -345,8 +390,81 @@
       ]
     },
     {
+      "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "机器人年终盘点⑤：欢迎来到“机器人”纪元 一图看懂产业星图",
+          "url": "https://www.cls.cn/detail/2233723",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时16分]"
+        },
+        {
+          "title": "1-11月全国网上零售额增长9.1%，智能穿戴、智能机器人分别增长22.1%和19.4%",
+          "url": "https://wallstreetcn.com/livenews/3023518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "深成指、创业板指双双涨超1%，沪指涨0.53%，可控核聚变、商业航天、智能驾驶、机器人等方向领涨，沪深京三市超4600股飘红。",
+          "url": "https://wallstreetcn.com/livenews/3023493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "恒生科技指数涨幅扩大至1%。地平线机器人涨近7%，小鹏汽车涨近5%。",
+          "url": "https://wallstreetcn.com/livenews/3023489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "银河通用机器人完成3亿美元新一轮融资，中国移动链长基金领投",
+          "url": "https://wallstreetcn.com/livenews/3023475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "王力宏全球首个机器人舞台秀",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%88%9E%E5%8F%B0%E7%A7%80&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek ChatGPT Claude Grok 豆包 doubao Gemini @10",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌：扩展内容透明度工具，帮助更轻松地识别人工智能生成内容。图像和视频验证现已在Gemini应用支持的所有语言和国家/地区可用。",
@@ -359,6 +477,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时23分 ~ 03时15分]"
+        },
+        {
+          "title": "豆包AI视频能说方言了",
+          "url": "https://www.douyin.com/hot/2340352",
+          "source": "抖音",
+          "ranks": [
+            22,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时09分 ~ 11时20分]"
+        },
+        {
+          "title": "新华社：2025“年度字词”揭晓，年度国内词为“深度求索（DeepSeek）",
+          "url": "https://wallstreetcn.com/livenews/3023500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         },
         {
           "title": "OpenAI：正在ChatGPT个人订阅用户中初步部署年龄预测模型。",
@@ -381,46 +522,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
-        },
-        {
-          "title": "豆包AI视频能说方言了",
-          "url": "https://www.douyin.com/hot/2340352",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "机器人年终盘点⑤：欢迎来到“机器人”纪元 一图看懂产业星图",
-          "url": "https://www.cls.cn/detail/2233723",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时16分]"
-        },
-        {
-          "title": "王力宏全球首个机器人舞台秀",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%88%9E%E5%8F%B0%E7%A7%80&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T00:18:01.398996+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-12-21T01:13:15.951116+08:00",
+  "total_titles_processed": 358,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
-        },
-        {
-          "title": "马斯克点赞王力宏伴舞机器人",
-          "url": "https://www.douyin.com/hot/2342006",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 01时13分]"
         },
         {
           "title": "长安汽车获得首块L3级自动驾驶专用正式号牌，天枢智能开启L3时代",
@@ -36,9 +25,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时13分]"
+        },
+        {
+          "title": "马斯克点赞王力宏伴舞机器人",
+          "url": "https://www.douyin.com/hot/2342006",
+          "source": "抖音",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 01时13分]"
         },
         {
           "title": "Robotaxi为特斯拉注入新叙事 但自动驾驶技术路线仍未收敛",
@@ -48,8 +49,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 01时13分]"
         }
       ]
     },
@@ -62,11 +63,12 @@
           "url": "https://wallstreetcn.com/articles/3761704",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 01时13分]"
         },
         {
           "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
@@ -76,8 +78,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 01时13分]"
         },
         {
           "title": "鸿蒙盛典黑科技大盘点",
@@ -101,11 +103,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348156&amp;topic_name=%E8%80%81%E7%BE%8E%E5%86%B2%E5%A4%AA%E7%A9%BA%E8%B5%9B%E9%81%93%2C%E8%AA%93%E5%BD%93%E6%9C%88%E7%90%83%E8%AF%9D%E4%BA%8B%E4%BA%BA",
           "source": "贴吧",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 01时13分]"
         }
       ]
     },
@@ -121,8 +124,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 01时13分]"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T01:13:15.951116+08:00",
-  "total_titles_processed": 358,
+  "generated_at": "2025-12-21T02:19:42.384423+08:00",
+  "total_titles_processed": 376,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 01时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 02时19分]"
         },
         {
           "title": "长安汽车获得首块L3级自动驾驶专用正式号牌，天枢智能开启L3时代",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时19分]"
         },
         {
           "title": "马斯克点赞王力宏伴舞机器人",
@@ -49,8 +49,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 01时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 02时19分]"
         }
       ]
     },
@@ -67,8 +67,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 01时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 02时19分]"
         },
         {
           "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
@@ -78,8 +78,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 01时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 02时19分]"
         },
         {
           "title": "鸿蒙盛典黑科技大盘点",
@@ -104,11 +104,12 @@
           "source": "贴吧",
           "ranks": [
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 01时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 02时19分]"
         }
       ]
     },
@@ -121,11 +122,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32219686",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 01时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 02时19分]"
         }
       ]
     }

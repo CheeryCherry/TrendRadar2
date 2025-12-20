@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T19:12:33.447182+08:00",
-  "total_titles_processed": 1362,
+  "generated_at": "2025-12-20T20:27:27.166351+08:00",
+  "total_titles_processed": 1422,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时04分 ~ 19时12分]"
+          "appearance_count": 12,
+          "time_info": "[09时04分 ~ 20时27分]"
         },
         {
           "title": "中国桥“上新”了哪些黑科技",
@@ -75,8 +75,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时15分 ~ 19时12分]"
+          "appearance_count": 4,
+          "time_info": "[17时15分 ~ 20时27分]"
         },
         {
           "title": "美方“日出计划”欲将加沙开发成高科技大都市",
@@ -176,6 +176,18 @@
       "match_count": 13,
       "titles": [
         {
+          "title": "Robotaxi为特斯拉注入新叙事 但自动驾驶技术路线仍未收敛",
+          "url": "https://www.cls.cn/detail/2234730",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时11分 ~ 20时27分]"
+        },
+        {
           "title": "王力宏演唱会机器人伴舞",
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E8%88%9E",
           "source": "bilibili 热搜",
@@ -192,18 +204,6 @@
           "time_info": "[00时19分 ~ 12时21分]"
         },
         {
-          "title": "Robotaxi为特斯拉注入新叙事 但自动驾驶技术路线仍未收敛",
-          "url": "https://www.cls.cn/detail/2234730",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时11分 ~ 19时12分]"
-        },
-        {
           "title": "马斯克转发宇树机器人伴舞视频并留言：印象深刻。",
           "url": "https://flash.jin10.com/detail/20251220133230149800",
           "source": "金十数据",
@@ -213,11 +213,12 @@
             10,
             15,
             16,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时23分 ~ 19时12分]"
+          "appearance_count": 7,
+          "time_info": "[14时23分 ~ 20时27分]"
         },
         {
           "title": "马斯克转发宇树机器人伴舞视频：印象深刻",
@@ -247,6 +248,20 @@
           "time_info": "[12时21分 ~ 13时15分]"
         },
         {
+          "title": "宇树机器人给王力宏伴舞 马斯克点赞",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%BB%99%E7%8E%8B%E5%8A%9B%E5%AE%8F%E4%BC%B4%E8%88%9E+%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            5,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时19分 ~ 20时27分]"
+        },
+        {
           "title": "王力宏演唱会上机器人伴舞秀空翻",
           "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E8%88%9E%E7%A7%80%E7%A9%BA%E7%BF%BB",
           "source": "百度热搜",
@@ -271,20 +286,6 @@
           "time_info": "[09时04分 ~ 14时23分]"
         },
         {
-          "title": "宇树机器人给王力宏伴舞 马斯克点赞",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%BB%99%E7%8E%8B%E5%8A%9B%E5%AE%8F%E4%BC%B4%E8%88%9E+%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            5,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时19分 ~ 19时12分]"
-        },
-        {
           "title": "马斯克点赞王力宏伴舞机器人",
           "url": "https://www.douyin.com/hot/2342006",
           "source": "抖音",
@@ -295,8 +296,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时23分 ~ 19时12分]"
+          "appearance_count": 5,
+          "time_info": "[14时23分 ~ 20时27分]"
         },
         {
           "title": "王兴兴说机器人时刻还差一个临界点",
@@ -386,11 +387,12 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时19分 ~ 19时12分]"
+          "appearance_count": 5,
+          "time_info": "[16时19分 ~ 20时27分]"
         },
         {
           "title": "星链：星链互联网服务将很快在法国航空全机队上线。",

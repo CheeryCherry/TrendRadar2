@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T21:23:54.363560+08:00",
-  "total_titles_processed": 1491,
+  "generated_at": "2025-12-20T22:14:12.327630+08:00",
+  "total_titles_processed": 1545,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时11分 ~ 21时23分]"
+          "appearance_count": 13,
+          "time_info": "[11时11分 ~ 22时14分]"
         },
         {
           "title": "王力宏演唱会机器人伴舞",
@@ -132,6 +132,18 @@
           "time_info": "[14时23分 ~ 20时27分]"
         },
         {
+          "title": "宇树机器人，在王力宏演唱会上大秀高难度空翻，马斯克点赞",
+          "url": "https://www.cls.cn/detail/2235476",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时23分 ~ 22时14分]"
+        },
+        {
           "title": "王兴兴说机器人时刻还差一个临界点",
           "url": "https://www.toutiao.com/trending/7585814755705622062/",
           "source": "今日头条",
@@ -168,17 +180,6 @@
           "time_info": "[18时15分 ~ 19时12分]"
         },
         {
-          "title": "宇树机器人，在王力宏演唱会上大秀高难度空翻，马斯克点赞",
-          "url": "https://www.cls.cn/detail/2235476",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时23分"
-        },
-        {
           "title": "马斯克点赞王力宏伴舞机器人",
           "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E%E7%8E%8B%E5%8A%9B%E5%AE%8F%E4%BC%B4%E8%88%9E%E6%9C%BA%E5%99%A8%E4%BA%BA%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -204,19 +205,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时04分 ~ 21时23分]"
-        },
-        {
-          "title": "中国桥“上新”了哪些黑科技",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%A1%A5%E2%80%9C%E4%B8%8A%E6%96%B0%E2%80%9D%E4%BA%86%E5%93%AA%E4%BA%9B%E9%BB%91%E7%A7%91%E6%8A%80",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 15时14分]"
+          "appearance_count": 15,
+          "time_info": "[09时04分 ~ 22时14分]"
         },
         {
           "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
@@ -228,8 +218,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时15分 ~ 21时23分]"
+          "appearance_count": 7,
+          "time_info": "[17时15分 ~ 22时14分]"
+        },
+        {
+          "title": "中国桥“上新”了哪些黑科技",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%A1%A5%E2%80%9C%E4%B8%8A%E6%96%B0%E2%80%9D%E4%BA%86%E5%93%AA%E4%BA%9B%E9%BB%91%E7%A7%91%E6%8A%80",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 15时14分]"
         },
         {
           "title": "美国纽约州长签署先进AI限制法案，遭科技行业反对",
@@ -365,6 +366,22 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "老美冲太空赛道,誓当月球话事人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348156&amp;topic_name=%E8%80%81%E7%BE%8E%E5%86%B2%E5%A4%AA%E7%A9%BA%E8%B5%9B%E9%81%93%2C%E8%AA%93%E5%BD%93%E6%9C%88%E7%90%83%E8%AF%9D%E4%BA%8B%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            5,
+            7,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时19分 ~ 22时14分]"
+        },
+        {
           "title": "特朗普签署行政命令，重申2028年登月目标",
           "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
           "source": "澎湃新闻",
@@ -391,21 +408,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时19分 ~ 07时15分]"
-        },
-        {
-          "title": "老美冲太空赛道,誓当月球话事人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348156&amp;topic_name=%E8%80%81%E7%BE%8E%E5%86%B2%E5%A4%AA%E7%A9%BA%E8%B5%9B%E9%81%93%2C%E8%AA%93%E5%BD%93%E6%9C%88%E7%90%83%E8%AF%9D%E4%BA%8B%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            5,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时19分 ~ 21时23分]"
         },
         {
           "title": "星链：星链互联网服务将很快在法国航空全机队上线。",
@@ -446,11 +448,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32219686",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时23分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时23分 ~ 22时14分]"
         }
       ]
     }

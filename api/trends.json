@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T21:24:37.006344+08:00",
-  "total_titles_processed": 1276,
+  "generated_at": "2025-12-21T22:14:45.263002+08:00",
+  "total_titles_processed": 1313,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时25分 ~ 21时24分]"
+          "appearance_count": 15,
+          "time_info": "[11时25分 ~ 22时14分]"
         },
         {
           "title": "宇树机器人，在王力宏演唱会上大秀高难度空翻，马斯克点赞",
@@ -31,8 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时17分 ~ 21时24分]"
+          "appearance_count": 28,
+          "time_info": "[00时17分 ~ 22时14分]"
         },
         {
           "title": "中国机器人获机器人格斗冠军",
@@ -45,8 +45,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时33分 ~ 21时24分]"
+          "appearance_count": 12,
+          "time_info": "[12时33分 ~ 22时14分]"
         },
         {
           "title": "Robotaxi为特斯拉注入新叙事 但自动驾驶技术路线仍未收敛",
@@ -88,6 +88,21 @@
           "time_info": "[00时18分 ~ 04时16分]"
         },
         {
+          "title": "周末要闻汇总：首块L3级自动驾驶牌照诞生；摩尔线程发布新一代GPU架构",
+          "url": "https://www.cls.cn/detail/2235638",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时16分 ~ 22时14分]"
+        },
+        {
           "title": "中国机器人在格斗机器人大赛中夺冠",
           "url": "https://flash.jin10.com/detail/20251221102829260800",
           "source": "金十数据",
@@ -103,20 +118,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时26分 ~ 17时15分]"
-        },
-        {
-          "title": "周末要闻汇总：首块L3级自动驾驶牌照诞生；摩尔线程发布新一代GPU架构",
-          "url": "https://www.cls.cn/detail/2235638",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时16分 ~ 21时24分]"
         },
         {
           "title": "渝AD0001Z 首块L3自动驾驶号牌发布",
@@ -204,11 +205,12 @@
           "url": "https://www.toutiao.com/trending/7586061417942368275/",
           "source": "今日头条",
           "ranks": [
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时28分 ~ 21时24分]"
+          "appearance_count": 3,
+          "time_info": "[20时28分 ~ 22时14分]"
         },
         {
           "title": "宇树科技首发人形机器人 AppStore，用户可自行下载各项动作和预设，此举有哪些意义？",
@@ -310,17 +312,6 @@
           "time_info": "[16时20分 ~ 20时28分]"
         },
         {
-          "title": "锡华科技：将于12月23日在上交所主板上市",
-          "url": "https://wallstreetcn.com/livenews/3024433",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时24分"
-        },
-        {
           "title": "金十数据整理：每日科技要闻速递（12月21日）",
           "url": "https://flash.jin10.com/detail/20251221090746618800",
           "source": "金十数据",
@@ -334,6 +325,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时26分 ~ 15时15分]"
+        },
+        {
+          "title": "锡华科技：将于12月23日在上交所主板上市",
+          "url": "https://wallstreetcn.com/livenews/3024433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 22时14分]"
         },
         {
           "title": "鸿蒙盛典黑科技大盘点",
@@ -350,7 +353,7 @@
     },
     {
       "keyword_group": "DeepSeek ChatGPT Claude Grok 豆包 doubao Gemini @10",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谁敢听这个豆包唱歌",
@@ -381,6 +384,17 @@
           "time_info": "[14时22分 ~ 17时15分]"
         },
         {
+          "title": "「韧」和「深度求索（DeepSeek）」当选 2025 年度字词，你觉得准确吗？你心中年度字词是什么？",
+          "url": "https://www.zhihu.com/question/1985299550479542062",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 22时14分]"
+        },
+        {
           "title": "豆包狂飙，字节AI再亮剑",
           "url": "https://wallstreetcn.com/articles/3761770",
           "source": "华尔街见闻",
@@ -392,15 +406,15 @@
           "time_info": "12时33分"
         },
         {
-          "title": "「韧」和「深度求索（DeepSeek）」当选 2025 年度字词，你觉得准确吗？你心中年度字词是什么？",
-          "url": "https://www.zhihu.com/question/1985299550479542062",
-          "source": "知乎",
+          "title": "Gemini数学实力测试",
+          "url": "https://search.bilibili.com/all?keyword=Gemini%E6%95%B0%E5%AD%A6%E5%AE%9E%E5%8A%9B%E6%B5%8B%E8%AF%95",
+          "source": "bilibili 热搜",
           "ranks": [
-            15
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时24分"
+          "time_info": "22时14分"
         }
       ]
     },
@@ -421,11 +435,12 @@
             20,
             21,
             24,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时17分 ~ 21时24分]"
+          "appearance_count": 28,
+          "time_info": "[00时17分 ~ 22时14分]"
         },
         {
           "title": "今年前11个月我国航空货运整体向好",

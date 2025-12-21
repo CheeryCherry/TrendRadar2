@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T03:12:28.393085+08:00",
-  "total_titles_processed": 394,
+  "generated_at": "2025-12-22T04:16:24.503743+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 03时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时16分]"
         },
         {
           "title": "王力宏火力全开伴舞是机器人",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 03时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时16分]"
         },
         {
           "title": "宇树六台人形机器人伴舞王力宏演唱会，集体完成韦伯斯特空翻，如何做到的？从春晚转手绢到现在，有哪些突破？",
@@ -40,8 +40,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 03时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时16分]"
         },
         {
           "title": "宇树机器人，在王力宏演唱会上大秀高难度空翻，马斯克点赞",
@@ -51,8 +51,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 03时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时16分]"
         },
         {
           "title": "中国机器人获机器人格斗冠军",
@@ -63,14 +63,14 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 03时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时16分]"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek ChatGPT Claude Grok 豆包 doubao Gemini @10",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "「韧」和「深度求索（DeepSeek）」当选 2025 年度字词，你觉得准确吗？你心中年度字词是什么？",
@@ -80,8 +80,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 03时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时16分]"
+        },
+        {
+          "title": "谁敢听这个豆包唱歌",
+          "url": "https://www.douyin.com/hot/2342753",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
         }
       ]
     },
@@ -99,8 +110,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时16分]"
         }
       ]
     },
@@ -116,8 +127,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 03时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时16分]"
         }
       ]
     }

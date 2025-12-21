@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T22:14:45.263002+08:00",
-  "total_titles_processed": 1313,
+  "generated_at": "2025-12-21T23:14:29.995250+08:00",
+  "total_titles_processed": 1368,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时25分 ~ 22时14分]"
+          "appearance_count": 16,
+          "time_info": "[11时25分 ~ 23时14分]"
         },
         {
           "title": "宇树机器人，在王力宏演唱会上大秀高难度空翻，马斯克点赞",
@@ -31,8 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时17分 ~ 22时14分]"
+          "appearance_count": 29,
+          "time_info": "[00时17分 ~ 23时14分]"
         },
         {
           "title": "中国机器人获机器人格斗冠军",
@@ -42,11 +42,27 @@
             4,
             21,
             15,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时33分 ~ 22时14分]"
+          "appearance_count": 13,
+          "time_info": "[12时33分 ~ 23时14分]"
+        },
+        {
+          "title": "周末要闻汇总：首块L3级自动驾驶牌照诞生；摩尔线程发布新一代GPU架构",
+          "url": "https://www.cls.cn/detail/2235638",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时16分 ~ 23时14分]"
         },
         {
           "title": "Robotaxi为特斯拉注入新叙事 但自动驾驶技术路线仍未收敛",
@@ -86,21 +102,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时18分 ~ 04时16分]"
-        },
-        {
-          "title": "周末要闻汇总：首块L3级自动驾驶牌照诞生；摩尔线程发布新一代GPU架构",
-          "url": "https://www.cls.cn/detail/2235638",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            5,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时16分 ~ 22时14分]"
         },
         {
           "title": "中国机器人在格斗机器人大赛中夺冠",
@@ -332,11 +333,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时24分 ~ 22时14分]"
+          "appearance_count": 3,
+          "time_info": "[21时24分 ~ 23时14分]"
         },
         {
           "title": "鸿蒙盛典黑科技大盘点",
@@ -391,8 +393,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时24分 ~ 22时14分]"
+          "appearance_count": 3,
+          "time_info": "[21时24分 ~ 23时14分]"
         },
         {
           "title": "豆包狂飙，字节AI再亮剑",
@@ -412,7 +414,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时14分"
         }
@@ -436,11 +438,12 @@
             21,
             24,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时17分 ~ 22时14分]"
+          "appearance_count": 29,
+          "time_info": "[00时17分 ~ 23时14分]"
         },
         {
           "title": "今年前11个月我国航空货运整体向好",

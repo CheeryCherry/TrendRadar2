@@ -1,24 +1,12 @@
 {
-  "generated_at": "2025-12-21T19:13:09.249581+08:00",
-  "total_titles_processed": 1172,
+  "generated_at": "2025-12-21T20:28:20.610786+08:00",
+  "total_titles_processed": 1223,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
-        {
-          "title": "宇树机器人，在王力宏演唱会上大秀高难度空翻，马斯克点赞",
-          "url": "https://www.cls.cn/detail/2235476",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时17分 ~ 19时13分]"
-        },
         {
           "title": "宇树六台人形机器人伴舞王力宏演唱会，集体完成韦伯斯特空翻，如何做到的？从春晚转手绢到现在，有哪些突破？",
           "url": "https://www.zhihu.com/question/1985347149584676727",
@@ -30,8 +18,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时25分 ~ 19时13分]"
+          "appearance_count": 13,
+          "time_info": "[11时25分 ~ 20时28分]"
+        },
+        {
+          "title": "宇树机器人，在王力宏演唱会上大秀高难度空翻，马斯克点赞",
+          "url": "https://www.cls.cn/detail/2235476",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 26,
+          "time_info": "[00时17分 ~ 20时28分]"
         },
         {
           "title": "中国机器人获机器人格斗冠军",
@@ -44,8 +45,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时33分 ~ 19时13分]"
+          "appearance_count": 10,
+          "time_info": "[12时33分 ~ 20时28分]"
         },
         {
           "title": "Robotaxi为特斯拉注入新叙事 但自动驾驶技术路线仍未收敛",
@@ -72,8 +73,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时33分 ~ 19时13分]"
+          "appearance_count": 11,
+          "time_info": "[12时33分 ~ 20时28分]"
         },
         {
           "title": "长安汽车获得首块L3级自动驾驶专用正式号牌，天枢智能开启L3时代",
@@ -104,6 +105,21 @@
           "time_info": "[11时26分 ~ 17时15分]"
         },
         {
+          "title": "渝AD0001Z 首块L3自动驾驶号牌发布",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%9DAD0001Z+%E9%A6%96%E5%9D%97L3%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%8F%B7%E7%89%8C%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            10,
+            25,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时19分 ~ 20时28分]"
+        },
+        {
           "title": "马斯克点赞王力宏伴舞机器人",
           "url": "https://www.douyin.com/hot/2342006",
           "source": "抖音",
@@ -130,18 +146,17 @@
           "time_info": "[05时13分 ~ 13时16分]"
         },
         {
-          "title": "渝AD0001Z 首块L3自动驾驶号牌发布",
-          "url": "https://www.baidu.com/s?wd=%E6%B8%9DAD0001Z+%E9%A6%96%E5%9D%97L3%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%8F%B7%E7%89%8C%E5%8F%91%E5%B8%83",
-          "source": "百度热搜",
+          "title": "周末要闻汇总：首块L3级自动驾驶牌照诞生；摩尔线程发布新一代GPU架构",
+          "url": "https://www.cls.cn/detail/2235638",
+          "source": "财联社热门",
           "ranks": [
-            16,
-            10,
-            25,
-            22
+            9,
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时19分 ~ 19时13分]"
+          "appearance_count": 4,
+          "time_info": "[18时16分 ~ 20时28分]"
         },
         {
           "title": "中国机器人在格斗机器人大赛中夺冠",
@@ -184,18 +199,6 @@
           "time_info": "[09时13分 ~ 12时33分]"
         },
         {
-          "title": "周末要闻汇总：首块L3级自动驾驶牌照诞生；摩尔线程发布新一代GPU架构",
-          "url": "https://www.cls.cn/detail/2235638",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时16分 ~ 19时13分]"
-        },
-        {
           "title": "宇树科技首发人形机器人 AppStore，用户可自行下载各项动作和预设，此举有哪些意义？",
           "url": "https://www.zhihu.com/question/1983175858765128621",
           "source": "知乎",
@@ -205,6 +208,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "俄媒点赞王力宏演唱会伴舞机器人",
+          "url": "https://www.toutiao.com/trending/7586061417942368275/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         }
       ]
     },
@@ -287,11 +301,12 @@
             3,
             15,
             20,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时20分 ~ 19时13分]"
+          "appearance_count": 5,
+          "time_info": "[16时20分 ~ 20时28分]"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（12月21日）",
@@ -381,11 +396,12 @@
             17,
             18,
             20,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时17分 ~ 19时13分]"
+          "appearance_count": 26,
+          "time_info": "[00时17分 ~ 20时28分]"
         },
         {
           "title": "今年前11个月我国航空货运整体向好",
@@ -397,11 +413,12 @@
             11,
             12,
             18,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时22分 ~ 19时13分]"
+          "appearance_count": 7,
+          "time_info": "[14时22分 ~ 20时28分]"
         },
         {
           "title": "今年前11个月我国航空货运整体向好",

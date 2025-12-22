@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-22T22:16:40.019736+08:00",
-  "total_titles_processed": 1815,
+  "generated_at": "2025-12-22T23:17:13.151966+08:00",
+  "total_titles_processed": 1902,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "科技股反弹引领市场！美股期货走高，“Mag7”普涨，英伟达盘前涨2%，甲骨文涨超2%，油价反弹超2%",
+          "url": "https://wallstreetcn.com/articles/3761821",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时31分 ~ 23时17分]"
+        },
         {
           "title": "长三角科技创新谱写新篇章",
           "url": "https://www.douyin.com/hot/2344360",
@@ -17,6 +28,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时23分 ~ 20时31分]"
+        },
+        {
+          "title": "“港股GPU第一股”壁仞科技确定IPO发售价格区间，预计明年1月2日上市交易",
+          "url": "https://wallstreetcn.com/articles/3761811",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时23分 ~ 23时17分]"
         },
         {
           "title": "锡华科技：将于12月23日在上交所主板上市",
@@ -30,17 +55,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时17分 ~ 06时15分]"
-        },
-        {
-          "title": "科技股反弹引领市场！美股期货走高，“Mag7”普涨，英伟达盘前涨2%，甲骨文涨超2%，油价反弹超2%",
-          "url": "https://wallstreetcn.com/articles/3761821",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 22时16分]"
         },
         {
           "title": "张玉卓：接续发力新能源 超前谋划量子科技",
@@ -58,20 +72,6 @@
           "time_info": "[11时28分 ~ 15时21分]"
         },
         {
-          "title": "“港股GPU第一股”壁仞科技确定IPO发售价格区间，预计明年1月2日上市交易",
-          "url": "https://wallstreetcn.com/articles/3761811",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时23分 ~ 22时16分]"
-        },
-        {
           "title": "金十图示：2025年12月22日（周一）全球主要科技与互联网公司市值变化",
           "url": "https://flash.jin10.com/detail/20251222110218594800",
           "source": "金十数据",
@@ -81,6 +81,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
+        },
+        {
+          "title": "AH股高开高走，创业板涨超2%，贵金属、CPO、智驾走强，拓荆科技市值破千亿，沪银续创新高",
+          "url": "https://wallstreetcn.com/articles/3761822",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时31分 ~ 23时17分]"
         },
         {
           "title": "天玑科技：公司及相关责任人涉嫌串通投标被提起诉讼",
@@ -107,16 +119,16 @@
           "time_info": "[16时23分 ~ 19时14分]"
         },
         {
-          "title": "AH股高开高走，创业板涨超2%，贵金属、CPO、智驾走强，拓荆科技市值破千亿，沪银续创新高",
-          "url": "https://wallstreetcn.com/articles/3761822",
-          "source": "华尔街见闻",
+          "title": "贵金属携手迭创新高 英伟达率科技股延续反弹势头 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2236882",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            10
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时31分 ~ 22时16分]"
+          "time_info": "[22时16分 ~ 23时17分]"
         },
         {
           "title": "美股盘前，半导体股多数上涨，美光科技涨约3%，AMD、英伟达、台积电、英特尔涨约1%。",
@@ -129,6 +141,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时23分 ~ 18时17分]"
+        },
+        {
+          "title": "罗永浩“科技春晚”时隔七年回归",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%97%E6%B0%B8%E6%B5%A9%E2%80%9C%E7%A7%91%E6%8A%80%E6%98%A5%E6%99%9A%E2%80%9D%E6%97%B6%E9%9A%94%E4%B8%83%E5%B9%B4%E5%9B%9E%E5%BD%92",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时16分 ~ 23时17分]"
         },
         {
           "title": "金十图示：2025年12月22日（周一）中国科技互联网公司市值排名TOP 50一览",
@@ -175,17 +198,6 @@
           "time_info": "13时20分"
         },
         {
-          "title": "贵金属携手迭创新高 英伟达率科技股延续反弹势头 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2236882",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
           "title": "“港股GPU第一股”壁仞科技香港IPO最高发售价每股19.60港元，预计1月2日开始交易",
           "url": "https://wallstreetcn.com/livenews/3024473",
           "source": "华尔街见闻-快讯",
@@ -208,6 +220,28 @@
           "time_info": "11时28分"
         },
         {
+          "title": "行业ETF美股盘初普遍上涨，半导体ETF、能源业ETF至多涨1.53%，全球科技股指数ETF、银行业ETF、科技行业ETF至多涨0.89%，网络股指数ETF涨0.76%。",
+          "url": "https://wallstreetcn.com/livenews/3025022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "美股开盘，道指涨0.1%，标普500指数涨0.4%，纳指涨0.6%。科技股走高，英伟达(NVDA.O)涨1.5%，美光科技(MU.O)涨4%，甲骨文(ORCL.N)涨2.3%。华纳兄弟探索(WBD.O)涨3.5%，派拉蒙竞购华纳兄弟获拉里·埃里森404亿美元担保。纳斯达克中国金龙指数涨0.2%，阿里巴巴(BABA.N)涨0.3%，百度(BIDU.O)涨0.1%。",
+          "url": "https://flash.jin10.com/detail/20251222223037991800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "极地科考同款羽绒服黑科技",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9E%81%E5%9C%B0%E7%A7%91%E8%80%83%E5%90%8C%E6%AC%BE%E7%BE%BD%E7%BB%92%E6%9C%8D%E9%BB%91%E7%A7%91%E6%8A%80%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -228,6 +262,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
+        },
+        {
+          "title": "海致科技向港交所递交上市申请",
+          "url": "https://wallstreetcn.com/livenews/3025015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "空中技巧国家队比赛服有多少黑科技",
@@ -379,19 +424,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时17分 ~ 22时16分]"
-        },
-        {
-          "title": "现代汽车集团将阐述通过人机协作加速人工智能机器人商业化的战略。",
-          "url": "https://flash.jin10.com/detail/20251222150907994800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时21分"
+          "appearance_count": 26,
+          "time_info": "[00时17分 ~ 23时17分]"
         },
         {
           "title": "【焦点复盘】创业板指高开高走涨逾2%，半导体产业链“王者归来”，机器人概念午后异动",
@@ -404,8 +438,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时17分 ~ 22时16分]"
+          "appearance_count": 7,
+          "time_info": "[18时17分 ~ 23时17分]"
+        },
+        {
+          "title": "现代汽车集团将阐述通过人机协作加速人工智能机器人商业化的战略。",
+          "url": "https://flash.jin10.com/detail/20251222150907994800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "A股机器人概念股异动拉升，首开股份直线涨停，景兴纸业、襄阳轴承、长盛轴承等冲高。",
@@ -708,8 +753,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时23分 ~ 22时16分]"
+          "appearance_count": 8,
+          "time_info": "[17时23分 ~ 23时17分]"
         }
       ]
     }

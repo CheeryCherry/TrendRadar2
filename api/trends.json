@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T14:25:59.296599+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2025-12-22T15:21:14.448947+08:00",
+  "total_titles_processed": 1149,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "周末要闻汇总：首块L3级自动驾驶牌照诞生；摩尔线程发布新一代GPU架构",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时17分 ~ 11时28分]"
+        },
+        {
+          "title": "【早报】A股市场千亿级并购来了；首块L3级自动驾驶牌照诞生",
+          "url": "https://www.cls.cn/detail/2235799",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时12分 ~ 15时21分]"
         },
         {
           "title": "宇树六台人形机器人伴舞王力宏演唱会，集体完成韦伯斯特空翻，如何做到的？从春晚转手绢到现在，有哪些突破？",
@@ -42,11 +54,12 @@
             2,
             22,
             15,
-            21
+            21,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时17分 ~ 14时25分]"
+          "appearance_count": 17,
+          "time_info": "[00时17分 ~ 15时21分]"
         },
         {
           "title": "宇树机器人，在王力宏演唱会上大秀高难度空翻，马斯克点赞",
@@ -66,23 +79,23 @@
           "ranks": [
             7,
             8,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时17分 ~ 14时25分]"
+          "appearance_count": 17,
+          "time_info": "[00时17分 ~ 15时21分]"
         },
         {
-          "title": "【早报】A股市场千亿级并购来了；首块L3级自动驾驶牌照诞生",
-          "url": "https://www.cls.cn/detail/2235799",
-          "source": "财联社热门",
+          "title": "现代汽车集团将阐述通过人机协作加速人工智能机器人商业化的战略。",
+          "url": "https://flash.jin10.com/detail/20251222150907994800",
+          "source": "金十数据",
           "ranks": [
-            2,
             1
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时12分 ~ 14时25分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "A股机器人概念股异动拉升，首开股份直线涨停，景兴纸业、襄阳轴承、长盛轴承等冲高。",
@@ -152,7 +165,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -187,6 +200,21 @@
           "time_info": "[00时17分 ~ 06时15分]"
         },
         {
+          "title": "张玉卓：接续发力新能源 超前谋划量子科技",
+          "url": "https://www.cls.cn/detail/2235821",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时28分 ~ 15时21分]"
+        },
+        {
           "title": "金十图示：2025年12月22日（周一）全球主要科技与互联网公司市值变化",
           "url": "https://flash.jin10.com/detail/20251222110218594800",
           "source": "金十数据",
@@ -196,20 +224,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
-        },
-        {
-          "title": "张玉卓：接续发力新能源 超前谋划量子科技",
-          "url": "https://www.cls.cn/detail/2235821",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时28分 ~ 14时25分]"
         },
         {
           "title": "金十图示：2025年12月22日（周一）中国科技互联网公司市值排名TOP 50一览",
@@ -229,7 +243,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -323,7 +337,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },

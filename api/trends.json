@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T00:19:44.355411+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-23T01:15:11.560446+08:00",
+  "total_titles_processed": 372,
   "failed_sources": [],
   "trends": [
     {
@@ -15,41 +15,44 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 01时15分]"
         },
         {
           "title": "“港股GPU第一股”壁仞科技确定IPO发售价格区间，预计明年1月2日上市交易",
           "url": "https://wallstreetcn.com/articles/3761811",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "希捷科技回吐美股盘初涨幅，并转而下跌5.5%。",
-          "url": "https://wallstreetcn.com/livenews/3025047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 01时15分]"
         },
         {
           "title": "贵金属携手迭创新高 英伟达率科技股延续反弹势头 | 今夜看点",
           "url": "https://www.cls.cn/detail/2236882",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 01时15分]"
+        },
+        {
+          "title": "希捷科技回吐美股盘初涨幅，并转而下跌5.5%。",
+          "url": "https://wallstreetcn.com/livenews/3025047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时15分]"
         },
         {
           "title": "希捷科技股价在回吐开盘涨幅后下跌5.5%。",
@@ -95,22 +98,24 @@
           "url": "https://www.cls.cn/detail/2236551",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 01时15分]"
         },
         {
           "title": "中国机器人获机器人格斗冠军",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%8E%B7%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A0%BC%E6%96%97%E5%86%A0%E5%86%9B",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 01时15分]"
         }
       ]
     }

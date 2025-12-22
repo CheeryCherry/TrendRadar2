@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T11:28:22.838993+08:00",
-  "total_titles_processed": 780,
+  "generated_at": "2025-12-22T12:36:40.407929+08:00",
+  "total_titles_processed": 882,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "周末要闻汇总：首块L3级自动驾驶牌照诞生；摩尔线程发布新一代GPU架构",
@@ -27,8 +27,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 11时28分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 12时36分]"
         },
         {
           "title": "宇树六台人形机器人伴舞王力宏演唱会，集体完成韦伯斯特空翻，如何做到的？从春晚转手绢到现在，有哪些突破？",
@@ -66,19 +66,43 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 11时28分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 12时36分]"
         },
         {
           "title": "【早报】A股市场千亿级并购来了；首块L3级自动驾驶牌照诞生",
           "url": "https://www.cls.cn/detail/2235799",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时12分 ~ 12时36分]"
+        },
+        {
+          "title": "优步与百度合作 在英国启动自动驾驶出租车测试",
+          "url": "https://flash.jin10.com/detail/20251222120037850800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
+          "title": "特斯拉人形机器人“上岗”卖爆米花",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9C%E4%B8%8A%E5%B2%97%E2%80%9D%E5%8D%96%E7%88%86%E7%B1%B3%E8%8A%B1",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时12分 ~ 11时28分]"
+          "time_info": "[11时28分 ~ 12时36分]"
         },
         {
           "title": "中国机器人在格斗机器人大赛中夺冠",
@@ -92,21 +116,21 @@
           "time_info": "09时12分"
         },
         {
-          "title": "特斯拉人形机器人“上岗”卖爆米花",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9C%E4%B8%8A%E5%B2%97%E2%80%9D%E5%8D%96%E7%88%86%E7%B1%B3%E8%8A%B1",
-          "source": "百度热搜",
+          "title": "L3级自动驾驶落地意味着什么",
+          "url": "https://www.toutiao.com/trending/7586452587071671844/",
+          "source": "今日头条",
           "ranks": [
-            20
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时28分"
+          "time_info": "12时36分"
         }
       ]
     },
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "锡华科技：将于12月23日在上交所主板上市",
@@ -128,18 +152,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时28分"
-        },
-        {
-          "title": "金十图示：2025年12月22日（周一）中国科技互联网公司市值排名TOP 50一览",
-          "url": "https://flash.jin10.com/detail/20251222105127814800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -148,11 +161,34 @@
           "url": "https://www.cls.cn/detail/2235821",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 12时36分]"
+        },
+        {
+          "title": "金十图示：2025年12月22日（周一）中国科技互联网公司市值排名TOP 50一览",
+          "url": "https://flash.jin10.com/detail/20251222105127814800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
+          "title": "印度Sensex指数开盘上涨0.3%，报85145.90点，科技股领涨。",
+          "url": "https://flash.jin10.com/detail/20251222114113291800",
+          "source": "金十数据",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时28分"
+          "time_info": "12时36分"
         },
         {
           "title": "“港股GPU第一股”壁仞科技香港IPO最高发售价每股19.60港元，预计1月2日开始交易",
@@ -172,7 +208,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -241,7 +277,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         }

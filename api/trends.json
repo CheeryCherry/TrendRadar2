@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T18:18:02.784225+08:00",
-  "total_titles_processed": 1583,
+  "generated_at": "2025-12-23T19:15:13.601880+08:00",
+  "total_titles_processed": 1682,
   "failed_sources": [],
   "trends": [
     {
@@ -292,7 +292,7 @@
     },
     {
       "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "【焦点复盘】创业板指高开高走涨逾2%，半导体产业链“王者归来”，机器人概念午后异动",
@@ -330,8 +330,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 18时18分]"
+          "appearance_count": 5,
+          "time_info": "[17时20分 ~ 19时15分]"
         },
         {
           "title": "宇树科技新专利可提高机器人控制的精准性、可靠性",
@@ -391,6 +391,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时20分 ~ 18时18分]"
+        },
+        {
+          "title": "上交顶级机器人实验室长啥样",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%8A%E4%BA%A4%E9%A1%B6%E7%BA%A7%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AE%9E%E9%AA%8C%E5%AE%A4%E9%95%BF%E5%95%A5%E6%A0%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 19时15分]"
         },
         {
           "title": "中国机器人靠什么走进海外高校",
@@ -497,7 +508,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -603,8 +614,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时08分 ~ 18时18分]"
+          "appearance_count": 16,
+          "time_info": "[09时08分 ~ 19时15分]"
         }
       ]
     }

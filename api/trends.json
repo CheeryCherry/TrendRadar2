@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T02:22:45.335340+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2025-12-25T03:13:23.636126+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "央行：加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 03时13分]"
         },
         {
           "title": "科技股助标普收创新高，金银铜再新高，人民币强势逼近7.0，GDP强劲打击美债",
@@ -28,19 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 02时22分]"
-        },
-        {
-          "title": "标普500指数初步收涨0.3%，在清淡的行情中创收盘历史新高，日用消费品、房地产、保健、公用事业板块至多涨约0.9%，科技、电信板块涨0.1%，能源板块跌超0.2%。 纳斯达克100指数初步收涨0.3%，成分股中，美光科技初步收涨3.6%，拼多多涨1.3%，迈威尔科技跌1.4%，Datadog跌2.3%。 耐克初步收涨4.5%，Merck、迪士尼、强生等涨超1%，领跑道指成分股，英伟达则跌0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3026306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时22分"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 03时13分]"
         },
         {
           "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
@@ -50,8 +39,30 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 03时13分]"
+        },
+        {
+          "title": "标普500指数初步收涨0.3%，在清淡的行情中创收盘历史新高，日用消费品、房地产、保健、公用事业板块至多涨约0.9%，科技、电信板块涨0.1%，能源板块跌超0.2%。 纳斯达克100指数初步收涨0.3%，成分股中，美光科技初步收涨3.6%，拼多多涨1.3%，迈威尔科技跌1.4%，Datadog跌2.3%。 耐克初步收涨4.5%，Merck、迪士尼、强生等涨超1%，领跑道指成分股，英伟达则跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3026306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时22分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.07%，报7633.83点。 热门中概股里，再鼎医药初步收涨约6.2%，阿特斯太阳能涨2.1%，汽车之家涨1.3%。 ETF中，中概互联网指数ETF（KWEB）收跌0.20%，中国科技指数ETF（CQQQ）收涨0.66%。 德银嘉实沪深300指数ETF（ASHR）收涨0.31%，XtrackersHarvest中证50（ASHS）收涨0.98%。",
+          "url": "https://wallstreetcn.com/livenews/3026308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "行业ETF美股盘初涨跌各异，全球航空业ETF跌0.45%，能源业ETF跌0.39%，银行业ETF跌0.24%，网络股指数ETF跌0.12%，半导体ETF则涨0.08%，科技行业ETF涨0.09%。",
@@ -79,8 +90,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 03时13分]"
         },
         {
           "title": "A股迎来“人形机器人第一股”：16.65亿元并购，优必选成为锋龙股份控股股东",
@@ -88,11 +99,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            14
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 03时13分]"
+        },
+        {
+          "title": "特斯拉胜诉，自动驾驶技术专利案成功移交至美国加州审理",
+          "url": "https://wallstreetcn.com/livenews/3026299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时14分 ~ 02时22分]"
+          "time_info": "[02时22分 ~ 03时13分]"
         },
         {
           "title": "亚马逊旗下自动驾驶汽车公司Zoox因软件问题召回332辆车",
@@ -105,17 +129,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 01时14分]"
-        },
-        {
-          "title": "特斯拉胜诉，自动驾驶技术专利案成功移交至美国加州审理",
-          "url": "https://wallstreetcn.com/livenews/3026299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时22分"
         }
       ]
     },
@@ -133,6 +146,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "月球 登月 火星 宇宙 飞船 航空 @5",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "日本一航空自卫队基地水体检出“永久性化学物”",
+          "url": "https://wallstreetcn.com/livenews/3026316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         }
       ]
     }

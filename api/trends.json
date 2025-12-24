@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T07:15:13.588111+08:00",
-  "total_titles_processed": 645,
+  "generated_at": "2025-12-24T09:08:32.303332+08:00",
+  "total_titles_processed": 793,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "强劲GDP提振科技股，标普四连涨收创新高，金银铜再新高，人民币强势逼近7.01",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时14分 ~ 07时15分]"
+        },
+        {
+          "title": "科技股助标普收创新高，金银铜再新高，人民币强势逼近7.0，GDP强劲打击美债",
+          "url": "https://wallstreetcn.com/articles/3761906",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         },
         {
           "title": "杭州云深处科技股份有限公司启动上市辅导",
@@ -81,7 +92,7 @@
     },
     {
       "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "北京发放首批L3级高速公路自动驾驶车辆专用号牌 三个路段可开启",
@@ -94,6 +105,28 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时20分 ~ 07时15分]"
+        },
+        {
+          "title": "【早报】北京发放首批L3级高速公路自动驾驶车辆专用号牌；中芯国际对部分产能实施涨价",
+          "url": "https://www.cls.cn/detail/2238257",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "L3级自动驾驶专用正式号牌来了",
+          "url": "https://s.weibo.com/weibo?q=%23L3%E7%BA%A7%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E4%B8%93%E7%94%A8%E6%AD%A3%E5%BC%8F%E5%8F%B7%E7%89%8C%E6%9D%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         }
       ]
     },

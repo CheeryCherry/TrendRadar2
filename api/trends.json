@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T18:17:15.453506+08:00",
-  "total_titles_processed": 1528,
+  "generated_at": "2025-12-24T19:15:00.329670+08:00",
+  "total_titles_processed": 1619,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "科技股助标普收创新高，金银铜再新高，人民币强势逼近7.0，GDP强劲打击美债",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时08分 ~ 18时17分]"
+          "appearance_count": 14,
+          "time_info": "[09时08分 ~ 19时15分]"
         },
         {
           "title": "强劲GDP提振科技股，标普四连涨收创新高，金银铜再新高，人民币强势逼近7.01",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时14分 ~ 07时15分]"
+        },
+        {
+          "title": "【中国央行：用好证券、基金、保险公司互换便利和股票回购增持再贷款】会议指出，要引导大型银行发挥金融服务实体经济主力军作用，推动中小银行聚焦主责主业，增强银行资本实力，共同维护金融市场的稳定发展。有效落实好各类结构性货币政策工具，扎实做好金融“五篇大文章”，加强对扩大内需、科技创新、中小微企业等重点领域的金融支持。用好证券、基金、保险公司互换便利和股票回购增持再贷款，探索常态化的制度安排，维护资本市场稳定。持续做好支持民营经济发展壮大的金融服务。切实推进金融高水平双向开放，提高开放条件下经济金融管理能力和风险防控能力。",
+          "url": "https://wallstreetcn.com/livenews/3026189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "A股PCB概念异动拉升，生益科技逼近涨停，创历史新高，南亚新材、景旺电子、华正新材、生益电子等跟涨。",
@@ -233,8 +244,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时20分 ~ 18时17分]"
+          "appearance_count": 7,
+          "time_info": "[15时20分 ~ 19时15分]"
         },
         {
           "title": "北京市机器人产业协会将成立",
@@ -294,7 +305,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
@@ -344,11 +355,12 @@
           "url": "https://wallstreetcn.com/livenews/3026145",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 19时15分]"
         }
       ]
     },
@@ -361,11 +373,12 @@
           "url": "https://wallstreetcn.com/livenews/3026148",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 19时15分]"
         }
       ]
     }

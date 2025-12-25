@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T03:13:10.748819+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2025-12-26T04:17:50.098758+08:00",
+  "total_titles_processed": 429,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 03时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 04时17分]"
         },
         {
           "title": "【焦点复盘】创业板指探底回升收获5连涨，全市场超3700股飘红，机器人概念现批量涨停",
           "url": "https://www.cls.cn/detail/2240066",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 03时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 04时17分]"
         },
         {
           "title": "汽车零部件巨头变机器人新势力？中鼎股份子公司出资3000万元，与逐际动力等共同经营人形机器人代工",
@@ -41,8 +42,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 04时17分]"
         },
         {
           "title": "北京人形机器人整机单位超过30家，位居国内前列",
@@ -55,8 +56,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 04时17分]"
         },
         {
           "title": "200元一天就能带个机器人回家",
@@ -64,11 +65,12 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            28
+            28,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时21分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[02时21分 ~ 04时17分]"
         },
         {
           "title": "联手金马游乐，星尘智能开启“机器人MART”千台级批量交付",
@@ -94,11 +96,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 04时17分]"
         },
         {
           "title": "哈萨克斯坦交通部：委员会未在坠毁于阿克套附近的阿塞拜疆航空公司（AZAL）客机上发现任何爆炸物痕迹。",
@@ -136,8 +139,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 03时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 04时17分]"
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T05:14:46.615290+08:00",
-  "total_titles_processed": 446,
+  "generated_at": "2025-12-26T06:15:25.258246+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 06时15分]"
         },
         {
           "title": "【焦点复盘】创业板指探底回升收获5连涨，全市场超3700股飘红，机器人概念现批量涨停",
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 06时15分]"
         },
         {
           "title": "200元一天就能带个机器人回家",
@@ -38,11 +38,12 @@
           "ranks": [
             26,
             28,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时21分 ~ 05时14分]"
+          "appearance_count": 7,
+          "time_info": "[02时21分 ~ 06时15分]"
         },
         {
           "title": "汽车零部件巨头变机器人新势力？中鼎股份子公司出资3000万元，与逐际动力等共同经营人形机器人代工",
@@ -98,11 +99,12 @@
             8,
             13,
             16,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时22分 ~ 05时14分]"
+          "appearance_count": 5,
+          "time_info": "[02时22分 ~ 06时15分]"
         },
         {
           "title": "哈萨克斯坦交通部：委员会未在坠毁于阿克套附近的阿塞拜疆航空公司（AZAL）客机上发现任何爆炸物痕迹。",
@@ -140,8 +142,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 06时15分]"
         }
       ]
     },

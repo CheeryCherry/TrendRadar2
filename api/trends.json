@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T01:14:38.478477+08:00",
-  "total_titles_processed": 365,
+  "generated_at": "2025-12-26T02:22:15.043425+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "年终巨献：机器人述职报告",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时22分]"
         },
         {
           "title": "【焦点复盘】创业板指探底回升收获5连涨，全市场超3700股飘红，机器人概念现批量涨停",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时22分]"
         },
         {
           "title": "汽车零部件巨头变机器人新势力？中鼎股份子公司出资3000万元，与逐际动力等共同经营人形机器人代工",
@@ -36,11 +36,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时22分]"
         },
         {
           "title": "北京人形机器人整机单位超过30家，位居国内前列",
@@ -48,11 +49,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时22分]"
         },
         {
           "title": "联手金马游乐，星尘智能开启“机器人MART”千台级批量交付",
@@ -65,13 +67,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时19分 ~ 01时14分]"
+        },
+        {
+          "title": "200元一天就能带个机器人回家",
+          "url": "https://www.baidu.com/s?wd=200%E5%85%83%E4%B8%80%E5%A4%A9%E5%B0%B1%E8%83%BD%E5%B8%A6%E4%B8%AA%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9B%9E%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时21分 ~ 02时22分]"
         }
       ]
     },
     {
       "keyword_group": "月球 登月 火星 宇宙 飞船 航空 @5",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "俄罗斯联邦航空运输署解除对从俄罗斯飞往以色列的夜间航班限制。",
+          "url": "https://flash.jin10.com/detail/20251226013120374800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
+        },
         {
           "title": "哈萨克斯坦交通部：委员会未在坠毁于阿克套附近的阿塞拜疆航空公司（AZAL）客机上发现任何爆炸物痕迹。",
           "url": "https://flash.jin10.com/detail/20251225215331703800",
@@ -108,8 +132,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时22分]"
         }
       ]
     },
@@ -123,11 +147,12 @@
           "source": "今日头条",
           "ranks": [
             25,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时22分]"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T22:15:38.687056+08:00",
-  "total_titles_processed": 1800,
+  "generated_at": "2025-12-25T23:16:07.301874+08:00",
+  "total_titles_processed": 1869,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "从春晚扭秧歌到演唱会伴舞，2025年机器人名场面盘点",
@@ -25,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时30分 ~ 22时15分]"
+          "appearance_count": 6,
+          "time_info": "[20时30分 ~ 23时16分]"
         },
         {
           "title": "【焦点复盘】创业板指探底回升收获5连涨，全市场超3700股飘红，机器人概念现批量涨停",
@@ -38,11 +39,12 @@
           "ranks": [
             9,
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时17分 ~ 22时15分]"
+          "appearance_count": 8,
+          "time_info": "[18时17分 ~ 23时16分]"
         },
         {
           "title": "哥大博士预言人会爱上机器人",
@@ -57,15 +59,15 @@
           "time_info": "[15时18分 ~ 18时17分]"
         },
         {
-          "title": "联手金马游乐，星尘智能开启“机器人MART”千台级批量交付",
-          "url": "https://wallstreetcn.com/livenews/3026773",
+          "title": "汽车零部件巨头变机器人新势力？中鼎股份子公司出资3000万元，与逐际动力等共同经营人形机器人代工",
+          "url": "https://wallstreetcn.com/livenews/3026785",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时15分"
+          "time_info": "23时16分"
         },
         {
           "title": "“2026人形机器人半马”敲定明年4月半：取消人员跟随，机器人将配备智能计时穿戴设备",
@@ -93,6 +95,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时14分 ~ 21时29分]"
+        },
+        {
+          "title": "联手金马游乐，星尘智能开启“机器人MART”千台级批量交付",
+          "url": "https://wallstreetcn.com/livenews/3026773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 23时16分]"
         },
         {
           "title": "A股迎来“人形机器人第一股”：16.65亿元并购，优必选成为锋龙股份控股股东",
@@ -216,6 +230,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "北京人形机器人整机单位超过30家，位居国内前列",
+          "url": "https://wallstreetcn.com/livenews/3026783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "A股机器人概念股集体走强，巨轮智能直线涨停，泰尔股份、锋龙股份、天奇股份、万向钱潮此前封板，拓斯达大涨超18%，昊志机电涨超12%。",
           "url": "https://wallstreetcn.com/livenews/3026457",
           "source": "华尔街见闻-快讯",
@@ -333,11 +358,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时17分 ~ 22时15分]"
+          "appearance_count": 8,
+          "time_info": "[18时17分 ~ 23时16分]"
         },
         {
           "title": "标普500指数初步收涨0.3%，在清淡的行情中创收盘历史新高，日用消费品、房地产、保健、公用事业板块至多涨约0.9%，科技、电信板块涨0.1%，能源板块跌超0.2%。 纳斯达克100指数初步收涨0.3%，成分股中，美光科技初步收涨3.6%，拼多多涨1.3%，迈威尔科技跌1.4%，Datadog跌2.3%。 耐克初步收涨4.5%，Merck、迪士尼、强生等涨超1%，领跑道指成分股，英伟达则跌0.4%。",
@@ -560,22 +586,24 @@
           "url": "https://flash.jin10.com/detail/20251225215331703800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 23时16分]"
         },
         {
           "title": "哈萨克斯坦交通部：调查阿塞拜疆航空公司（AZAL）客机在阿克套坠毁事件的委员会已成功提取并解码了机上飞行记录器的数据。",
           "url": "https://flash.jin10.com/detail/20251225214828171800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 23时16分]"
         },
         {
           "title": "日本一航空自卫队基地水体检出“永久性化学物”",

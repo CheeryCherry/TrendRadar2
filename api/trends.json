@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T00:19:20.065187+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2025-12-26T01:14:38.478477+08:00",
+  "total_titles_processed": 365,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2240212",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时14分]"
         },
         {
           "title": "【焦点复盘】创业板指探底回升收获5连涨，全市场超3700股飘红，机器人概念现批量涨停",
@@ -26,41 +27,44 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时14分]"
         },
         {
           "title": "汽车零部件巨头变机器人新势力？中鼎股份子公司出资3000万元，与逐际动力等共同经营人形机器人代工",
           "url": "https://wallstreetcn.com/livenews/3026785",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时14分]"
         },
         {
           "title": "北京人形机器人整机单位超过30家，位居国内前列",
           "url": "https://wallstreetcn.com/livenews/3026783",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时14分]"
         },
         {
           "title": "联手金马游乐，星尘智能开启“机器人MART”千台级批量交付",
           "url": "https://wallstreetcn.com/livenews/3026773",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时14分]"
         }
       ]
     },
@@ -104,8 +108,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时14分]"
         }
       ]
     },
@@ -118,11 +122,12 @@
           "url": "https://www.toutiao.com/trending/7586845024520863807/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时14分]"
         }
       ]
     }

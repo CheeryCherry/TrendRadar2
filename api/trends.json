@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T18:17:32.108217+08:00",
-  "total_titles_processed": 1505,
+  "generated_at": "2025-12-25T19:14:28.561848+08:00",
+  "total_titles_processed": 1575,
   "failed_sources": [],
   "trends": [
     {
@@ -70,17 +70,6 @@
           "time_info": "02时22分"
         },
         {
-          "title": "河南：到2027年力争科技型中小企业贷款增速持续高于各项贷款平均增速20个百分点",
-          "url": "https://wallstreetcn.com/livenews/3026691",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
           "title": "国家税务总局：将持续落实落细支持科技创新的税费优惠政策",
           "url": "https://wallstreetcn.com/livenews/3026588",
           "source": "华尔街见闻-快讯",
@@ -103,6 +92,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时20分 ~ 14时24分]"
+        },
+        {
+          "title": "河南：到2027年力争科技型中小企业贷款增速持续高于各项贷款平均增速20个百分点",
+          "url": "https://wallstreetcn.com/livenews/3026691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 19时14分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.07%，报7633.83点。 热门中概股里，再鼎医药初步收涨约6.2%，阿特斯太阳能涨2.1%，汽车之家涨1.3%。 ETF中，中概互联网指数ETF（KWEB）收跌0.20%，中国科技指数ETF（CQQQ）收涨0.66%。 德银嘉实沪深300指数ETF（ASHR）收涨0.31%，XtrackersHarvest中证50（ASHS）收涨0.98%。",
@@ -128,6 +129,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时15分]"
+        },
+        {
+          "title": "【数据看盘】7.39亿元资金抢筹金风科技 多家实力游资集体出逃海南发展",
+          "url": "https://www.cls.cn/detail/2240089",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 19时14分]"
         },
         {
           "title": "A股电池板块低开高走，天际股份触达涨停，震裕科技涨超5%，蔚蓝锂芯、容百科技、科达利、博力威、信宇人等个股跟涨。",
@@ -164,17 +176,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时15分]"
-        },
-        {
-          "title": "【数据看盘】7.39亿元资金抢筹金风科技 多家实力游资集体出逃海南发展",
-          "url": "https://www.cls.cn/detail/2240089",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
         },
         {
           "title": "机构：日经指数跟随隔夜科技股上涨 但未来尚无明确方向",
@@ -257,7 +258,7 @@
     },
     {
       "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "从春晚扭秧歌到演唱会伴舞，2025年机器人名场面盘点",
@@ -284,15 +285,27 @@
           "time_info": "[15时18分 ~ 18时17分]"
         },
         {
+          "title": "超捷股份：截至2025年9月30日，公司航空航天零部件业务和人形机器人业务营收占公司营收比重较小。",
+          "url": "https://wallstreetcn.com/livenews/3026719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
           "title": "“2026人形机器人半马”敲定明年4月半：取消人员跟随，机器人将配备智能计时穿戴设备",
           "url": "https://wallstreetcn.com/livenews/3026697",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 19时14分]"
         },
         {
           "title": "A股迎来“人形机器人第一股”：16.65亿元并购，优必选成为锋龙股份控股股东",
@@ -331,6 +344,19 @@
           "time_info": "[16时21分 ~ 18时17分]"
         },
         {
+          "title": "广东：鼓励银行、保险机构研究覆盖低空经济研发等全生命周期的针对性金融产品",
+          "url": "https://wallstreetcn.com/livenews/3026673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时18分 ~ 19时14分]"
+        },
+        {
           "title": "特斯拉胜诉，自动驾驶技术专利案成功移交至美国加州审理",
           "url": "https://wallstreetcn.com/livenews/3026299",
           "source": "华尔街见闻-快讯",
@@ -356,16 +382,16 @@
           "time_info": "[15时19分 ~ 16时22分]"
         },
         {
-          "title": "广东：鼓励银行、保险机构研究覆盖低空经济研发等全生命周期的针对性金融产品",
-          "url": "https://wallstreetcn.com/livenews/3026673",
-          "source": "华尔街见闻-快讯",
+          "title": "【焦点复盘】创业板指探底回升收获5连涨，全市场超3700股飘红，机器人概念现批量涨停",
+          "url": "https://www.cls.cn/detail/2240066",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            16
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时18分 ~ 18时17分]"
+          "time_info": "[18时17分 ~ 19时14分]"
         },
         {
           "title": "王力宏演唱会机器人彩排纯享",
@@ -413,17 +439,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
-        },
-        {
-          "title": "【焦点复盘】创业板指探底回升收获5连涨，全市场超3700股飘红，机器人概念现批量涨停",
-          "url": "https://www.cls.cn/detail/2240066",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
         },
         {
           "title": "A股机器人概念股集体走强，巨轮智能直线涨停，泰尔股份、锋龙股份、天奇股份、万向钱潮此前封板，拓斯达大涨超18%，昊志机电涨超12%。",
@@ -518,7 +533,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
@@ -601,11 +616,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 18时17分]"
+          "appearance_count": 3,
+          "time_info": "[17时18分 ~ 19时14分]"
         }
       ]
     }

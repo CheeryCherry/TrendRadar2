@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T02:22:32.480044+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2025-12-27T03:13:19.819201+08:00",
+  "total_titles_processed": 438,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             9,
-            4
+            4,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 03时13分]"
         },
         {
           "title": "美国三大股指悉数下跌，纳指跌0.1%。 纳斯达克生物科技指数跌超0.7%，成分股Vor Biopharma目前跌4.34%，奥麦罗制药（OMER）跌5.57%，Pyxis Oncology跌5.41%，Kodiak Sciences跌5.76%，Gossamer Bio跌5.38%。 Orchestra Biomed Holdings则涨0.92%暂时表现第三，Silence Therapeutics涨2.61%，Vanda Pharmaceuticals涨2.89%。",
@@ -93,11 +94,12 @@
           "ranks": [
             30,
             20,
-            28
+            28,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 03时13分]"
         }
       ]
     }

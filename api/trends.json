@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T20:29:59.848367+08:00",
-  "total_titles_processed": 1615,
+  "generated_at": "2025-12-26T21:30:51.773832+08:00",
+  "total_titles_processed": 1696,
   "failed_sources": [],
   "trends": [
     {
@@ -158,6 +158,18 @@
           "time_info": "[12时32分 ~ 14时24分]"
         },
         {
+          "title": "国家发改委印发《低空经济及其核心产业统计分类(试行)》",
+          "url": "https://wallstreetcn.com/livenews/3027316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时29分 ~ 21时30分]"
+        },
+        {
           "title": "柳州优必选第1000台工业人形机器人下线",
           "url": "https://wallstreetcn.com/livenews/3026991",
           "source": "华尔街见闻-快讯",
@@ -205,17 +217,6 @@
           "time_info": "[16时21分 ~ 16时22分]"
         },
         {
-          "title": "国家发改委印发《低空经济及其核心产业统计分类(试行)》",
-          "url": "https://wallstreetcn.com/livenews/3027316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
-        },
-        {
           "title": "卡位产业爆发前夜，机器人企业竞相“备壳”",
           "url": "https://wallstreetcn.com/livenews/3026848",
           "source": "华尔街见闻-快讯",
@@ -255,7 +256,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -285,7 +286,7 @@
     },
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "【数据看盘】7.39亿元资金抢筹金风科技 多家实力游资集体出逃海南发展",
@@ -298,6 +299,43 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时19分 ~ 07时15分]"
+        },
+        {
+          "title": "国防科技大学学生到橘子洲头宣誓",
+          "url": "https://www.toutiao.com/trending/7587741593822838803/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时14分 ~ 21时30分]"
+        },
+        {
+          "title": "臻镭科技：因公司涉嫌信息披露违法违规，中国证监会决定对公司予以立案。",
+          "url": "https://wallstreetcn.com/livenews/3027354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
+        },
+        {
+          "title": "《科创板日报》评选2025十大科技热词出炉，AI成绝对主线",
+          "url": "https://www.cls.cn/detail/2239926",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时18分 ~ 21时30分]"
         },
         {
           "title": "闻泰科技杨沐：进一步外采晶圆 正在与客户进行晶圆测试与认证",
@@ -322,29 +360,16 @@
           "time_info": "18时17分"
         },
         {
-          "title": "国防科技大学学生到橘子洲头宣誓",
-          "url": "https://www.toutiao.com/trending/7587741593822838803/",
-          "source": "今日头条",
+          "title": "河南 4 所高校拟申报本科学校，更名为大学，例如「中原工学院」改为「河南电子科技大学」，如何评价？",
+          "url": "https://www.zhihu.com/question/1986119208908644469",
+          "source": "知乎",
           "ranks": [
-            30,
-            5
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 20时29分]"
-        },
-        {
-          "title": "《科创板日报》评选2025十大科技热词出炉，AI成绝对主线",
-          "url": "https://www.cls.cn/detail/2239926",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时18分 ~ 20时29分]"
+          "appearance_count": 3,
+          "time_info": "[20时29分 ~ 21时30分]"
         },
         {
           "title": "绿联科技：筹划发行H股股票并在香港联合交易所有限公司上市。",
@@ -359,6 +384,18 @@
           "time_info": "[17时18分 ~ 18时17分]"
         },
         {
+          "title": "鲁信创投：截至目前，公司参股的三只股权投资基金合计仅持有蓝箭航天空间科技股份有限公司0.89%股权，股权穿透后对公司财务状况和经营成果影响较小。",
+          "url": "https://wallstreetcn.com/livenews/3027300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时29分 ~ 21时30分]"
+        },
+        {
           "title": "锚定新质生产力，资本市场“含科量”迈上新台阶",
           "url": "https://wallstreetcn.com/livenews/3026851",
           "source": "华尔街见闻-快讯",
@@ -368,6 +405,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "金十整理：2025科技圈主角换人 C位属于拉里·埃里森",
+          "url": "https://flash.jin10.com/detail/20251226210148056800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
         },
         {
           "title": "【明日主题前瞻】太空算力成为多个海外科技巨头看好的赛道",
@@ -392,17 +440,6 @@
           "time_info": "16时22分"
         },
         {
-          "title": "河南 4 所高校拟申报本科学校，更名为大学，例如「中原工学院」改为「河南电子科技大学」，如何评价？",
-          "url": "https://www.zhihu.com/question/1986119208908644469",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
-        },
-        {
           "title": "英媒：人工智能热潮料正使美国科技界富豪的净资产增加5000亿美元",
           "url": "https://flash.jin10.com/detail/20251226131433811800",
           "source": "金十数据",
@@ -423,17 +460,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
-        },
-        {
-          "title": "鲁信创投：截至目前，公司参股的三只股权投资基金合计仅持有蓝箭航天空间科技股份有限公司0.89%股权，股权穿透后对公司财务状况和经营成果影响较小。",
-          "url": "https://wallstreetcn.com/livenews/3027300",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
         },
         {
           "title": "洛阳钼业一项目入选中央引导地方科技发展资金立项名单",
@@ -503,6 +529,19 @@
           "time_info": "[11时21分 ~ 18时17分]"
         },
         {
+          "title": "印度的登月计划可行吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E7%9A%84%E7%99%BB%E6%9C%88%E8%AE%A1%E5%88%92%E5%8F%AF%E8%A1%8C%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            27,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时14分 ~ 21时30分]"
+        },
+        {
           "title": "俄罗斯联邦航空运输署解除对从俄罗斯飞往以色列的夜间航班限制。",
           "url": "https://flash.jin10.com/detail/20251226013120374800",
           "source": "金十数据",
@@ -516,18 +555,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时22分 ~ 06时15分]"
-        },
-        {
-          "title": "印度的登月计划可行吗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E7%9A%84%E7%99%BB%E6%9C%88%E8%AE%A1%E5%88%92%E5%8F%AF%E8%A1%8C%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 20时29分]"
         },
         {
           "title": "哈萨克斯坦交通部：委员会未在坠毁于阿克套附近的阿塞拜疆航空公司（AZAL）客机上发现任何爆炸物痕迹。",

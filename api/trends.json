@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T06:15:18.659397+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2025-12-28T07:15:05.151374+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 06时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 07时15分]"
         },
         {
           "title": "恒生电子执行总裁官晓岚：海南封关为金融科技与财富管理带来重要机遇",
@@ -27,8 +27,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 07时15分]"
         },
         {
           "title": "尚福林：要完善长期资本投早、投小、投长期、投硬科技的支持政策",
@@ -58,8 +58,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 06时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 07时15分]"
         },
         {
           "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
@@ -70,8 +70,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 06时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 07时15分]"
         }
       ]
     },
@@ -86,11 +86,12 @@
           "ranks": [
             3,
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 06时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 07时15分]"
         },
         {
           "title": "这是宇宙对我2026的剧透",
@@ -101,11 +102,12 @@
             13,
             18,
             20,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 06时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 07时15分]"
         }
       ]
     },
@@ -125,8 +127,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 06时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 07时15分]"
         }
       ]
     }

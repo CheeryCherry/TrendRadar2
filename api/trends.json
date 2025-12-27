@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-28T03:12:46.591419+08:00",
-  "total_titles_processed": 374,
+  "generated_at": "2025-12-28T04:17:11.350183+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新质生产力 科技 @10",
       "match_count": 3,
       "titles": [
-        {
-          "title": "恒生电子执行总裁官晓岚：海南封关为金融科技与财富管理带来重要机遇",
-          "url": "https://flash.jin10.com/detail/20251227212643543800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时12分]"
-        },
         {
           "title": "美国对华科技竞争战略为何调整",
           "url": "https://www.toutiao.com/trending/7587826394852491307/",
@@ -27,8 +16,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时17分]"
+        },
+        {
+          "title": "恒生电子执行总裁官晓岚：海南封关为金融科技与财富管理带来重要机遇",
+          "url": "https://flash.jin10.com/detail/20251227212643543800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时17分]"
         },
         {
           "title": "尚福林：要完善长期资本投早、投小、投长期、投硬科技的支持政策",
@@ -53,11 +53,12 @@
           "source": "今日头条",
           "ranks": [
             9,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时17分]"
         },
         {
           "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
@@ -67,8 +68,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时17分]"
         }
       ]
     },
@@ -82,11 +83,12 @@
           "source": "澎湃新闻",
           "ranks": [
             3,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时17分]"
         },
         {
           "title": "这是宇宙对我2026的剧透",
@@ -94,11 +96,12 @@
           "source": "抖音",
           "ranks": [
             14,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时17分]"
         }
       ]
     },
@@ -113,11 +116,12 @@
           "ranks": [
             10,
             8,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时17分]"
         }
       ]
     }

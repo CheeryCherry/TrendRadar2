@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T20:28:20.685344+08:00",
-  "total_titles_processed": 1342,
+  "generated_at": "2025-12-27T21:25:44.586795+08:00",
+  "total_titles_processed": 1417,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时19分 ~ 20时28分]"
+          "appearance_count": 15,
+          "time_info": "[11时19分 ~ 21时25分]"
         },
         {
           "title": "大外交｜推迟半导体征税、放行高端芯片出口，美对华科技竞争策略转变",
@@ -56,8 +56,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时07分 ~ 20时28分]"
+          "appearance_count": 14,
+          "time_info": "[09时07分 ~ 21时25分]"
         },
         {
           "title": "国家数据局：到2027年 建成一批具有引领性和支撑性的数据科技创新平台",
@@ -106,6 +106,20 @@
           "time_info": "[00时18分 ~ 03时13分]"
         },
         {
+          "title": "尚福林：要完善长期资本投早、投小、投长期、投硬科技的支持政策",
+          "url": "https://wallstreetcn.com/livenews/3027548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 21时25分]"
+        },
+        {
           "title": "生物科技ETF收跌0.7%，领跌美股行业ETF，半导体ETF涨超0.4%",
           "url": "https://wallstreetcn.com/livenews/3027472",
           "source": "华尔街见闻-快讯",
@@ -117,19 +131,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时15分 ~ 09时07分]"
-        },
-        {
-          "title": "尚福林：要完善长期资本投早、投小、投长期、投硬科技的支持政策",
-          "url": "https://wallstreetcn.com/livenews/3027548",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 20时28分]"
         },
         {
           "title": "周五（12月26日），明晟公司MSCI发展中国家股票指数收涨0.4%，科技板块领跑；2025年迄今，该指数已经累计上涨30%，有望创2017年以来最佳年度表现。 MSCI新兴市场外汇指数创9月中旬以来新高，（南美）哥伦比亚比索、（东欧）匈牙利福林领跑，巴西雷亚尔则一度跌0.5%——受到与大选相关的政治局势的拖累。",
@@ -206,11 +207,12 @@
           "url": "https://www.cls.cn/detail/2241816",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 20时28分]"
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 21时25分]"
         },
         {
           "title": "平安产险北京分公司为北京L3自动驾驶提供保额最高500万三者损失险",
@@ -265,8 +267,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时19分 ~ 20时28分]"
+          "appearance_count": 15,
+          "time_info": "[11时19分 ~ 21时25分]"
         },
         {
           "title": "印度的登月计划可行吗",
@@ -326,11 +328,12 @@
           "source": "抖音",
           "ranks": [
             23,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 20时28分]"
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 21时25分]"
         }
       ]
     },

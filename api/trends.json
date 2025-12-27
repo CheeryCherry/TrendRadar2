@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T17:16:08.174724+08:00",
-  "total_titles_processed": 1127,
+  "generated_at": "2025-12-27T18:15:37.473935+08:00",
+  "total_titles_processed": 1194,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "闻泰科技1月将借听证会维权，国际仲裁索赔或达80亿美元",
@@ -38,11 +38,12 @@
             22,
             20,
             15,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时19分 ~ 17时16分]"
+          "appearance_count": 12,
+          "time_info": "[11时19分 ~ 18时15分]"
         },
         {
           "title": "大外交｜推迟半导体征税、放行高端芯片出口，美对华科技竞争策略转变",
@@ -54,8 +55,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时07分 ~ 17时16分]"
+          "appearance_count": 11,
+          "time_info": "[09时07分 ~ 18时15分]"
         },
         {
           "title": "国家数据局：到2027年 建成一批具有引领性和支撑性的数据科技创新平台",
@@ -75,18 +76,6 @@
           "time_info": "[11时20分 ~ 17时16分]"
         },
         {
-          "title": "近日，有市场传闻称，“叮咚买菜要被京东收购。”对此，从接近京东人士了解，“目前暂无收购计划。”（新浪科技）",
-          "url": "https://wallstreetcn.com/livenews/3027539",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 17时16分]"
-        },
-        {
           "title": "河南 4 所高校拟申报本科学校，更名为大学，例如「中原工学院」改为「河南电子科技大学」，如何评价？",
           "url": "https://www.zhihu.com/question/1986119208908644469",
           "source": "知乎",
@@ -99,6 +88,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时18分 ~ 03时13分]"
+        },
+        {
+          "title": "近日，有市场传闻称，“叮咚买菜要被京东收购。”对此，从接近京东人士了解，“目前暂无收购计划。”（新浪科技）",
+          "url": "https://wallstreetcn.com/livenews/3027539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 18时15分]"
+        },
+        {
+          "title": "尚福林：要完善长期资本投早、投小、投长期、投硬科技的支持政策",
+          "url": "https://wallstreetcn.com/livenews/3027548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "生物科技ETF收跌0.7%，领跌美股行业ETF，半导体ETF涨超0.4%",
@@ -175,11 +188,12 @@
             1,
             4,
             7,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时23分 ~ 17时16分]"
+          "appearance_count": 5,
+          "time_info": "[14时23分 ~ 18时15分]"
         },
         {
           "title": "平安产险北京分公司为北京L3自动驾驶提供保额最高500万三者损失险",
@@ -229,11 +243,12 @@
             17,
             11,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时19分 ~ 17时16分]"
+          "appearance_count": 12,
+          "time_info": "[11时19分 ~ 18时15分]"
         },
         {
           "title": "印度的登月计划可行吗",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T21:25:44.586795+08:00",
-  "total_titles_processed": 1417,
+  "generated_at": "2025-12-27T22:14:37.866074+08:00",
+  "total_titles_processed": 1476,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "闻泰科技1月将借听证会维权，国际仲裁索赔或达80亿美元",
@@ -43,8 +43,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时19分 ~ 21时25分]"
+          "appearance_count": 16,
+          "time_info": "[11时19分 ~ 22时14分]"
         },
         {
           "title": "大外交｜推迟半导体征税、放行高端芯片出口，美对华科技竞争策略转变",
@@ -113,11 +113,12 @@
             2,
             10,
             17,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时15分 ~ 21时25分]"
+          "appearance_count": 5,
+          "time_info": "[18时15分 ~ 22时14分]"
         },
         {
           "title": "生物科技ETF收跌0.7%，领跌美股行业ETF，半导体ETF涨超0.4%",
@@ -179,6 +180,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 01时14分]"
+        },
+        {
+          "title": "恒生电子执行总裁官晓岚：海南封关为金融科技与财富管理带来重要机遇",
+          "url": "https://flash.jin10.com/detail/20251227212643543800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         }
       ]
     },
@@ -211,8 +223,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时13分 ~ 21时25分]"
+          "appearance_count": 4,
+          "time_info": "[19时13分 ~ 22时14分]"
         },
         {
           "title": "平安产险北京分公司为北京L3自动驾驶提供保额最高500万三者损失险",
@@ -252,7 +264,7 @@
     },
     {
       "keyword_group": "月球 登月 火星 宇宙 飞船 航空 @5",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "随神舟二十一号载人飞船返回的“太空小鼠”已成功孕育幼仔",
@@ -264,11 +276,12 @@
             9,
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时19分 ~ 21时25分]"
+          "appearance_count": 16,
+          "time_info": "[11时19分 ~ 22时14分]"
         },
         {
           "title": "印度的登月计划可行吗",
@@ -301,6 +314,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时07分 ~ 11时20分]"
+        },
+        {
+          "title": "我的2026宇宙启示",
+          "url": "https://www.douyin.com/hot/2349234",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
+          "title": "雪饼猴和宇宙闪烁请注意联动了",
+          "url": "https://www.douyin.com/hot/2349340",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         }
       ]
     },
@@ -329,11 +364,12 @@
           "ranks": [
             23,
             12,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时13分 ~ 21时25分]"
+          "appearance_count": 4,
+          "time_info": "[19时13分 ~ 22时14分]"
         }
       ]
     },

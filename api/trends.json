@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T21:27:06.141999+08:00",
-  "total_titles_processed": 1209,
+  "generated_at": "2025-12-28T22:15:10.798881+08:00",
+  "total_titles_processed": 1260,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "机器人测试时突然送工程师恶毒一脚",
@@ -34,8 +34,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时43分 ~ 21时27分]"
+          "appearance_count": 19,
+          "time_info": "[11时43分 ~ 22时15分]"
         },
         {
           "title": "机器人测试时突然踹工程师一脚",
@@ -64,8 +64,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时17分 ~ 21时27分]"
+          "appearance_count": 32,
+          "time_info": "[00时17分 ~ 22时15分]"
         },
         {
           "title": "马斯克1个表情评宇树机器人踹工程师",
@@ -78,6 +78,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时43分 ~ 13时20分]"
+        },
+        {
+          "title": "宇树 G1 机器人模仿动作测试中，对工程师踢了一脚，为什么会出现这种情况？",
+          "url": "https://www.zhihu.com/question/1988539129605091831",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时14分 ~ 22时15分]"
         },
         {
           "title": "马斯克评论宇树机器人测试视频",
@@ -316,8 +327,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时17分 ~ 21时27分]"
+          "appearance_count": 32,
+          "time_info": "[00时17分 ~ 22时15分]"
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T04:17:34.268322+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2025-12-29T05:14:22.579484+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 04时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 05时14分]"
         },
         {
           "title": "宇树 G1 机器人模仿动作测试中，对工程师踢了一脚，为什么会出现这种情况？",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 04时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 05时14分]"
         },
         {
           "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
@@ -41,8 +41,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 04时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 05时14分]"
         }
       ]
     },
@@ -73,11 +73,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 05时14分]"
         }
       ]
     }

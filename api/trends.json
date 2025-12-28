@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T22:15:10.798881+08:00",
-  "total_titles_processed": 1260,
+  "generated_at": "2025-12-28T23:15:02.252833+08:00",
+  "total_titles_processed": 1322,
   "failed_sources": [],
   "trends": [
     {
@@ -34,8 +34,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[11时43分 ~ 22时15分]"
+          "appearance_count": 21,
+          "time_info": "[11时43分 ~ 23时15分]"
         },
         {
           "title": "机器人测试时突然踹工程师一脚",
@@ -64,8 +64,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[00时17分 ~ 22时15分]"
+          "appearance_count": 34,
+          "time_info": "[00时17分 ~ 23时15分]"
+        },
+        {
+          "title": "宇树 G1 机器人模仿动作测试中，对工程师踢了一脚，为什么会出现这种情况？",
+          "url": "https://www.zhihu.com/question/1988539129605091831",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时14分 ~ 23时15分]"
         },
         {
           "title": "马斯克1个表情评宇树机器人踹工程师",
@@ -78,17 +89,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时43分 ~ 13时20分]"
-        },
-        {
-          "title": "宇树 G1 机器人模仿动作测试中，对工程师踢了一脚，为什么会出现这种情况？",
-          "url": "https://www.zhihu.com/question/1988539129605091831",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时14分 ~ 22时15分]"
         },
         {
           "title": "马斯克评论宇树机器人测试视频",
@@ -222,7 +222,7 @@
     },
     {
       "keyword_group": "月球 登月 火星 宇宙 飞船 航空 @5",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "接入电网太慢“等不起”，数据中心抢购“航空发动机”发电",
@@ -288,6 +288,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[18时15分 ~ 21时27分]"
+        },
+        {
+          "title": "NASA新局长称美国将在特朗普第二任期内重返月球",
+          "url": "https://flash.jin10.com/detail/20251228223135364800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         }
       ]
     },
@@ -324,11 +335,12 @@
             19,
             22,
             25,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[00时17分 ~ 22时15分]"
+          "appearance_count": 34,
+          "time_info": "[00时17分 ~ 23时15分]"
         }
       ]
     },

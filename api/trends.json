@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T12:44:33.693732+08:00",
-  "total_titles_processed": 935,
+  "generated_at": "2025-12-29T13:24:57.081011+08:00",
+  "total_titles_processed": 981,
   "failed_sources": [],
   "trends": [
     {
@@ -50,11 +50,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[11时44分 ~ 13时24分]"
         },
         {
           "title": "深圳“十五五”规划建议：推动第六代移动通信、生物制造、具身智能等成为新的经济增长点",
@@ -92,8 +93,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[11时44分 ~ 13时24分]"
         },
         {
           "title": "上海科技青年35人引领计划获奖名单揭晓，他们有何硬核之处？",
@@ -104,8 +105,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[11时44分 ~ 13时24分]"
         },
         {
           "title": "金十图示：2025年12月29日（周一）全球主要科技与互联网公司市值变化",
@@ -165,8 +166,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时15分 ~ 12时44分]"
+          "appearance_count": 4,
+          "time_info": "[09时15分 ~ 13时24分]"
         },
         {
           "title": "国产AI大战迈入新阶段？豆包日活破亿 机构：“Chatbot入口之争”已然意义不大",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T02:22:13.750960+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-01-01T03:12:43.396852+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 02时22分]"
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 03时12分]"
         },
         {
           "title": "港交所文件显示，苏州极易科技股份有限公司再次向港交所提交上市申请书，独家保荐人为中信证券。",
@@ -71,6 +72,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "马斯克没造出的机器人 稚晖君搞定了",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%B2%A1%E9%80%A0%E5%87%BA%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA+%E7%A8%9A%E6%99%96%E5%90%9B%E6%90%9E%E5%AE%9A%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时12分]"
+        },
+        {
           "title": "谷歌旗下自动驾驶公司Waymo：正为明年在伦敦的商业发布做准备。",
           "url": "https://flash.jin10.com/detail/20260101000228879800",
           "source": "金十数据",
@@ -81,18 +94,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时19分 ~ 01时14分]"
-        },
-        {
-          "title": "马斯克没造出的机器人 稚晖君搞定了",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%B2%A1%E9%80%A0%E5%87%BA%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA+%E7%A8%9A%E6%99%96%E5%90%9B%E6%90%9E%E5%AE%9A%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 02时22分]"
         },
         {
           "title": "稚晖君发布个人机器人启元Q1",
@@ -117,11 +118,12 @@
           "source": "抖音",
           "ranks": [
             20,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时12分]"
         },
         {
           "title": "散了吧!FGO月球春晚没活了",
@@ -131,19 +133,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 03时12分]"
         },
         {
           "title": "如何评价柯汶利导演「杀」宇宙系列新片《匿杀》？",
           "url": "https://www.zhihu.com/question/1989486486333196272",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 02时22分]"
+          "appearance_count": 3,
+          "time_info": "[02时21分 ~ 03时12分]"
         }
       ]
     }

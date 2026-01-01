@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T06:15:40.906668+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2026-01-02T07:15:54.824943+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时15分]"
         },
         {
           "title": "三张图总结2025年环球资产表现：科技牛、金属狂、美元颓",
           "url": "https://www.cls.cn/detail/2240328",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时15分]"
         },
         {
           "title": "2026中国硬核科技将再次震撼世界",
@@ -53,8 +54,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时15分 ~ 06时15分]"
+          "appearance_count": 7,
+          "time_info": "[01时15分 ~ 07时15分]"
         }
       ]
     },
@@ -71,8 +72,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时15分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -87,8 +88,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时15分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -99,8 +100,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 07时15分]"
         }
       ]
     },
@@ -121,8 +122,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时15分]"
         },
         {
           "title": "散了吧!FGO月球春晚没活了",
@@ -132,8 +133,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时15分]"
         },
         {
           "title": "沙特消息人士：也门政府为缓解国内持续升级的局势，对往返阿布扎比和迪拜的航空交通实施限制。",
@@ -161,8 +162,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时15分]"
         },
         {
           "title": "稚晖君发布个人机器人启元Q1",

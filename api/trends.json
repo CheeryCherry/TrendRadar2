@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T02:22:46.333497+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2026-01-02T03:13:33.941957+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时13分]"
+        },
+        {
+          "title": "三张图总结2025年环球资产表现：科技牛、金属狂、美元颓",
+          "url": "https://www.cls.cn/detail/2240328",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时13分]"
         },
         {
           "title": "2026中国硬核科技将再次震撼世界",
@@ -31,27 +42,17 @@
           "time_info": "[00时19分 ~ 02时22分]"
         },
         {
-          "title": "三张图总结2025年环球资产表现：科技牛、金属狂、美元颓",
-          "url": "https://www.cls.cn/detail/2240328",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 02时22分]"
-        },
-        {
           "title": "2026中国硬核科技将再次震撼世界",
           "url": "https://www.baidu.com/s?wd=2026%E4%B8%AD%E5%9B%BD%E7%A1%AC%E6%A0%B8%E7%A7%91%E6%8A%80%E5%B0%86%E5%86%8D%E6%AC%A1%E9%9C%87%E6%92%BC%E4%B8%96%E7%95%8C",
           "source": "百度热搜",
           "ranks": [
             28,
-            22
+            22,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 02时22分]"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 03时13分]"
         }
       ]
     },
@@ -67,8 +68,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时13分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -79,8 +80,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时13分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -89,11 +90,12 @@
           "ranks": [
             20,
             17,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时13分]"
         }
       ]
     },
@@ -111,8 +113,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时13分]"
         },
         {
           "title": "散了吧!FGO月球春晚没活了",
@@ -122,8 +124,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时13分]"
         },
         {
           "title": "沙特消息人士：也门政府为缓解国内持续升级的局势，对往返阿布扎比和迪拜的航空交通实施限制。",
@@ -151,8 +153,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时13分]"
         }
       ]
     }

@@ -1,12 +1,38 @@
 {
-  "generated_at": "2026-01-01T15:19:40.346507+08:00",
-  "total_titles_processed": 1113,
+  "generated_at": "2026-01-01T16:22:07.337681+08:00",
+  "total_titles_processed": 1190,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "150万美元！OpenAI人均员工薪酬炸裂，刷新科技史纪录",
+          "url": "https://wallstreetcn.com/articles/3762366",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时17分 ~ 16时22分]"
+        },
+        {
+          "title": "三张图总结2025年环球资产表现：科技牛、金属狂、美元颓",
+          "url": "https://www.cls.cn/detail/2240328",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时45分 ~ 16时22分]"
+        },
         {
           "title": "中国存储芯片第一股来了！长鑫科技科创板IPO获受理，预先审阅机制首单，拟募资295亿元",
           "url": "https://wallstreetcn.com/articles/3762337",
@@ -19,30 +45,15 @@
           "time_info": "[00时19分 ~ 02时22分]"
         },
         {
-          "title": "150万美元！OpenAI人均员工薪酬炸裂，刷新科技史纪录",
-          "url": "https://wallstreetcn.com/articles/3762366",
-          "source": "华尔街见闻",
+          "title": "机构：全球主权财富基金资产创新高，对科技行业的投资增加",
+          "url": "https://wallstreetcn.com/livenews/3029588",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9,
-            7,
-            8
+            5
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时17分 ~ 15时19分]"
-        },
-        {
-          "title": "三张图总结2025年环球资产表现：科技牛、金属狂、美元颓",
-          "url": "https://www.cls.cn/detail/2240328",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时45分 ~ 15时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "标普500指数的11个板块全线收跌，房地产板块跌1%，原材料、工业、信息技术/科技、可选消费板块跌0.88%-0.8%，能源板块跌0.52%表现“顺数第二”，电信板块跌0.4%。",
@@ -117,6 +128,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时19分 ~ 01时14分]"
+        },
+        {
+          "title": "机构：全球主权财富基金资产创新高，对科技行业的投资增加",
+          "url": "https://flash.jin10.com/detail/20260101154004580800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "全球主权基金进军科技领域，资产规模增至 15 万亿美元",
@@ -233,11 +255,12 @@
             25,
             10,
             19,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时45分 ~ 15时19分]"
+          "appearance_count": 9,
+          "time_info": "[11时45分 ~ 16时22分]"
         },
         {
           "title": "特斯拉车主首度实现“全程自动驾驶横穿美国” 马斯克：酷",
@@ -248,8 +271,21 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时43分 ~ 16时22分]"
+        },
+        {
+          "title": "你认为机器人一定要做成人形吗",
+          "url": "https://www.toutiao.com/trending/7589921178010697778/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            16,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时43分 ~ 15时19分]"
+          "time_info": "[14时24分 ~ 16时22分]"
         },
         {
           "title": "谷歌旗下自动驾驶公司Waymo：正为明年在伦敦的商业发布做准备。",
@@ -262,18 +298,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时19分 ~ 01时14分]"
-        },
-        {
-          "title": "你认为机器人一定要做成人形吗",
-          "url": "https://www.toutiao.com/trending/7589921178010697778/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时24分 ~ 15时19分]"
         },
         {
           "title": "宇树人形机器人回应AI是否存在泡沫",
@@ -336,11 +360,12 @@
             11,
             12,
             13,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时14分 ~ 15时19分]"
+          "appearance_count": 20,
+          "time_info": "[01时14分 ~ 16时22分]"
         },
         {
           "title": "我的2026宇宙启示",
@@ -376,11 +401,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 15时19分]"
+          "appearance_count": 3,
+          "time_info": "[14时25分 ~ 16时22分]"
         },
         {
           "title": "如何评价柯汶利导演「杀」宇宙系列新片《匿杀》？",
@@ -399,11 +425,12 @@
           "url": "https://flash.jin10.com/detail/20260101134608633800",
           "source": "金十数据",
           "ranks": [
-            15
+            15,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 16时22分]"
         }
       ]
     },

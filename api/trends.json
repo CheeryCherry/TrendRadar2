@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T19:14:27.479624+08:00",
-  "total_titles_processed": 1355,
+  "generated_at": "2026-01-01T20:31:37.738774+08:00",
+  "total_titles_processed": 1405,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时45分 ~ 19时14分]"
+          "appearance_count": 13,
+          "time_info": "[11时45分 ~ 20时31分]"
         },
         {
           "title": "150万美元！OpenAI人均员工薪酬炸裂，刷新科技史纪录",
@@ -52,11 +52,27 @@
             5,
             11,
             15,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时22分 ~ 19时14分]"
+          "appearance_count": 5,
+          "time_info": "[16时22分 ~ 20时31分]"
+        },
+        {
+          "title": "机构：全球主权财富基金资产创新高，对科技行业的投资增加",
+          "url": "https://flash.jin10.com/detail/20260101154004580800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            9,
+            14,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时22分 ~ 20时31分]"
         },
         {
           "title": "专家：中国黑科技颠覆电子战",
@@ -81,20 +97,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时15分]"
-        },
-        {
-          "title": "机构：全球主权财富基金资产创新高，对科技行业的投资增加",
-          "url": "https://flash.jin10.com/detail/20260101154004580800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            9,
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时22分 ~ 19时14分]"
         },
         {
           "title": "美股科技巨头收盘播报｜2025年AMD涨超77%，谷歌A涨约66%，台积电涨月56%，英伟达涨幅不足39%",
@@ -262,8 +264,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时43分 ~ 19时14分]"
+          "appearance_count": 11,
+          "time_info": "[12时43分 ~ 20时31分]"
         },
         {
           "title": "马斯克没造出的机器人 稚晖君搞定了",
@@ -301,11 +303,12 @@
             21,
             16,
             17,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时24分 ~ 19时14分]"
+          "appearance_count": 9,
+          "time_info": "[14时24分 ~ 20时31分]"
         },
         {
           "title": "谷歌旗下自动驾驶公司Waymo：正为明年在伦敦的商业发布做准备。",
@@ -318,6 +321,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时19分 ~ 01时14分]"
+        },
+        {
+          "title": "机器人都会舞狮了",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%83%BD%E4%BC%9A%E8%88%9E%E7%8B%AE%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 20时31分]"
         },
         {
           "title": "机器人离我们有多近",
@@ -355,17 +370,6 @@
           "time_info": "01时14分"
         },
         {
-          "title": "机器人都会舞狮了",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%83%BD%E4%BC%9A%E8%88%9E%E7%8B%AE%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
           "title": "机器人登上各大跨年晚会舞台",
           "url": "https://www.toutiao.com/trending/7589671472719265855/",
           "source": "今日头条",
@@ -380,7 +384,7 @@
     },
     {
       "keyword_group": "月球 登月 火星 宇宙 飞船 航空 @5",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "散了吧!FGO月球春晚没活了",
@@ -398,8 +402,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时14分 ~ 19时14分]"
+          "appearance_count": 24,
+          "time_info": "[01时14分 ~ 20时31分]"
         },
         {
           "title": "我的2026宇宙启示",
@@ -469,6 +473,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时21分 ~ 03时12分]"
+        },
+        {
+          "title": "新研究发现火星上寻找生命最佳地点",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0%E7%81%AB%E6%98%9F%E4%B8%8A%E5%AF%BB%E6%89%BE%E7%94%9F%E5%91%BD%E6%9C%80%E4%BD%B3%E5%9C%B0%E7%82%B9",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         }
       ]
     },
@@ -481,11 +496,12 @@
           "url": "https://wallstreetcn.com/articles/3762429",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 20时31分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文 开启架构新篇章",
@@ -494,11 +510,12 @@
           "ranks": [
             3,
             7,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 19时14分]"
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 20时31分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文：提出mHC新架构 提升大模型训练稳定性",
@@ -506,11 +523,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 19时14分]"
+          "appearance_count": 3,
+          "time_info": "[18时17分 ~ 20时31分]"
         },
         {
           "title": "「Gemini」的正确读音是什么，哪种读法更被普遍接受？",

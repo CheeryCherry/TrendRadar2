@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T18:16:58.981565+08:00",
-  "total_titles_processed": 1252,
+  "generated_at": "2026-01-02T19:15:01.350223+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时19分 ~ 18时16分]"
+          "appearance_count": 23,
+          "time_info": "[00时19分 ~ 19时15分]"
         },
         {
           "title": "大涨超100%！“港股国产GPU第一股”壁仞科技上市 一手赚近4000港元",
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时35分 ~ 18时16分]"
+          "appearance_count": 11,
+          "time_info": "[12时35分 ~ 19时15分]"
         },
         {
           "title": "2026中国硬核科技将再次震撼世界",
@@ -49,8 +49,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时15分 ~ 18时16分]"
+          "appearance_count": 16,
+          "time_info": "[01时15分 ~ 19时15分]"
         },
         {
           "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
@@ -61,8 +61,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时26分 ~ 18时16分]"
+          "appearance_count": 12,
+          "time_info": "[11时26分 ~ 19时15分]"
         },
         {
           "title": "三张图总结2025年环球资产表现：科技牛、金属狂、美元颓",
@@ -92,6 +92,18 @@
           "time_info": "[12时35分 ~ 16时22分]"
         },
         {
+          "title": "2026港股开门红，恒科收涨4%，壁仞科技一度涨近120%，百度大涨9%，人民币继续走强",
+          "url": "https://wallstreetcn.com/articles/3762444",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时19分 ~ 19时15分]"
+        },
+        {
           "title": "2026中国硬核科技将再次震撼世界",
           "url": "https://www.toutiao.com/trending/7589605076109934655/",
           "source": "今日头条",
@@ -103,18 +115,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时19分 ~ 05时15分]"
-        },
-        {
-          "title": "2026港股开门红，恒科收涨4%，壁仞科技一度涨近120%，百度大涨9%，人民币继续走强",
-          "url": "https://wallstreetcn.com/articles/3762444",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 18时16分]"
         },
         {
           "title": "香港恒生科技指数涨超4%。恒生指数涨超2%。华虹半导体涨超10%，百度集团涨近9%，中芯国际涨超5%。",
@@ -353,11 +353,12 @@
             19,
             23,
             24,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时19分 ~ 18时16分]"
+          "appearance_count": 23,
+          "time_info": "[00时19分 ~ 19时15分]"
         },
         {
           "title": "海航空姐统一戴长发簪引安全讨论",
@@ -395,11 +396,12 @@
           "ranks": [
             20,
             6,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 18时16分]"
+          "appearance_count": 5,
+          "time_info": "[16时22分 ~ 19时15分]"
         },
         {
           "title": "沙特消息人士：也门政府为缓解国内持续升级的局势，对往返阿布扎比和迪拜的航空交通实施限制。",
@@ -420,7 +422,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         }
@@ -454,8 +456,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时26分 ~ 18时16分]"
+          "appearance_count": 12,
+          "time_info": "[11时26分 ~ 19时15分]"
         },
         {
           "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
@@ -485,8 +487,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时19分 ~ 18时16分]"
+          "appearance_count": 21,
+          "time_info": "[00时19分 ~ 19时15分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -584,8 +586,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 18时16分]"
+          "appearance_count": 4,
+          "time_info": "[17时19分 ~ 19时15分]"
         }
       ]
     }

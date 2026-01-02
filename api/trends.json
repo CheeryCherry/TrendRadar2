@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T01:15:04.364145+08:00",
-  "total_titles_processed": 367,
+  "generated_at": "2026-01-03T02:22:59.669201+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 01时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 02时22分]"
         },
         {
           "title": "推进科创板上市！ 国产GPU四小龙燧原科技完成IPO辅导",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 01时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 02时22分]"
         },
         {
           "title": "大涨超100%！“港股国产GPU第一股”壁仞科技上市 一手赚近4000港元",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 01时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 02时22分]"
         },
         {
           "title": "港股收盘｜科技指数涨超4%迎“开门红” 硬科技与政策消费双轮驱动",
@@ -48,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 01时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 02时22分]"
         },
         {
           "title": "美股三大期指集体走强 科技、贵金属板块开局强劲 | 今夜看点",
@@ -60,8 +60,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 01时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 02时22分]"
         },
         {
           "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
@@ -71,8 +71,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 01时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 02时22分]"
         },
         {
           "title": "费城半导体指数涨近4%，阿斯麦涨超8%，美光科技涨超6%，Arm涨近6%，英特尔涨超4%。",
@@ -105,29 +105,31 @@
           "time_info": "[00时18分 ~ 01时15分]"
         },
         {
-          "title": "法国政府声明：法国多位部长就X平台Grok生成涉性内容一事向检方提交通报。",
-          "url": "https://flash.jin10.com/detail/20260102233919863800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时15分]"
-        },
-        {
           "title": "DeepSeek梁文锋又发论文了",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%88%E5%8F%91%E8%AE%BA%E6%96%87%E4%BA%86",
           "source": "bilibili 热搜",
           "ranks": [
             14,
             19,
-            13
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 01时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 02时22分]"
+        },
+        {
+          "title": "法国政府声明：法国多位部长就X平台Grok生成涉性内容一事向检方提交通报。",
+          "url": "https://flash.jin10.com/detail/20260102233919863800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时22分]"
         }
       ]
     },
@@ -140,11 +142,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32301929",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 01时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 02时22分]"
         },
         {
           "title": "全球首款基于视觉的AI网球机器人，重新定义AI驱动的网球伙伴",
@@ -152,11 +155,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            16
+            16,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时22分]"
         },
         {
           "title": "木门上市公司也要入场造机器人？江山欧派回应：仅销售不生产",
@@ -181,11 +185,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时22分]"
         },
         {
           "title": "海航空姐统一戴长发簪引安全讨论",
@@ -195,8 +200,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 02时22分]"
         }
       ]
     }

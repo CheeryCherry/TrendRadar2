@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T11:26:49.321239+08:00",
-  "total_titles_processed": 730,
+  "generated_at": "2026-01-02T12:36:15.857347+08:00",
+  "total_titles_processed": 805,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "推进科创板上市！ 国产GPU四小龙燧原科技完成IPO辅导",
@@ -15,8 +15,25 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 11时26分]"
+          "appearance_count": 14,
+          "time_info": "[00时19分 ~ 12时36分]"
+        },
+        {
+          "title": "2026中国硬核科技将再次震撼世界",
+          "url": "https://www.baidu.com/s?wd=2026%E4%B8%AD%E5%9B%BD%E7%A1%AC%E6%A0%B8%E7%A7%91%E6%8A%80%E5%B0%86%E5%86%8D%E6%AC%A1%E9%9C%87%E6%92%BC%E4%B8%96%E7%95%8C",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            22,
+            17,
+            19,
+            2,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时15分 ~ 12时36分]"
         },
         {
           "title": "三张图总结2025年环球资产表现：科技牛、金属狂、美元颓",
@@ -33,22 +50,6 @@
         },
         {
           "title": "2026中国硬核科技将再次震撼世界",
-          "url": "https://www.baidu.com/s?wd=2026%E4%B8%AD%E5%9B%BD%E7%A1%AC%E6%A0%B8%E7%A7%91%E6%8A%80%E5%B0%86%E5%86%8D%E6%AC%A1%E9%9C%87%E6%92%BC%E4%B8%96%E7%95%8C",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            22,
-            17,
-            19,
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时15分 ~ 11时26分]"
-        },
-        {
-          "title": "2026中国硬核科技将再次震撼世界",
           "url": "https://www.toutiao.com/trending/7589605076109934655/",
           "source": "今日头条",
           "ranks": [
@@ -61,59 +62,120 @@
           "time_info": "[00时19分 ~ 05时15分]"
         },
         {
-          "title": "香港恒生指数涨超2%，恒生科技指数涨3.58%。",
-          "url": "https://wallstreetcn.com/livenews/3029711",
+          "title": "恒生指数早盘涨2.18%，恒生科技指数涨3.38%。壁仞科技上市首日涨超72%；华虹半导体涨超9%，百度集团涨超7%，三花智控涨超6%，网易涨超5%，理想汽车涨超4%，中芯国际涨超4%，金风科技涨超17%，德林控股涨超14%。",
+          "url": "https://wallstreetcn.com/livenews/3029726",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时26分"
+          "time_info": "12时36分"
+        },
+        {
+          "title": "香港恒生指数涨超2%，恒生科技指数涨3.58%。",
+          "url": "https://wallstreetcn.com/livenews/3029711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 12时36分]"
         },
         {
           "title": "金风科技大涨超14%，蓝箭航天科创板IPO申请获受理",
           "url": "https://wallstreetcn.com/livenews/3029710",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "金十图示：2026年01月02日（周五）全球主要科技与互联网公司市值变化",
-          "url": "https://flash.jin10.com/detail/20260102105930869800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 12时36分]"
         },
         {
           "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
           "url": "https://www.cls.cn/detail/2246252",
           "source": "财联社热门",
           "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 12时36分]"
+        },
+        {
+          "title": "新年首个交易日，恒科涨超3%，壁仞科技一度涨近120%，百度大涨7%，人民币继续走强",
+          "url": "https://wallstreetcn.com/articles/3762444",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 12时36分]"
+        },
+        {
+          "title": "金十图示：2026年01月02日（周五）全球主要科技与互联网公司市值变化",
+          "url": "https://flash.jin10.com/detail/20260102105930869800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 12时36分]"
+        },
+        {
+          "title": "大涨超100%！“港股国产GPU第一股”壁仞科技上市 一手赚近4000港元",
+          "url": "https://www.cls.cn/detail/2246281",
+          "source": "财联社热门",
+          "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 12时36分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）中国科技互联网公司市值排名TOP 50一览",
           "url": "https://flash.jin10.com/detail/20260102105703777800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 12时36分]"
+        },
+        {
+          "title": "港股芯片股集体走强，华虹半导体涨超7%，芯智控股涨近5%，中电华大科技、ASMPT、中芯国际涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3029702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 12时36分]"
+        },
+        {
+          "title": "壁仞科技暴涨82%",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A3%81%E4%BB%9E%E7%A7%91%E6%8A%80%E6%9A%B4%E6%B6%A882%25%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 12时36分]"
         },
         {
           "title": "“国产GPU四小龙”燧原科技完成IPO辅导，预计将申报科创板IPO",
@@ -127,24 +189,13 @@
           "time_info": "09时11分"
         },
         {
-          "title": "港股芯片股集体走强，华虹半导体涨超7%，芯智控股涨近5%，中电华大科技、ASMPT、中芯国际涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3029702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
           "title": "香港恒生科技指数涨超2%，恒生指数涨1.3%。",
           "url": "https://wallstreetcn.com/livenews/3029697",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -155,7 +206,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -166,7 +217,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -196,8 +247,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 11时26分]"
+          "appearance_count": 14,
+          "time_info": "[00时19分 ~ 12时36分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -209,8 +260,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 11时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 12时36分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -235,20 +286,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时26分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 12时36分]"
         },
         {
           "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
           "url": "https://www.zhihu.com/question/1990084005744362243",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时26分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 12时36分]"
         }
       ]
     },
@@ -268,11 +320,12 @@
             16,
             19,
             21,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 11时26分]"
+          "appearance_count": 14,
+          "time_info": "[00时19分 ~ 12时36分]"
         },
         {
           "title": "散了吧!FGO月球春晚没活了",
@@ -280,11 +333,35 @@
           "source": "贴吧",
           "ranks": [
             19,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 11时26分]"
+          "appearance_count": 14,
+          "time_info": "[00时19分 ~ 12时36分]"
+        },
+        {
+          "title": "海航空姐统一戴长发簪遭质疑不安全",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E8%88%AA%E7%A9%BA%E5%A7%90%E7%BB%9F%E4%B8%80%E6%88%B4%E9%95%BF%E5%8F%91%E7%B0%AA%E9%81%AD%E8%B4%A8%E7%96%91%E4%B8%8D%E5%AE%89%E5%85%A8%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 12时36分]"
+        },
+        {
+          "title": "海航空姐统一戴长发簪引安全讨论",
+          "url": "https://www.toutiao.com/trending/7590404778426073097/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 12时36分]"
         },
         {
           "title": "沙特消息人士：也门政府为缓解国内持续升级的局势，对往返阿布扎比和迪拜的航空交通实施限制。",
@@ -297,28 +374,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 01时15分]"
-        },
-        {
-          "title": "海航空姐统一戴长发簪遭质疑不安全",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E8%88%AA%E7%A9%BA%E5%A7%90%E7%BB%9F%E4%B8%80%E6%88%B4%E9%95%BF%E5%8F%91%E7%B0%AA%E9%81%AD%E8%B4%A8%E7%96%91%E4%B8%8D%E5%AE%89%E5%85%A8%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "海航空姐统一戴长发簪引安全讨论",
-          "url": "https://www.toutiao.com/trending/7590404778426073097/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时26分"
         }
       ]
     },
@@ -342,11 +397,12 @@
           "url": "https://www.toutiao.com/trending/7590546795705404954/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时26分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 12时36分]"
         },
         {
           "title": "稚晖君发布个人机器人启元Q1",

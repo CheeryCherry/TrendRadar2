@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T12:36:15.857347+08:00",
-  "total_titles_processed": 805,
+  "generated_at": "2026-01-02T13:21:45.092467+08:00",
+  "total_titles_processed": 854,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时19分 ~ 12时36分]"
+          "appearance_count": 15,
+          "time_info": "[00时19分 ~ 13时21分]"
         },
         {
           "title": "2026中国硬核科技将再次震撼世界",
@@ -29,11 +29,12 @@
             19,
             2,
             13,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时15分 ~ 12时36分]"
+          "appearance_count": 12,
+          "time_info": "[01时15分 ~ 13时21分]"
         },
         {
           "title": "三张图总结2025年环球资产表现：科技牛、金属狂、美元颓",
@@ -62,27 +63,17 @@
           "time_info": "[00时19分 ~ 05时15分]"
         },
         {
-          "title": "恒生指数早盘涨2.18%，恒生科技指数涨3.38%。壁仞科技上市首日涨超72%；华虹半导体涨超9%，百度集团涨超7%，三花智控涨超6%，网易涨超5%，理想汽车涨超4%，中芯国际涨超4%，金风科技涨超17%，德林控股涨超14%。",
-          "url": "https://wallstreetcn.com/livenews/3029726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
           "title": "香港恒生指数涨超2%，恒生科技指数涨3.58%。",
           "url": "https://wallstreetcn.com/livenews/3029711",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 12时36分]"
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 13时21分]"
         },
         {
           "title": "金风科技大涨超14%，蓝箭航天科创板IPO申请获受理",
@@ -90,11 +81,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            18
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 13时21分]"
+        },
+        {
+          "title": "恒生指数早盘涨2.18%，恒生科技指数涨3.38%。壁仞科技上市首日涨超72%；华虹半导体涨超9%，百度集团涨超7%，三花智控涨超6%，网易涨超5%，理想汽车涨超4%，中芯国际涨超4%，金风科技涨超17%，德林控股涨超14%。",
+          "url": "https://wallstreetcn.com/livenews/3029726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时26分 ~ 12时36分]"
+          "time_info": "[12时36分 ~ 13时21分]"
         },
         {
           "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
@@ -105,19 +109,32 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 12时36分]"
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 13时21分]"
         },
         {
           "title": "新年首个交易日，恒科涨超3%，壁仞科技一度涨近120%，百度大涨7%，人民币继续走强",
           "url": "https://wallstreetcn.com/articles/3762444",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 12时36分]"
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 13时21分]"
+        },
+        {
+          "title": "大涨超100%！“港股国产GPU第一股”壁仞科技上市 一手赚近4000港元",
+          "url": "https://www.cls.cn/detail/2246281",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 13时21分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）全球主要科技与互联网公司市值变化",
@@ -125,22 +142,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 12时36分]"
-        },
-        {
-          "title": "大涨超100%！“港股国产GPU第一股”壁仞科技上市 一手赚近4000港元",
-          "url": "https://www.cls.cn/detail/2246281",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 12时36分]"
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 13时21分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）中国科技互联网公司市值排名TOP 50一览",
@@ -148,11 +155,12 @@
           "source": "金十数据",
           "ranks": [
             10,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 12时36分]"
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 13时21分]"
         },
         {
           "title": "港股芯片股集体走强，华虹半导体涨超7%，芯智控股涨近5%，中电华大科技、ASMPT、中芯国际涨超3%。",
@@ -247,8 +255,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时19分 ~ 12时36分]"
+          "appearance_count": 15,
+          "time_info": "[00时19分 ~ 13时21分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -260,8 +268,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 12时36分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 13时21分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -284,11 +292,12 @@
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 12时36分]"
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 13时21分]"
         },
         {
           "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
@@ -296,11 +305,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 12时36分]"
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 13时21分]"
         }
       ]
     },
@@ -324,8 +334,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时19分 ~ 12时36分]"
+          "appearance_count": 15,
+          "time_info": "[00时19分 ~ 13时21分]"
         },
         {
           "title": "散了吧!FGO月球春晚没活了",
@@ -337,8 +347,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时19分 ~ 12时36分]"
+          "appearance_count": 15,
+          "time_info": "[00时19分 ~ 13时21分]"
         },
         {
           "title": "海航空姐统一戴长发簪遭质疑不安全",
@@ -346,11 +356,12 @@
           "source": "微博",
           "ranks": [
             20,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 12时36分]"
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 13时21分]"
         },
         {
           "title": "海航空姐统一戴长发簪引安全讨论",
@@ -360,8 +371,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 12时36分]"
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 13时21分]"
         },
         {
           "title": "沙特消息人士：也门政府为缓解国内持续升级的局势，对往返阿布扎比和迪拜的航空交通实施限制。",
@@ -379,7 +390,7 @@
     },
     {
       "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "特斯拉车主首度实现“全程自动驾驶横穿美国” 马斯克：酷",
@@ -391,6 +402,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时19分 ~ 07时15分]"
+        },
+        {
+          "title": "全球首个“个人机器人”来了",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E2%80%9C%E4%B8%AA%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9D%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "2026人形机器人能迎来“奇点时刻”吗",

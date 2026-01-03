@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T19:13:10.959468+08:00",
-  "total_titles_processed": 1266,
+  "generated_at": "2026-01-03T20:28:16.718002+08:00",
+  "total_titles_processed": 1358,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时18分 ~ 19时13分]"
+          "appearance_count": 27,
+          "time_info": "[00时18分 ~ 20时28分]"
         },
         {
           "title": "大涨超100%！“港股国产GPU第一股”壁仞科技上市 一手赚近4000港元",
@@ -52,8 +52,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时18分 ~ 19时13分]"
+          "appearance_count": 27,
+          "time_info": "[00时18分 ~ 20时28分]"
         },
         {
           "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
@@ -64,8 +64,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时18分 ~ 19时13分]"
+          "appearance_count": 15,
+          "time_info": "[11时18分 ~ 20时28分]"
         },
         {
           "title": "美股三大期指集体走强 科技、贵金属板块开局强劲 | 今夜看点",
@@ -77,11 +77,26 @@
             9,
             7,
             6,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时18分 ~ 19时13分]"
+          "appearance_count": 27,
+          "time_info": "[00时18分 ~ 20时28分]"
+        },
+        {
+          "title": "中科院机构调整：新设科技创新发展局等机关，不再设长春、南京分院",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302727",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            10,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时20分 ~ 20时28分]"
         },
         {
           "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
@@ -115,29 +130,17 @@
           "time_info": "[07时15分 ~ 17时16分]"
         },
         {
-          "title": "中科院机构调整：新设科技创新发展局等机关，不再设长春、南京分院",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32302727",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时20分 ~ 19时13分]"
-        },
-        {
           "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
           "url": "https://wallstreetcn.com/articles/3762474",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时15分 ~ 19时13分]"
+          "appearance_count": 8,
+          "time_info": "[17时15分 ~ 20时28分]"
         },
         {
           "title": "美光科技盈利能力大幅攀升，股价创历史新高",
@@ -272,11 +275,12 @@
             5,
             4,
             3,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时18分 ~ 19时13分]"
+          "appearance_count": 15,
+          "time_info": "[11时18分 ~ 20时28分]"
         },
         {
           "title": "海航空姐统一戴长发簪引安全讨论",

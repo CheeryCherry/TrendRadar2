@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T17:16:09.587937+08:00",
-  "total_titles_processed": 1092,
+  "generated_at": "2026-01-03T18:16:00.950834+08:00",
+  "total_titles_processed": 1179,
   "failed_sources": [],
   "trends": [
     {
@@ -31,27 +31,41 @@
           "time_info": "[00时18分 ~ 15时15分]"
         },
         {
+          "title": "港股收盘｜科技指数涨超4%迎“开门红” 硬科技与政策消费双轮驱动",
+          "url": "https://www.cls.cn/detail/2246357",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 23,
+          "time_info": "[00时18分 ~ 18时16分]"
+        },
+        {
           "title": "大涨超100%！“港股国产GPU第一股”壁仞科技上市 一手赚近4000港元",
           "url": "https://www.cls.cn/detail/2246281",
           "source": "财联社热门",
           "ranks": [
             3,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时18分 ~ 17时16分]"
+          "appearance_count": 23,
+          "time_info": "[00时18分 ~ 18时16分]"
         },
         {
-          "title": "港股收盘｜科技指数涨超4%迎“开门红” 硬科技与政策消费双轮驱动",
-          "url": "https://www.cls.cn/detail/2246357",
+          "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
+          "url": "https://www.cls.cn/detail/2246526",
           "source": "财联社热门",
           "ranks": [
-            4
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时18分 ~ 17时16分]"
+          "appearance_count": 11,
+          "time_info": "[11时18分 ~ 18时16分]"
         },
         {
           "title": "美股三大期指集体走强 科技、贵金属板块开局强劲 | 今夜看点",
@@ -66,8 +80,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时18分 ~ 17时16分]"
+          "appearance_count": 23,
+          "time_info": "[00时18分 ~ 18时16分]"
         },
         {
           "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
@@ -99,18 +113,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[07时15分 ~ 17时16分]"
-        },
-        {
-          "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
-          "url": "https://www.cls.cn/detail/2246526",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时18分 ~ 17时16分]"
         },
         {
           "title": "美光科技盈利能力大幅攀升，股价创历史新高",
@@ -156,6 +158,19 @@
           "time_info": "[04时17分 ~ 07时15分]"
         },
         {
+          "title": "中科院机构调整：新设科技创新发展局等机关，不再设长春、南京分院",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302727",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时20分 ~ 18时16分]"
+        },
+        {
           "title": "荀玉根：26年牛市将逐步走向第三阶段 科技行情有望从算力基建向应用扩散",
           "url": "https://flash.jin10.com/detail/20260103120901121800",
           "source": "金十数据",
@@ -183,16 +198,15 @@
           "time_info": "[11时18分 ~ 14时23分]"
         },
         {
-          "title": "中科院机构调整：新设科技创新发展局等机关，不再设长春、南京分院",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32302727",
-          "source": "澎湃新闻",
+          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
+          "url": "https://wallstreetcn.com/articles/3762474",
+          "source": "华尔街见闻",
           "ranks": [
-            14,
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 17时16分]"
+          "appearance_count": 4,
+          "time_info": "[17时15分 ~ 18时16分]"
         },
         {
           "title": "美光科技收涨10%，创4月份以来最佳单日表现。",
@@ -205,17 +219,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时15分]"
-        },
-        {
-          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
-          "url": "https://wallstreetcn.com/articles/3762474",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 17时16分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨4.38%，报7859.65点，本周累计上涨2.23%。 热门中概股里，百度初步收涨15%，小马智行涨11.1%，文远知行涨8.2%，网易涨7.2%，阿里巴巴涨6.2%，新东方、小米、京东、美团、拼多多、理想、百胜中国至多涨5.3%。 ETF中，中概互联网指数ETF（KWEB）收涨4.64%，中国科技指数ETF（CQQQ）收涨4.48%，德银嘉实沪深300指数ETF（ASHR）收涨1.43%，XtrackersHarvest中证50（ASHS）收涨1.12%。",
@@ -270,8 +273,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时18分 ~ 17时16分]"
+          "appearance_count": 11,
+          "time_info": "[11时18分 ~ 18时16分]"
         },
         {
           "title": "海航空姐统一戴长发簪引安全讨论",
@@ -302,6 +305,32 @@
           "time_info": "[03时11分 ~ 09时06分]"
         },
         {
+          "title": "华晨宇演唱会告别火星乐园",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%91%8A%E5%88%AB%E7%81%AB%E6%98%9F%E4%B9%90%E5%9B%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时20分 ~ 18时16分]"
+        },
+        {
+          "title": "范丞丞宇宙闪烁请注意路透",
+          "url": "https://www.douyin.com/hot/2355951",
+          "source": "抖音",
+          "ranks": [
+            22,
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时20分 ~ 18时16分]"
+        },
+        {
           "title": "欧洲斯托克航空航天与防务指数上涨3.2%，创下自2025年5月以来的最大单日涨幅。",
           "url": "https://flash.jin10.com/detail/20260102235232245800",
           "source": "金十数据",
@@ -315,37 +344,13 @@
           "time_info": "[00时19分 ~ 02时22分]"
         },
         {
-          "title": "华晨宇演唱会告别火星乐园",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%91%8A%E5%88%AB%E7%81%AB%E6%98%9F%E4%B9%90%E5%9B%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 17时16分]"
-        },
-        {
-          "title": "范丞丞宇宙闪烁请注意路透",
-          "url": "https://www.douyin.com/hot/2355951",
-          "source": "抖音",
-          "ranks": [
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 17时16分]"
-        },
-        {
           "title": "据美联社记者：美国联邦航空管理局（FAA）因“持续的军事活动”在委内瑞拉首都加拉加斯爆炸事件前夕禁止美国商业航班进入委内瑞拉空域。",
           "url": "https://flash.jin10.com/detail/20260103161308084800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
         }
@@ -366,11 +371,12 @@
             23,
             12,
             15,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时18分 ~ 17时16分]"
+          "appearance_count": 23,
+          "time_info": "[00时18分 ~ 18时16分]"
         },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T13:17:36.763945+08:00",
-  "total_titles_processed": 817,
+  "generated_at": "2026-01-03T14:23:30.077686+08:00",
+  "total_titles_processed": 865,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 13时17分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 14时23分]"
         },
         {
           "title": "推进科创板上市！ 国产GPU四小龙燧原科技完成IPO辅导",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 13时17分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 14时23分]"
         },
         {
           "title": "大涨超100%！“港股国产GPU第一股”壁仞科技上市 一手赚近4000港元",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 13时17分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 14时23分]"
         },
         {
           "title": "港股收盘｜科技指数涨超4%迎“开门红” 硬科技与政策消费双轮驱动",
@@ -50,8 +50,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 13时17分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 14时23分]"
         },
         {
           "title": "美股三大期指集体走强 科技、贵金属板块开局强劲 | 今夜看点",
@@ -65,8 +65,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 13时17分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 14时23分]"
         },
         {
           "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
@@ -89,22 +89,12 @@
             6,
             8,
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时15分 ~ 13时17分]"
-        },
-        {
-          "title": "荀玉根：26年牛市将逐步走向第三阶段 科技行情有望从算力基建向应用扩散",
-          "url": "https://flash.jin10.com/detail/20260103120901121800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时17分"
+          "appearance_count": 6,
+          "time_info": "[07时15分 ~ 14时23分]"
         },
         {
           "title": "美光科技盈利能力大幅攀升，股价创历史新高",
@@ -120,6 +110,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时12分 ~ 11时18分]"
+        },
+        {
+          "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
+          "url": "https://www.cls.cn/detail/2246526",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 14时23分]"
         },
         {
           "title": "新兴市场股票2026年开局强劲，科技股受亚洲人工智能热潮提振",
@@ -150,16 +152,16 @@
           "time_info": "[04时17分 ~ 07时15分]"
         },
         {
-          "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
-          "url": "https://www.cls.cn/detail/2246526",
-          "source": "财联社热门",
+          "title": "荀玉根：26年牛市将逐步走向第三阶段 科技行情有望从算力基建向应用扩散",
+          "url": "https://flash.jin10.com/detail/20260103120901121800",
+          "source": "金十数据",
           "ranks": [
-            7,
+            2,
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 13时17分]"
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 14时23分]"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（1月3日）",
@@ -168,11 +170,12 @@
           "ranks": [
             9,
             14,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时18分 ~ 13时17分]"
+          "appearance_count": 4,
+          "time_info": "[11时18分 ~ 14时23分]"
         },
         {
           "title": "美光科技收涨10%，创4月份以来最佳单日表现。",
@@ -217,7 +220,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         }
@@ -242,6 +245,20 @@
           "time_info": "[01时14分 ~ 09时06分]"
         },
         {
+          "title": "海航空姐统一戴长发簪引安全讨论，航司称发簪不尖锐，发簪不尖就安全吗？戴发簪在飞行过程中有哪些安全隐患？",
+          "url": "https://www.zhihu.com/question/1990391350856741887",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 14时23分]"
+        },
+        {
           "title": "海航空姐同款发簪长度为18cm",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E8%88%AA%E7%A9%BA%E5%A7%90%E5%90%8C%E6%AC%BE%E5%8F%91%E7%B0%AA%E9%95%BF%E5%BA%A6%E4%B8%BA18cm%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -254,19 +271,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时11分 ~ 09时06分]"
-        },
-        {
-          "title": "海航空姐统一戴长发簪引安全讨论，航司称发簪不尖锐，发簪不尖就安全吗？戴发簪在飞行过程中有哪些安全隐患？",
-          "url": "https://www.zhihu.com/question/1990391350856741887",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 13时17分]"
         },
         {
           "title": "欧洲斯托克航空航天与防务指数上涨3.2%，创下自2025年5月以来的最大单日涨幅。",
@@ -301,8 +305,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 13时17分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 14时23分]"
         },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",
@@ -371,6 +375,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "摄影 摄像 相机",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "影视飓风年度相机",
+          "url": "https://s.weibo.com/weibo?q=%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E5%B9%B4%E5%BA%A6%E7%9B%B8%E6%9C%BA&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         }
       ]
     }

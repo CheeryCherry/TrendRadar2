@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T00:21:51.732702+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-06T01:18:40.130630+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时18分]"
         },
         {
           "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时18分]"
         },
         {
           "title": "道指涨穿4.9万点创盘中历史新高，生物科技指数跌超2%",
@@ -51,22 +51,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32316977",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时18分]"
         },
         {
           "title": "2nm、黄仁勋、中国机器人抱团出海，这是即将发生在CES上的故事",
           "url": "https://wallstreetcn.com/articles/3762576",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时18分]"
         }
       ]
     },
@@ -79,11 +81,12 @@
           "url": "https://www.douyin.com/hot/2358307",
           "source": "抖音",
           "ranks": [
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时18分]"
         }
       ]
     }

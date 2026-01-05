@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T11:51:00.577033+08:00",
-  "total_titles_processed": 820,
+  "generated_at": "2026-01-05T12:53:20.421279+08:00",
+  "total_titles_processed": 920,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时17分 ~ 11时51分]"
+          "appearance_count": 15,
+          "time_info": "[00时17分 ~ 12时53分]"
         },
         {
           "title": "下周重磅日程：“科技春晚”CES、马杜罗或在美受审、美非农、智谱MiniMax港股上市",
@@ -46,6 +46,17 @@
           "time_info": "[00时18分 ~ 07时15分]"
         },
         {
+          "title": "本周重磅日程：“科技春晚”CES、马杜罗将在美受审、美非农、智谱MiniMax港股上市",
+          "url": "https://wallstreetcn.com/articles/3762497",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 12时53分]"
+        },
+        {
           "title": "宇树科技上市绿色通道被叫停？知情人士：预计1月递表",
           "url": "https://wallstreetcn.com/livenews/3030330",
           "source": "华尔街见闻-快讯",
@@ -66,17 +77,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时18分 ~ 06时16分]"
-        },
-        {
-          "title": "本周重磅日程：“科技春晚”CES、马杜罗将在美受审、美非农、智谱MiniMax港股上市",
-          "url": "https://wallstreetcn.com/articles/3762497",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 11时51分]"
         },
         {
           "title": "本周重磅日程：“科技春晚”CES、马杜罗或在美受审、美非农、智谱MiniMax港股上市",
@@ -131,7 +131,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
         },
@@ -142,7 +142,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
         }
@@ -161,8 +161,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时12分 ~ 11时51分]"
+          "appearance_count": 11,
+          "time_info": "[03时12分 ~ 12时53分]"
         },
         {
           "title": "上海：到2028年上海低空经济核心产业规模达到800亿元左右 形成低空新型航空器完整产业链体系",
@@ -187,8 +187,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时17分 ~ 11时51分]"
+          "appearance_count": 15,
+          "time_info": "[00时17分 ~ 12时53分]"
+        },
+        {
+          "title": "【早报】韩国总统李在明访华；事关低空经济，上海发文",
+          "url": "https://www.cls.cn/detail/2247350",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时16分 ~ 12时53分]"
         },
         {
           "title": "农业机器人迎政策暖风，多地布局差异化路径，企业探索技术、标准出海",
@@ -215,17 +226,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时17分 ~ 07时15分]"
-        },
-        {
-          "title": "【早报】韩国总统李在明访华；事关低空经济，上海发文",
-          "url": "https://www.cls.cn/detail/2247350",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时16分 ~ 11时51分]"
         },
         {
           "title": "法国检方对马斯克旗下聊天机器人涉嫌生成非法内容启动调查",

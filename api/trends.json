@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T04:19:48.208829+08:00",
-  "total_titles_processed": 538,
+  "generated_at": "2026-01-06T05:16:28.394317+08:00",
+  "total_titles_processed": 586,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "宇树人形机器人H2训练视频曝光：腾空侧踢吓退王兴兴",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 05时16分]"
         },
         {
           "title": "2nm、黄仁勋、中国机器人抱团出海，这是即将发生在CES上的故事",
@@ -31,8 +31,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 05时16分]"
+        },
+        {
+          "title": "现代汽车2028年将在美国佐治亚州Savannah工厂部署人形机器人。",
+          "url": "https://wallstreetcn.com/livenews/3031099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "OpenAI家务机器人售价2万美元",
+          "url": "https://wallstreetcn.com/livenews/3031066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时17分 ~ 05时16分]"
         },
         {
           "title": "LG在CES2026上推出了CLOiD，这是该展会上首个旨在实现家务自动化的机器人展示。",
@@ -45,18 +69,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时24分 ~ 03时17分]"
-        },
-        {
-          "title": "OpenAI家务机器人售价2万美元",
-          "url": "https://wallstreetcn.com/livenews/3031066",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 04时19分]"
         },
         {
           "title": "CES举办方主席：机器人是今年绝对主角",
@@ -85,7 +97,7 @@
     },
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "本周重磅日程：“科技春晚”CES、马杜罗将在美受审、美非农、智谱MiniMax港股上市",
@@ -95,8 +107,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 05时16分]"
         },
         {
           "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
@@ -106,8 +118,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 05时16分]"
+        },
+        {
+          "title": "标普500指数初步收涨0.6%，能源板块涨2.7%，金融板块涨2.1%，电信板块涨0.6%，科技版跌0.3%。 纳斯达克100指数初步收涨0.7%，成分股中，拉美电商MercadoLibre涨9%，科磊涨6.2%，Shopify涨5.9%，应用材料、阿斯麦ADR、拉姆研究涨超5%，安进、卡夫亨氏、吉利德科学、核电股CEG跌超2%，铿腾电子跌3.2%，Diamondback Energy跌3.4%。 雪佛龙初步收涨5.1%，高盛涨3.8%，卡特彼勒、亚马逊、霍尼韦尔涨超2%，领跑道指成分股，麦当劳、苹果、强生、可口可乐、安进则至少跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3031093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.71%，报26562点。 恒生科技指数主连夜盘收涨1.10%，报5808点。",
@@ -115,11 +138,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            9
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时17分 ~ 05时16分]"
+        },
+        {
+          "title": "营商环境、科技创新等持续成为新年第一会热词背后：增强企业信心，培育发展新动能",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32318957",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时17分 ~ 04时19分]"
+          "time_info": "[04时19分 ~ 05时16分]"
         },
         {
           "title": "道指涨穿4.9万点创盘中历史新高，生物科技指数跌超2%",
@@ -131,17 +166,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
-        },
-        {
-          "title": "营商环境、科技创新等持续成为新年第一会热词背后：增强企业信心，培育发展新动能",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32318957",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时19分"
         },
         {
           "title": "【桥水创始人达利欧：AI热潮正处于泡沫初期阶段，美联储会进一步吹大泡沫】对冲基金经理雷伊・达利欧发文警告，曾推动华尔街科技股走高的人工智能（AI）热潮目前已进入泡沫初期阶段。他指出，2025年美国股市表现显著落后于非美股市及黄金资产。“显然，相较于美国股票，投资者更愿意配置非美股票；同理，他们也更倾向于持有非美债券，而非美国债券与美元现金。”“当然，未来美联储的政策走向以及生产力增速，都存在巨大的不确定性。” 达利欧表示。“种种迹象表明，新任美联储主席及联邦公开市场委员会，大概率会倾向于压低名义利率与实际利率。这一举措虽会对资产价格形成支撑，但也会进一步吹大泡沫。”",
@@ -205,8 +229,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 05时16分]"
         }
       ]
     },

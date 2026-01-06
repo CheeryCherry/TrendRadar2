@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T07:15:55.667073+08:00",
-  "total_titles_processed": 698,
+  "generated_at": "2026-01-06T09:10:40.534334+08:00",
+  "total_titles_processed": 844,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "宇树人形机器人H2训练视频曝光：腾空侧踢吓退王兴兴",
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             3,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 07时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 09时10分]"
         },
         {
           "title": "2nm、黄仁勋、中国机器人抱团出海，这是即将发生在CES上的故事",
@@ -29,11 +30,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 07时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 09时10分]"
         },
         {
           "title": "Uber(UBER.N)：在2026年国际消费电子展上，Lucid、Nuro与Uber将推出量产意向型车辆，这些车辆将用于其全球的自动驾驶出租车服务。",
@@ -42,7 +44,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -120,13 +122,35 @@
           "time_info": "[03时17分 ~ 04时19分]"
         },
         {
+          "title": "黄仁勋：未来十年很多汽车是自动驾驶",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9A%E6%9C%AA%E6%9D%A5%E5%8D%81%E5%B9%B4%E5%BE%88%E5%A4%9A%E6%B1%BD%E8%BD%A6%E6%98%AF%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
+          "title": "委内瑞拉副总统宣誓就任代总统 OpenAI支持的公司推出家务机器人 | 环球市场",
+          "url": "https://www.cls.cn/detail/2248633",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
           "title": "英伟达推出适用于自动驾驶汽车和机器人的全新AI工具",
           "url": "https://flash.jin10.com/detail/20260106063939900800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -148,7 +172,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -164,13 +188,24 @@
           "time_info": "02时24分"
         },
         {
+          "title": "机器人上电影院“打工”制作爆米花",
+          "url": "https://www.toutiao.com/trending/7591744623639461930/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
           "title": "据CNBC：英伟达计划在2027年测试自动驾驶出租车服务，以推动自动驾驶发展。",
           "url": "https://flash.jin10.com/detail/20260106062020826800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         }
@@ -189,8 +224,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 07时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 09时10分]"
         },
         {
           "title": "本周重磅日程：“科技春晚”CES、马杜罗将在美受审、美非农、智谱MiniMax港股上市",
@@ -220,11 +255,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时19分 ~ 07时15分]"
+          "appearance_count": 5,
+          "time_info": "[04时19分 ~ 09时10分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.71%，报26562点。 恒生科技指数主连夜盘收涨1.10%，报5808点。",
@@ -246,7 +282,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -257,7 +293,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -331,8 +367,19 @@
     },
     {
       "keyword_group": "DeepSeek ChatGPT Claude Grok 豆包 doubao Gemini @10",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "黄仁勋新年第一场演讲提了DeepSeek",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%9C%BA%E6%BC%94%E8%AE%B2%E6%8F%90%E4%BA%86DeepSeek",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
         {
           "title": "亚马逊开放部分用户网页端对话 Alexa+，剑指ChatGPT",
           "url": "https://wallstreetcn.com/livenews/3031031",
@@ -343,6 +390,66 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "月球 登月 火星 宇宙 飞船 航空 @5",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "白鹿王鹤棣在宇宙闪烁cha了",
+          "url": "https://www.douyin.com/hot/2358307",
+          "source": "抖音",
+          "ranks": [
+            24,
+            23,
+            25,
+            27,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 09时10分]"
+        },
+        {
+          "title": "中国国航：子公司拟出售持有的国泰航空约1.61%股权",
+          "url": "https://wallstreetcn.com/livenews/3031185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车 新车 电车 油车 @5",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "通用汽车涨幅扩大至1%，刷新日高，此前发布了美国销售数据。",
+          "url": "https://wallstreetcn.com/livenews/3031037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        },
+        {
+          "title": "英伟达发布Alpamayo汽车大模型平台",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8F%91%E5%B8%83Alpamayo%E6%B1%BD%E8%BD%A6%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B9%B3%E5%8F%B0",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
         }
       ]
     },
@@ -364,26 +471,6 @@
       ]
     },
     {
-      "keyword_group": "月球 登月 火星 宇宙 飞船 航空 @5",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "白鹿王鹤棣在宇宙闪烁cha了",
-          "url": "https://www.douyin.com/hot/2358307",
-          "source": "抖音",
-          "ranks": [
-            24,
-            23,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 07时15分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "摄影 摄像 相机",
       "match_count": 1,
       "titles": [
@@ -397,23 +484,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车 新车 电车 油车 @5",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "通用汽车涨幅扩大至1%，刷新日高，此前发布了美国销售数据。",
-          "url": "https://wallstreetcn.com/livenews/3031037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
         }
       ]
     }

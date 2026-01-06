@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T21:34:36.214250+08:00",
-  "total_titles_processed": 1952,
+  "generated_at": "2026-01-06T22:18:06.509986+08:00",
+  "total_titles_processed": 2027,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
@@ -206,6 +206,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
+        },
+        {
+          "title": "特朗普媒体科技集团：与核聚变初创公司TAE开始为首个创新聚变发电厂进行选址规划流程。计划于2026年启动选址和建设工作，未来的发电厂预计装机容量为350至500兆瓦电力（MWE）。",
+          "url": "https://wallstreetcn.com/livenews/3031714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "富国银行：将微芯科技(MCHP.O)目标价从58美元上调至68美元。",
@@ -581,7 +592,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         }
@@ -603,8 +614,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时25分 ~ 21时34分]"
+          "appearance_count": 16,
+          "time_info": "[11时25分 ~ 22时18分]"
         },
         {
           "title": "字节豆包AI眼镜第一代总规划数量约10万台，采用高通AR1芯片",
@@ -644,39 +655,8 @@
       ]
     },
     {
-      "keyword_group": "数字中国 数字重庆 数字经济 数字社会 数字科技 数据基础设施",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "2026：数字科技产业的8个猜想",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32318720",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            11,
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时21分 ~ 21时34分]"
-        },
-        {
-          "title": "美国财政部宣布，美国与经合组织达成全球最低税率协议。 财政部长贝森特称，希望围绕数字经济税举行富有建设性的磋商。",
-          "url": "https://wallstreetcn.com/livenews/3031040",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "月球 登月 火星 宇宙 飞船 航空 @5",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "白鹿王鹤棣在宇宙闪烁cha了",
@@ -695,6 +675,17 @@
           "time_info": "[00时21分 ~ 15时22分]"
         },
         {
+          "title": "我国成为全球第一航空人口大国",
+          "url": "https://www.douyin.com/hot/2358785",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 22时18分]"
+        },
+        {
           "title": "中国国航：子公司拟出售持有的国泰航空约1.61%股权",
           "url": "https://wallstreetcn.com/livenews/3031185",
           "source": "华尔街见闻-快讯",
@@ -704,6 +695,37 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "数字中国 数字重庆 数字经济 数字社会 数字科技 数据基础设施",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "2026：数字科技产业的8个猜想",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32318720",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11,
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[13时21分 ~ 22时18分]"
+        },
+        {
+          "title": "美国财政部宣布，美国与经合组织达成全球最低税率协议。 财政部长贝森特称，希望围绕数字经济税举行富有建设性的磋商。",
+          "url": "https://wallstreetcn.com/livenews/3031040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时24分"
         }
       ]
     },

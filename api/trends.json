@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T02:23:10.824005+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-01-07T03:13:22.500697+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 02时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 03时13分]"
         },
         {
           "title": "新品密集首发！九号、影石、光峰、极米等科创板公司齐聚“科技春晚”|直击CES 2026",
@@ -25,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 02时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 03时13分]"
         },
         {
           "title": "石头科技演示爬楼梯扫地设备",
@@ -50,7 +51,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         }
@@ -69,8 +70,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 02时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 03时13分]"
         }
       ]
     },
@@ -86,8 +87,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 02时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 03时13分]"
         }
       ]
     },
@@ -101,11 +102,12 @@
           "source": "微博",
           "ranks": [
             7,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 02时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 03时13分]"
         }
       ]
     },
@@ -121,8 +123,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 02时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 03时13分]"
         }
       ]
     }

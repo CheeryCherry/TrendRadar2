@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T20:32:38.139031+08:00",
-  "total_titles_processed": 1852,
+  "generated_at": "2026-01-06T21:34:36.214250+08:00",
+  "total_titles_processed": 1952,
   "failed_sources": [],
   "trends": [
     {
@@ -214,7 +214,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -269,7 +269,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -310,7 +310,7 @@
     },
     {
       "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "宇树人形机器人H2训练视频曝光：腾空侧踢吓退王兴兴",
@@ -573,6 +573,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "英伟达发布推理型自动驾驶AI模型Alpamayo 剑指6万亿美元市值",
+          "url": "https://flash.jin10.com/detail/20260106203551409800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         }
       ]
     },
@@ -592,8 +603,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时25分 ~ 20时32分]"
+          "appearance_count": 14,
+          "time_info": "[11时25分 ~ 21时34分]"
         },
         {
           "title": "字节豆包AI眼镜第一代总规划数量约10万台，采用高通AR1芯片",
@@ -647,8 +658,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时21分 ~ 20时32分]"
+          "appearance_count": 12,
+          "time_info": "[13时21分 ~ 21时34分]"
         },
         {
           "title": "美国财政部宣布，美国与经合组织达成全球最低税率协议。 财政部长贝森特称，希望围绕数字经济税举行富有建设性的磋商。",

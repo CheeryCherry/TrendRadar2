@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T16:23:04.662405+08:00",
-  "total_titles_processed": 1472,
+  "generated_at": "2026-01-06T17:22:08.743794+08:00",
+  "total_titles_processed": 1574,
   "failed_sources": [],
   "trends": [
     {
@@ -34,8 +34,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 16时23分]"
+          "appearance_count": 18,
+          "time_info": "[00时21分 ~ 17时22分]"
         },
         {
           "title": "黄仁勋：未来十年很多汽车是自动驾驶",
@@ -43,11 +43,12 @@
           "source": "百度热搜",
           "ranks": [
             7,
-            21
+            21,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时10分 ~ 16时23分]"
+          "appearance_count": 10,
+          "time_info": "[09时10分 ~ 17时22分]"
         },
         {
           "title": "波士顿动力机器人进厂打工了",
@@ -271,11 +272,12 @@
             20,
             16,
             18,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时19分 ~ 16时23分]"
+          "appearance_count": 11,
+          "time_info": "[04时19分 ~ 17时22分]"
         },
         {
           "title": "本周重磅日程：“科技春晚”CES、马杜罗将在美受审、美非农、智谱MiniMax港股上市",
@@ -306,7 +308,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -484,7 +486,7 @@
     },
     {
       "keyword_group": "DeepSeek ChatGPT Claude Grok 豆包 doubao Gemini @10",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
@@ -496,8 +498,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时25分 ~ 16时23分]"
+          "appearance_count": 9,
+          "time_info": "[11时25分 ~ 17时22分]"
         },
         {
           "title": "黄仁勋新年第一场演讲提了DeepSeek",
@@ -510,6 +512,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时10分 ~ 12时35分]"
+        },
+        {
+          "title": "字节豆包AI眼镜第一代总规划数量约10万台，采用高通AR1芯片",
+          "url": "https://www.cls.cn/detail/2248752",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 17时22分]"
         },
         {
           "title": "亚马逊开放部分用户网页端对话 Alexa+，剑指ChatGPT",
@@ -539,8 +552,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时21分 ~ 16时23分]"
+          "appearance_count": 7,
+          "time_info": "[13时21分 ~ 17时22分]"
         },
         {
           "title": "美国财政部宣布，美国与经合组织达成全球最低税率协议。 财政部长贝森特称，希望围绕数字经济税举行富有建设性的磋商。",

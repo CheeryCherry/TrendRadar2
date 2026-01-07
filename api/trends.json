@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T01:22:10.058456+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-01-08T02:24:23.807259+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 01时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 02时24分]"
         },
         {
           "title": "达索航空公司将其2025年净销售额指引上调至逾70亿欧元。",
@@ -26,7 +26,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
         },
@@ -36,11 +36,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 01时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 02时24分]"
         },
         {
           "title": "（法国）达索航空公司将其2025年净销售额指引上调至逾70亿欧元。",
@@ -49,7 +50,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
         },
@@ -60,7 +61,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
         }
@@ -78,8 +79,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 01时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 02时24分]"
         },
         {
           "title": "商业航天元年启幕：蓝箭航天IPO点燃资本热情 金风科技凭借投资“炼金术”稳坐千亿市值",
@@ -89,8 +90,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 01时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 02时24分]"
         },
         {
           "title": "【数据看盘】金风科技龙虎榜现机构与游资博弈 多路资金联手抢筹南大光电",
@@ -100,8 +101,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 01时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 02时24分]"
         },
         {
           "title": "广联航空：天津跃峰作为天兵科技天龙三号核心供应商 为其承担整箭贮箱及部分结构件的制造任务",
@@ -126,11 +127,12 @@
           "url": "https://wallstreetcn.com/articles/3762706",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 01时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 02时24分]"
         },
         {
           "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
@@ -140,8 +142,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 01时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 02时24分]"
         },
         {
           "title": "波士顿动力宣布 Atlas 人形机器人进入量产阶段，并将和 DeepMind 合作，哪些亮点值得关注？",
@@ -149,11 +151,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 01时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 02时24分]"
         }
       ]
     }

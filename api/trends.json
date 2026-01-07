@@ -1,8 +1,84 @@
 {
-  "generated_at": "2026-01-08T03:17:55.995169+08:00",
-  "total_titles_processed": 486,
+  "generated_at": "2026-01-08T04:19:06.816961+08:00",
+  "total_titles_processed": 537,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
+          "url": "https://wallstreetcn.com/articles/3762706",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 04时19分]"
+        },
+        {
+          "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
+          "url": "https://www.cls.cn/detail/2250745",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 04时19分]"
+        },
+        {
+          "title": "波士顿动力宣布 Atlas 人形机器人进入量产阶段，并将和 DeepMind 合作，哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/1991833974222315669",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 04时19分]"
+        },
+        {
+          "title": "Arm成立物理AI部门 机器人市场再迎“新玩家”",
+          "url": "https://flash.jin10.com/detail/20260108034000250800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "谷歌与Character.AI达成和解协议，该和解协议旨在解决一起声称由人工智能聊天机器人导致青少年自杀的诉讼案件。",
+          "url": "https://flash.jin10.com/detail/20260108033431215800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "公司高管称，Arm(ARM.O)重组公司并成立物理人工智能部门，以扩大机器人芯片技术布局。",
+          "url": "https://flash.jin10.com/detail/20260108033311290800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        }
+      ]
+    },
     {
       "keyword_group": "新质生产力 科技 @10",
       "match_count": 5,
@@ -15,8 +91,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 04时19分]"
         },
         {
           "title": "商业航天元年启幕：蓝箭航天IPO点燃资本热情 金风科技凭借投资“炼金术”稳坐千亿市值",
@@ -26,8 +102,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 04时19分]"
         },
         {
           "title": "【数据看盘】金风科技龙虎榜现机构与游资博弈 多路资金联手抢筹南大光电",
@@ -37,19 +113,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 04时19分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.47%，报26348点。 恒生科技指数主连夜盘收跌0.54%，报5723点。",
           "url": "https://wallstreetcn.com/livenews/3032656",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时17分 ~ 04时19分]"
         },
         {
           "title": "广联航空：天津跃峰作为天兵科技天龙三号核心供应商 为其承担整箭贮箱及部分结构件的制造任务",
@@ -78,8 +155,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 04时19分]"
         },
         {
           "title": "民航局 2026 年整治「过低票价」，将对航空市场带来哪些影响？机票会涨价吗？",
@@ -92,8 +169,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 04时19分]"
         },
         {
           "title": "达索航空公司将其2025年净销售额指引上调至逾70亿欧元。",
@@ -131,62 +208,31 @@
       ]
     },
     {
-      "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
-          "url": "https://wallstreetcn.com/articles/3762706",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时17分]"
-        },
-        {
-          "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
-          "url": "https://www.cls.cn/detail/2250745",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时17分]"
-        },
-        {
-          "title": "波士顿动力宣布 Atlas 人形机器人进入量产阶段，并将和 DeepMind 合作，哪些亮点值得关注？",
-          "url": "https://www.zhihu.com/question/1991833974222315669",
-          "source": "知乎",
-          "ranks": [
-            15,
-            13,
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时17分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek ChatGPT Claude Grok 豆包 doubao Gemini @10",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "OpenAI发布ChatGPT Health，用于评估体检结果和饮食",
           "url": "https://wallstreetcn.com/livenews/3032657",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时17分 ~ 04时19分]"
+        },
+        {
+          "title": "OpenAI推出ChatGPT Health，用于分析医疗结果和饮食方案",
+          "url": "https://flash.jin10.com/detail/20260108030510490800",
+          "source": "金十数据",
+          "ranks": [
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时17分"
+          "time_info": "04时19分"
         }
       ]
     }

@@ -1,477 +1,33 @@
 {
-  "generated_at": "2026-01-08T23:20:13.284295+08:00",
-  "total_titles_processed": 2167,
+  "generated_at": "2026-01-09T00:22:22.132933+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "新质生产力 科技 @10",
-      "match_count": 28,
+      "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
+      "match_count": 3,
       "titles": [
         {
-          "title": "科技创新活力涌动",
-          "url": "https://www.toutiao.com/trending/7592523943329939465/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 11时26分]"
-        },
-        {
-          "title": "商业航天元年启幕：蓝箭航天IPO点燃资本热情 金风科技凭借投资“炼金术”稳坐千亿市值",
-          "url": "https://www.cls.cn/detail/2250983",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 11时26分]"
-        },
-        {
-          "title": "【数据看盘】金风科技龙虎榜现机构与游资博弈 多路资金联手抢筹南大光电",
-          "url": "https://www.cls.cn/detail/2250715",
-          "source": "财联社热门",
+          "title": "欧盟责令X平台保存聊天机器人数据至年底",
+          "url": "https://wallstreetcn.com/livenews/3033445",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 07时16分]"
-        },
-        {
-          "title": "【数据看盘】黄河路席位3.79亿元净买入金风科技 7.85亿元资金抢筹航天电器",
-          "url": "https://www.cls.cn/detail/2251983",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时19分 ~ 23时20分]"
-        },
-        {
-          "title": "金十图示：2026年01月08日（周四）中国科技互联网公司市值排名TOP 50一览",
-          "url": "https://flash.jin10.com/detail/20260108105107460800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "减员超50%？爱玛科技回应：不存在该情况",
-          "url": "https://wallstreetcn.com/livenews/3032996",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "港股收盘：恒生指数收跌1.17%，恒生科技指数收跌1.05%。科网股多数下跌，美团跌超3%，阿里巴巴跌超2%，智谱上市首日收涨约13%。",
-          "url": "https://wallstreetcn.com/livenews/3033109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "耐心资本布局硬科技，社保科创基金多地落子",
-          "url": "https://wallstreetcn.com/livenews/3032742",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "强脑科技回应获20亿元融资：确实完成，资金将用于脑机接口的核心技术研发、量产落地等",
-          "url": "https://wallstreetcn.com/livenews/3033044",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        },
-        {
-          "title": "知情人士称，澜起科技计划于1月在香港进行规模至多10亿美元的股份发售",
-          "url": "https://wallstreetcn.com/livenews/3033325",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时32分 ~ 21时37分]"
-        },
-        {
-          "title": "恒生指数主连夜盘收跌0.47%，报26348点。 恒生科技指数主连夜盘收跌0.54%，报5723点。",
-          "url": "https://wallstreetcn.com/livenews/3032656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 04时19分]"
-        },
-        {
-          "title": "2026年国防科技工业工作会议1月7日在京召开",
-          "url": "https://wallstreetcn.com/livenews/3032952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 14时26分]"
-        },
-        {
-          "title": "A股商业航天概念午后持续拉升，泰胜风能20cm涨停，此前通宇通讯、航天电器、航天电子、航天科技、巨力索具等超二十股涨停。",
-          "url": "https://wallstreetcn.com/livenews/3032951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 14时26分]"
-        },
-        {
-          "title": "广联航空：天津跃峰作为天兵科技天龙三号核心供应商 为其承担整箭贮箱及部分结构件的制造任务",
-          "url": "https://wallstreetcn.com/livenews/3032592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时22分]"
-        },
-        {
-          "title": "A股商业航天概念持续走强，航天晨光、航天电器、航天电子、天箭科技、通宇通讯、江顺科技、盛洋科技等十余只成分股封涨停板。",
-          "url": "https://wallstreetcn.com/livenews/3032891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 12时35分]"
-        },
-        {
-          "title": "标普500指数初步收跌0.3%，公用事业板块跌2.3%，工业、预料、金融、房地产、能源、日用品板块至多跌超1.9%，科技板块持平，电信板块涨0.7%，保健板块涨1%。 纳斯达克100指数初步大致收平，成分股中，英特尔涨6.1%，CrowdStrike涨4.8%，再生元制药涨4.7%，派拓网络涨4.4%，MPWR跌4.9%，希捷科技跌6.6%，CSGP跌8%，西部数据跌8.9%。 卡特彼勒初步收跌4.2%，耐克跌3.1%，霍尼韦尔跌2.9%，领跌道指成分股，英伟达、微软、Salesforce、强生、再生元制药至少涨0.8%。",
-          "url": "https://wallstreetcn.com/livenews/3032688",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "恒生指数跌幅扩大至1.74%，跌破26000点。恒生科技指数跌超2%，阿里巴巴-W、蓝思科技跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3032990",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "港股通标的即将调整，多只新经济与科技股有望被纳入",
-          "url": "https://wallstreetcn.com/livenews/3032797",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "正邦科技：12月销售生猪102.86万头，环比上升18.45%，同比上升73.26%；销售收入9.14亿元，环比上升23.33%，同比上升25.75%。商品猪（扣除仔猪后）销售均价11.70元/公斤，较上月上升1.20%。",
-          "url": "https://wallstreetcn.com/livenews/3033151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
-          "title": "润建股份：与京东科技签订战略合作框架协议，双方就人工智能（AI）应用、云计算、智能算力等领域的合作，双方共同投入核心资源，在南宁五象云谷智算中心合作部署京东云专属高性能智算节点，计划联合打造广西云服务节点。",
-          "url": "https://wallstreetcn.com/livenews/3033147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
-          "title": "A股半导体产业链震荡走强，矽电股份、海光信息、中科蓝讯涨超10%，臻镭科技、芯原股份、芯源微、寒武纪、沐曦股份等均涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3032861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "强脑科技：已完成20亿元融资 将在五年到十年内帮助百万残障者重返社会",
-          "url": "https://wallstreetcn.com/livenews/3032962",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "行业ETF美股盘初涨跌各异，科技行业ETF跌0.63%，全球科技股指数ETF跌0.61%，网络股指数ETF跌0.59%，半导体ETF跌0.44%，银行业ETF涨0.53%，区域银行ETF涨0.64%。",
-          "url": "https://wallstreetcn.com/livenews/3033397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "雷神科技(RTX.N)美股盘后一度跌超3%，特朗普抨击该公司乐于分红。",
-          "url": "https://flash.jin10.com/detail/20260108050553680800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        },
-        {
-          "title": "北方长龙：拟以支付现金方式购买沈阳顺义科技股份有限公司51%股份。",
-          "url": "https://wallstreetcn.com/livenews/3033293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
-          "title": "科技股高位退潮引资金转向 低位医疗板块借政策利好开启补涨行情",
-          "url": "https://flash.jin10.com/detail/20260108204031487800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时37分"
-        },
-        {
-          "title": "商业航天概念再度拉升，银河电子4连板，邵阳液压、盛洋科技、云南锗业、中信重工等多股涨停，霍莱沃等涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3032845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "恒指、恒生科技指数跌幅扩大至1%。华虹半导体逆市涨超5%，中芯国际涨超2%；联想集团、快手跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3032842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
-          "url": "https://wallstreetcn.com/articles/3762706",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时22分 ~ 12时35分]"
-        },
-        {
-          "title": "中国低空经济一飞冲天",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E%E4%B8%80%E9%A3%9E%E5%86%B2%E5%A4%A9",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时35分 ~ 17时24分]"
-        },
-        {
-          "title": "波士顿动力宣布 Atlas 人形机器人进入量产阶段，并将和 DeepMind 合作，哪些亮点值得关注？",
-          "url": "https://www.zhihu.com/question/1991833974222315669",
-          "source": "知乎",
-          "ranks": [
-            15,
-            13,
-            12,
-            7,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 07时16分]"
-        },
-        {
-          "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
-          "url": "https://www.cls.cn/detail/2250745",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 07时16分]"
+          "time_info": "00时22分"
         },
         {
           "title": "人形机器人量产提速，背后有哪些联动支撑？｜出发，2026",
           "url": "https://m.thepaper.cn/newsDetail_forward_32300324",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            16,
-            15,
-            14,
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时25分 ~ 23时20分]"
-        },
-        {
-          "title": "广州：到2035年引育一批智能装备与机器人骨干企业，产业规模达到3000亿级",
-          "url": "https://wallstreetcn.com/livenews/3033164",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
-          "title": "Arm成立物理AI部门 机器人市场再迎“新玩家”",
-          "url": "https://flash.jin10.com/detail/20260108034000250800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 05时15分]"
-        },
-        {
-          "title": "谷歌与Character.AI达成和解协议，该和解协议旨在解决一起声称由人工智能聊天机器人导致青少年自杀的诉讼案件。",
-          "url": "https://flash.jin10.com/detail/20260108033431215800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 05时15分]"
-        },
-        {
-          "title": "公司高管称，Arm(ARM.O)重组公司并成立物理人工智能部门，以扩大机器人芯片技术布局。",
-          "url": "https://flash.jin10.com/detail/20260108033311290800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 05时15分]"
-        },
-        {
-          "title": "FF：未来5年累计产销目标为40万辆至50万辆；推出具身智能机器人战略",
-          "url": "https://wallstreetcn.com/livenews/3032917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 13时20分]"
-        },
-        {
-          "title": "吉利汽车获L3级自动驾驶道路测试牌照",
-          "url": "https://wallstreetcn.com/livenews/3032882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 12时35分]"
+          "time_info": "00时22分"
         },
         {
           "title": "特斯拉完全自动驾驶系统 FSD 零接管横穿美国，做到这点有多难？算是自动驾驶系统的里程碑吗？",
@@ -481,250 +37,64 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时19分 ~ 23时20分]"
-        },
-        {
-          "title": "何小鹏：2026年中国和美国将迎来真正的自动驾驶元年",
-          "url": "https://wallstreetcn.com/livenews/3033103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "广州：大力发展低空经济和商业航天，探索建设民用无人驾驶航空试验区",
-          "url": "https://wallstreetcn.com/livenews/3033159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
-          "title": "乐聚机器人与阿里云达成全栈AI合作",
-          "url": "https://wallstreetcn.com/livenews/3033202",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "小鹏开年发布四款新车，今年将规模量产人形机器人和飞行汽车",
-          "url": "https://wallstreetcn.com/livenews/3033081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "Arm控股成立“Physical AI”部门，进军机器人领域。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3032673",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
+          "time_info": "00时22分"
         }
       ]
     },
     {
-      "keyword_group": "月球 登月 火星 宇宙 飞船 航空 @5",
-      "match_count": 7,
+      "keyword_group": "新质生产力 科技 @10",
+      "match_count": 3,
       "titles": [
         {
-          "title": "官方回应专升本缴费显示南方航空",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%93%E5%8D%87%E6%9C%AC%E7%BC%B4%E8%B4%B9%E6%98%BE%E7%A4%BA%E5%8D%97%E6%96%B9%E8%88%AA%E7%A9%BA%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            1,
-            2,
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 07时16分]"
-        },
-        {
-          "title": "民航局 2026 年整治「过低票价」，将对航空市场带来哪些影响？机票会涨价吗？",
-          "url": "https://www.zhihu.com/question/1991978516993037691",
-          "source": "知乎",
-          "ranks": [
-            13,
-            7,
-            6,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 09时11分]"
-        },
-        {
-          "title": "长荣航空回应「机长与副机长在驾驶舱内打架」，称涉事机长已停飞，具体是怎么回事？这种情况有多危险？",
-          "url": "https://www.zhihu.com/question/1991952865539875182",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6,
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时20分 ~ 18时19分]"
-        },
-        {
-          "title": "达索航空公司将其2025年净销售额指引上调至逾70亿欧元。",
-          "url": "https://flash.jin10.com/detail/20260108004346902800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "美国航空航天局（NASA）：涉及国际空间站医疗问题的机组成员情况稳定。",
-          "url": "https://flash.jin10.com/detail/20260108211057114800",
-          "source": "金十数据",
+          "title": "【数据看盘】黄河路席位3.79亿元净买入金风科技 7.85亿元资金抢筹航天电器",
+          "url": "https://www.cls.cn/detail/2251983",
+          "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时37分"
+          "time_info": "00时22分"
         },
         {
-          "title": "（法国）达索航空公司将其2025年净销售额指引上调至逾70亿欧元。",
-          "url": "https://wallstreetcn.com/livenews/3032609",
+          "title": "联想全球创新科技大会集齐英伟达、英特尔、 AMD 、高通四大芯片巨头 CEO 同台，释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1992286512562270761",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "脑再生科技盘中直线跳水跌超30%，此前一度涨超30%。",
+          "url": "https://wallstreetcn.com/livenews/3033429",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "美国政府提议通过发出警告信而非提起诉讼的方式来帮助航空公司避免因违反消费者保护法规而被罚款。",
-          "url": "https://flash.jin10.com/detail/20260108002235612800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek ChatGPT Claude Grok 豆包 doubao Gemini @10",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "比豆包手机还狠！Gemini电视登场CES，谷歌打响客厅革命第一枪",
-          "url": "https://wallstreetcn.com/articles/3762755",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时21分 ~ 19时16分]"
-        },
-        {
-          "title": "OpenAI发布ChatGPT Health，用于评估体检结果和饮食",
-          "url": "https://wallstreetcn.com/livenews/3032657",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 04时19分]"
-        },
-        {
-          "title": "OpenAI推出ChatGPT Health，用于分析医疗结果和饮食方案",
-          "url": "https://flash.jin10.com/detail/20260108030510490800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 05时15分]"
-        },
-        {
-          "title": "20页→86页！DeepSeek“爆更”论文",
-          "url": "https://wallstreetcn.com/livenews/3033376",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
-          "title": "六天蒸发两千亿 苹果跌落神坛 谷歌凭Gemini逆袭",
-          "url": "https://flash.jin10.com/detail/20260108224229611800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "欧盟委员会发言人表示，已指示X平台保留所有关于Grok的文件，直至2026年底。",
-          "url": "https://flash.jin10.com/detail/20260108195816230800",
-          "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时32分"
+          "time_info": "00时22分"
         }
       ]
     },
     {
-      "keyword_group": "高质量数据集 数据标注 数据治理 可信数据空间 数据要素 公共数据",
+      "keyword_group": "DeepSeek ChatGPT Claude Grok 豆包 doubao Gemini @10",
       "match_count": 1,
       "titles": [
         {
-          "title": "贵州：2026年基本建成一体化政务云、互联互通政务网、公共数据资源底座",
-          "url": "https://wallstreetcn.com/livenews/3033292",
+          "title": "英国首相斯塔默发誓，要对马斯克旗下社交媒体平台X（原名推特）采取“紧急”行动。 斯塔默希望，马斯克能就自家人工智能（AI）工具Grok生成的、涉及儿童的性化图像（含有性暗示的图像）“改正自身表现”。 “这简直是耻辱，太恶心了，绝对不能就这么算了！”",
+          "url": "https://wallstreetcn.com/livenews/3033439",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时32分"
+          "time_info": "00时22分"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T19:16:44.187610+08:00",
-  "total_titles_processed": 1762,
+  "generated_at": "2026-01-08T20:32:53.226069+08:00",
+  "total_titles_processed": 1875,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "科技创新活力涌动",
@@ -52,6 +52,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
+        },
+        {
+          "title": "知情人士称，澜起科技计划于1月在香港进行规模至多10亿美元的股份发售",
+          "url": "https://wallstreetcn.com/livenews/3033325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "减员超50%？爱玛科技回应：不存在该情况",
@@ -134,6 +145,18 @@
           "time_info": "[13时20分 ~ 14时26分]"
         },
         {
+          "title": "【数据看盘】黄河路席位3.79亿元净买入金风科技 7.85亿元资金抢筹航天电器",
+          "url": "https://www.cls.cn/detail/2251983",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 20时32分]"
+        },
+        {
           "title": "广联航空：天津跃峰作为天兵科技天龙三号核心供应商 为其承担整箭贮箱及部分结构件的制造任务",
           "url": "https://wallstreetcn.com/livenews/3032592",
           "source": "华尔街见闻-快讯",
@@ -144,18 +167,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 01时22分]"
-        },
-        {
-          "title": "【数据看盘】黄河路席位3.79亿元净买入金风科技 7.85亿元资金抢筹航天电器",
-          "url": "https://www.cls.cn/detail/2251983",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 19时16分]"
         },
         {
           "title": "A股商业航天概念持续走强，航天晨光、航天电器、航天电子、天箭科技、通宇通讯、江顺科技、盛洋科技等十余只成分股封涨停板。",
@@ -258,6 +269,17 @@
           "time_info": "06时15分"
         },
         {
+          "title": "北方长龙：拟以支付现金方式购买沈阳顺义科技股份有限公司51%股份。",
+          "url": "https://wallstreetcn.com/livenews/3033293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "商业航天概念再度拉升，银河电子4连板，邵阳液压、盛洋科技、云南锗业、中信重工等多股涨停，霍莱沃等涨超10%。",
           "url": "https://wallstreetcn.com/livenews/3032845",
           "source": "华尔街见闻-快讯",
@@ -345,11 +367,12 @@
             17,
             16,
             15,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时25分 ~ 19时16分]"
+          "appearance_count": 12,
+          "time_info": "[11时25分 ~ 20时32分]"
         },
         {
           "title": "广州：到2035年引育一批智能装备与机器人骨干企业，产业规模达到3000亿级",
@@ -564,7 +587,7 @@
     },
     {
       "keyword_group": "DeepSeek ChatGPT Claude Grok 豆包 doubao Gemini @10",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "比豆包手机还狠！Gemini电视登场CES，谷歌打响客厅革命第一枪",
@@ -602,6 +625,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 05时15分]"
+        },
+        {
+          "title": "欧盟委员会发言人表示，已指示X平台保留所有关于Grok的文件，直至2026年底。",
+          "url": "https://flash.jin10.com/detail/20260108195816230800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "高质量数据集 数据标注 数据治理 可信数据空间 数据要素 公共数据",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "贵州：2026年基本建成一体化政务云、互联互通政务网、公共数据资源底座",
+          "url": "https://wallstreetcn.com/livenews/3033292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         }
       ]
     }

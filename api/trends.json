@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T13:20:52.891575+08:00",
-  "total_titles_processed": 1151,
+  "generated_at": "2026-01-08T14:26:20.309287+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "科技创新活力涌动",
@@ -54,15 +54,15 @@
           "time_info": "11时26分"
         },
         {
-          "title": "2026年国防科技工业工作会议1月7日在京召开",
-          "url": "https://wallstreetcn.com/livenews/3032952",
+          "title": "减员超50%？爱玛科技回应：不存在该情况",
+          "url": "https://wallstreetcn.com/livenews/3032996",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时20分"
+          "time_info": "14时26分"
         },
         {
           "title": "耐心资本布局硬科技，社保科创基金多地落子",
@@ -76,17 +76,6 @@
           "time_info": "07时16分"
         },
         {
-          "title": "A股商业航天概念午后持续拉升，泰胜风能20cm涨停，此前通宇通讯、航天电器、航天电子、航天科技、巨力索具等超二十股涨停。",
-          "url": "https://wallstreetcn.com/livenews/3032951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
           "title": "恒生指数主连夜盘收跌0.47%，报26348点。 恒生科技指数主连夜盘收跌0.54%，报5723点。",
           "url": "https://wallstreetcn.com/livenews/3032656",
           "source": "华尔街见闻-快讯",
@@ -97,6 +86,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时17分 ~ 04时19分]"
+        },
+        {
+          "title": "2026年国防科技工业工作会议1月7日在京召开",
+          "url": "https://wallstreetcn.com/livenews/3032952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 14时26分]"
+        },
+        {
+          "title": "A股商业航天概念午后持续拉升，泰胜风能20cm涨停，此前通宇通讯、航天电器、航天电子、航天科技、巨力索具等超二十股涨停。",
+          "url": "https://wallstreetcn.com/livenews/3032951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 14时26分]"
         },
         {
           "title": "广联航空：天津跃峰作为天兵科技天龙三号核心供应商 为其承担整箭贮箱及部分结构件的制造任务",
@@ -134,6 +147,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "恒生指数跌幅扩大至1.74%，跌破26000点。恒生科技指数跌超2%，阿里巴巴-W、蓝思科技跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3032990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
           "title": "港股通标的即将调整，多只新经济与科技股有望被纳入",
           "url": "https://wallstreetcn.com/livenews/3032797",
           "source": "华尔街见闻-快讯",
@@ -154,6 +178,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
+        },
+        {
+          "title": "强脑科技：已完成20亿元融资 将在五年到十年内帮助百万残障者重返社会",
+          "url": "https://wallstreetcn.com/livenews/3032962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
         },
         {
           "title": "雷神科技(RTX.N)美股盘后一度跌超3%，特朗普抨击该公司乐于分红。",
@@ -243,8 +278,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 13时20分]"
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 14时26分]"
+        },
+        {
+          "title": "人形机器人量产提速，背后有哪些联动支撑？｜出发，2026",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32300324",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时25分 ~ 14时26分]"
         },
         {
           "title": "Arm成立物理AI部门 机器人市场再迎“新玩家”",
@@ -257,19 +305,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 05时15分]"
-        },
-        {
-          "title": "人形机器人量产提速，背后有哪些联动支撑？｜出发，2026",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32300324",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 13时20分]"
         },
         {
           "title": "谷歌与Character.AI达成和解协议，该和解协议旨在解决一起声称由人工智能聊天机器人导致青少年自杀的诉讼案件。",
@@ -382,11 +417,12 @@
           "url": "https://www.zhihu.com/question/1991952865539875182",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 14时26分]"
         },
         {
           "title": "（法国）达索航空公司将其2025年净销售额指引上调至逾70亿欧元。",

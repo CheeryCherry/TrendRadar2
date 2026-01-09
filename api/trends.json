@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T05:16:35.878599+08:00",
-  "total_titles_processed": 630,
+  "generated_at": "2026-01-10T06:16:29.550095+08:00",
+  "total_titles_processed": 655,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "上海科技馆回归在即：除了全球最大的LED巨幕影院，还有……",
@@ -28,8 +28,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时23分 ~ 05时16分]"
+          "appearance_count": 7,
+          "time_info": "[02时23分 ~ 06时16分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.64%，报26408点。 恒生科技指数主连夜盘收涨0.81%，报5748点。",
@@ -62,9 +62,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.30%，报7695.62点，本周累计下跌2.09%，1月5-6日冲高回落。 热门中概股里，小鹏初步收跌2.6%，阿里跌2.3%，蔚来跌2%，百度涨1.5%。 ETF中，德银嘉实沪深300指数ETF（ASHR）收涨0.56%，XtrackersHarvest中证50（ASHS）收涨2.73%。 中概互联网指数ETF（KWEB）收跌0.25%，中国科技指数ETF（CQQQ）收涨1.00%。",
+          "url": "https://wallstreetcn.com/livenews/3034407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
         }
       ]
     },
@@ -72,6 +83,18 @@
       "keyword_group": "DeepSeek ChatGPT Claude Grok 豆包 doubao Gemini @10",
       "match_count": 3,
       "titles": [
+        {
+          "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
+          "url": "https://www.zhihu.com/question/1923049081044960601",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时19分 ~ 06时16分]"
+        },
         {
           "title": "马斯克旗下初创公司xAI限制Grok图像生成功能。 此前，Grok生成与儿童相关的性化图片，招致欧洲强烈反感。",
           "url": "https://wallstreetcn.com/livenews/3034341",
@@ -83,18 +106,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时23分 ~ 03时17分]"
-        },
-        {
-          "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
-          "url": "https://www.zhihu.com/question/1923049081044960601",
-          "source": "知乎",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 05时16分]"
         },
         {
           "title": "3名美国参议员呼吁苹果和谷歌从应用商店下架X和Grok。",
@@ -121,8 +132,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "宇树人形机器人空翻踢爆西瓜",
@@ -136,8 +147,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "英首相府指责聊天机器人“格罗克”整改具“侮辱性”",

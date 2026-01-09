@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T13:21:28.705889+08:00",
-  "total_titles_processed": 1219,
+  "generated_at": "2026-01-09T14:25:23.996447+08:00",
+  "total_titles_processed": 1307,
   "failed_sources": [],
   "trends": [
     {
@@ -365,7 +365,7 @@
     },
     {
       "keyword_group": "DeepSeek ChatGPT Claude Grok 豆包 doubao Gemini @10",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "加速AI落地 谷歌为Gmail引入更多Gemini功能",
@@ -401,6 +401,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
+        },
+        {
+          "title": "千万不要让豆包帮忙搭配衣服",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E8%AE%A9%E8%B1%86%E5%8C%85%E5%B8%AE%E5%BF%99%E6%90%AD%E9%85%8D%E8%A1%A3%E6%9C%8D&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T21:35:13.284333+08:00",
-  "total_titles_processed": 2043,
+  "generated_at": "2026-01-09T22:19:47.341490+08:00",
+  "total_titles_processed": 2138,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
           "ranks": [
             7,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时17分 ~ 21时35分]"
+          "appearance_count": 6,
+          "time_info": "[18时17分 ~ 22时19分]"
         },
         {
           "title": "临近周五，美股轮动加剧，科技巨头回落、小盘股指新高，地缘风险撑原油强劲反弹",
@@ -192,7 +193,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -302,7 +303,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         }
@@ -349,11 +350,12 @@
             30,
             2,
             16,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时17分 ~ 21时35分]"
+          "appearance_count": 6,
+          "time_info": "[18时17分 ~ 22时19分]"
         },
         {
           "title": "据英国电讯报：马斯克旗下的社交媒体平台“X”可能因人工智能聊天机器人争议在英国被禁。",
@@ -388,8 +390,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时32分 ~ 21时35分]"
+          "appearance_count": 4,
+          "time_info": "[20时32分 ~ 22时19分]"
         },
         {
           "title": "智元第一、宇树第二！中国企业正主宰全球人形机器人市场",
@@ -671,7 +673,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -682,7 +684,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -693,7 +695,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },

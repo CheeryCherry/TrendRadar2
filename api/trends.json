@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T21:27:11.082813+08:00",
-  "total_titles_processed": 1547,
+  "generated_at": "2026-01-10T22:15:00.005810+08:00",
+  "total_titles_processed": 1601,
   "failed_sources": [],
   "trends": [
     {
@@ -49,8 +49,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时09分 ~ 21时27分]"
+          "appearance_count": 14,
+          "time_info": "[09时09分 ~ 22时14分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -63,8 +63,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时22分 ~ 21时27分]"
+          "appearance_count": 10,
+          "time_info": "[14时22分 ~ 22时14分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -77,8 +77,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时15分 ~ 21时27分]"
+          "appearance_count": 9,
+          "time_info": "[15时15分 ~ 22时14分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -101,11 +101,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时28分 ~ 21时27分]"
+          "appearance_count": 4,
+          "time_info": "[20时28分 ~ 22时14分]"
         },
         {
           "title": "马斯克旗下初创公司xAI限制Grok图像生成功能。 此前，Grok生成与儿童相关的性化图片，招致欧洲强烈反感。",
@@ -182,11 +183,12 @@
           "ranks": [
             11,
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时15分 ~ 21时27分]"
+          "appearance_count": 7,
+          "time_info": "[17时15分 ~ 22时14分]"
         },
         {
           "title": "据外媒报道，吉利控股正考虑向美国市场扩张，极氪和领克等品牌或是首选。针对该消息，截至发稿前，吉利控股方面暂未置评。（新浪科技）",
@@ -305,11 +307,40 @@
             2,
             6,
             15,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时15分 ~ 21时27分]"
+          "appearance_count": 5,
+          "time_info": "[18时15分 ~ 22时14分]"
+        },
+        {
+          "title": "瑞声科技推出人形机器人解决方案",
+          "url": "https://wallstreetcn.com/livenews/3034523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            12,
+            21,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时15分 ~ 22时14分]"
+        },
+        {
+          "title": "北汽L3自动驾驶车型开启规模化上路试点",
+          "url": "https://wallstreetcn.com/livenews/3034544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时28分 ~ 22时14分]"
         },
         {
           "title": "英首相府指责聊天机器人“格罗克”整改具“侮辱性”",
@@ -322,32 +353,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 01时19分]"
-        },
-        {
-          "title": "北汽L3自动驾驶车型开启规模化上路试点",
-          "url": "https://wallstreetcn.com/livenews/3034544",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时28分 ~ 21时27分]"
-        },
-        {
-          "title": "瑞声科技推出人形机器人解决方案",
-          "url": "https://wallstreetcn.com/livenews/3034523",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            12,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时15分 ~ 21时27分]"
         },
         {
           "title": "瑞声科技宣布推出人形机器人解决方案",
@@ -376,11 +381,12 @@
             3,
             7,
             16,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时15分 ~ 21时27分]"
+          "appearance_count": 5,
+          "time_info": "[18时15分 ~ 22时14分]"
         },
         {
           "title": "赵丽颖调侃秦俊杰是人形移动摄像机",

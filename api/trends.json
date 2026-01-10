@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T04:16:36.385177+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2026-01-11T05:14:19.613079+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 04时16分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 05时14分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -29,8 +29,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 04时16分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 05时14分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -42,8 +42,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 04时16分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 05时14分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -53,8 +53,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 04时16分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 05时14分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -63,11 +63,12 @@
           "ranks": [
             21,
             22,
-            28
+            28,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时21分 ~ 04时16分]"
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 05时14分]"
         }
       ]
     },
@@ -83,8 +84,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 04时16分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 05时14分]"
         },
         {
           "title": "人形机器人为何进不了寻常百姓家",
@@ -112,8 +113,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 04时16分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 05时14分]"
         },
         {
           "title": "国内首个海上回收复用火箭基地开工在即！《科创板日报》记者实探杭州箭元科技“超级工厂”",
@@ -123,8 +124,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 04时16分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 05时14分]"
         }
       ]
     },
@@ -137,11 +138,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E5%BA%A6%E5%8D%81%E5%A4%A7%E2%80%9C%E8%B6%85%E7%BA%A7%E8%88%AA%E7%A9%BA%E6%9E%A2%E7%BA%BD%E2%80%9D%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            26
+            26,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时16分 ~ 05时14分]"
         }
       ]
     }

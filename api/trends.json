@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T18:16:27.605453+08:00",
-  "total_titles_processed": 1042,
+  "generated_at": "2026-01-11T19:13:59.236238+08:00",
+  "total_titles_processed": 1118,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时18分 ~ 18时16分]"
+          "appearance_count": 20,
+          "time_info": "[00时18分 ~ 19时13分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -146,7 +146,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         }
@@ -186,9 +186,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 19时13分]"
         },
         {
           "title": "零下20℃ 谁把机器人送去滑冰了",
@@ -197,11 +197,12 @@
           "ranks": [
             22,
             16,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 18时16分]"
+          "appearance_count": 4,
+          "time_info": "[16时20分 ~ 19时13分]"
         },
         {
           "title": "人形机器人为何进不了寻常百姓家",
@@ -246,8 +247,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时18分 ~ 18时16分]"
+          "appearance_count": 20,
+          "time_info": "[00时18分 ~ 19时13分]"
         },
         {
           "title": "汉威科技：公司近年来对无创柔性脑机接口材料的研发及用于复杂脑信息协同监测等关键技术有所突破",
@@ -297,11 +298,12 @@
           "url": "https://wallstreetcn.com/livenews/3034690",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 19时13分]"
         },
         {
           "title": "年度十大“超级航空枢纽”来了",
@@ -357,8 +359,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时22分 ~ 18时16分]"
+          "appearance_count": 7,
+          "time_info": "[13时22分 ~ 19时13分]"
         },
         {
           "title": "摄影比赛主办方回应AI照片获奖",

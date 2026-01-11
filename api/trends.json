@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T14:23:54.421471+08:00",
-  "total_titles_processed": 789,
+  "generated_at": "2026-01-11T15:17:59.624080+08:00",
+  "total_titles_processed": 835,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 14时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时18分 ~ 15时17分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -71,8 +71,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时45分 ~ 14时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时45分 ~ 15时17分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -171,7 +171,7 @@
     },
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "国内首个海上回收复用火箭基地开工在即！《科创板日报》记者实探杭州箭元科技“超级工厂”",
@@ -181,11 +181,12 @@
             7,
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 14时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时18分 ~ 15时17分]"
         },
         {
           "title": "汉威科技：公司近年来对无创柔性脑机接口材料的研发及用于复杂脑信息协同监测等关键技术有所突破",
@@ -199,6 +200,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时18分 ~ 09时18分]"
+        },
+        {
+          "title": "2025年十大科技突破 中国三项上榜",
+          "url": "https://www.baidu.com/s?wd=2025%E5%B9%B4%E5%8D%81%E5%A4%A7%E7%A7%91%E6%8A%80%E7%AA%81%E7%A0%B4+%E4%B8%AD%E5%9B%BD%E4%B8%89%E9%A1%B9%E4%B8%8A%E6%A6%9C",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         }
       ]
     },
@@ -242,11 +254,12 @@
           "source": "微博",
           "ranks": [
             20,
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 14时23分]"
+          "appearance_count": 3,
+          "time_info": "[13时22分 ~ 15时17分]"
         }
       ]
     }

@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-01-12T01:13:52.023646+08:00",
-  "total_titles_processed": 338,
+  "generated_at": "2026-01-12T02:22:00.687664+08:00",
+  "total_titles_processed": 352,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "新质生产力 科技 @10",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中国农民种地科技感拉满",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%B0%91%E7%A7%8D%E5%9C%B0%E7%A7%91%E6%8A%80%E6%84%9F%E6%8B%89%E6%BB%A1%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时21分 ~ 02时22分]"
+        },
+        {
+          "title": "AI真的来了，经济扛得住吗？——“大空头”、“AI巨头”与“顶尖科技博主”的一场激辩",
+          "url": "https://wallstreetcn.com/articles/3763040",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时22分]"
+        },
+        {
+          "title": "国内首个海上回收复用火箭基地开工在即！《科创板日报》记者实探杭州箭元科技“超级工厂”",
+          "url": "https://www.cls.cn/detail/2253794",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时22分]"
+        }
+      ]
+    },
     {
       "keyword_group": "DeepSeek ChatGPT Claude Grok 豆包 doubao Gemini @10",
       "match_count": 2,
@@ -15,8 +54,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时22分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -26,36 +65,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新质生产力 科技 @10",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "AI真的来了，经济扛得住吗？——“大空头”、“AI巨头”与“顶尖科技博主”的一场激辩",
-          "url": "https://wallstreetcn.com/articles/3763040",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时13分]"
-        },
-        {
-          "title": "国内首个海上回收复用火箭基地开工在即！《科创板日报》记者实探杭州箭元科技“超级工厂”",
-          "url": "https://www.cls.cn/detail/2253794",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时22分]"
         }
       ]
     }

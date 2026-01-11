@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-11T15:17:59.624080+08:00",
-  "total_titles_processed": 835,
+  "generated_at": "2026-01-11T16:20:31.712191+08:00",
+  "total_titles_processed": 903,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek ChatGPT Claude Grok 豆包 doubao Gemini @10",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "DeepSeek 计划二月中旬发布新模型 DeepSeek-V4，有哪些技术亮点？能第二次震惊世界吗？",
@@ -43,8 +43,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 15时17分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 16时20分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -68,11 +68,12 @@
             11,
             8,
             4,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时45分 ~ 15时17分]"
+          "appearance_count": 7,
+          "time_info": "[11时45分 ~ 16时20分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -88,6 +89,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时21分 ~ 07时15分]"
+        },
+        {
+          "title": "市场消息：马来西亚计划从1月11日起暂时限制对马斯克旗下Grok AI的访问。",
+          "url": "https://flash.jin10.com/detail/20260111150811201800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "美国参议员们要求谷歌和苹果下架马斯克的X和Grok应用",
@@ -112,12 +124,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时15分 ~ 09时18分]"
+        },
+        {
+          "title": "马来西亚计划从1月11日起暂时限制对马斯克旗下Grok AI的访问。",
+          "url": "https://wallstreetcn.com/livenews/3034647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         }
       ]
     },
     {
       "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "北汽L3自动驾驶车型开启规模化上路试点",
@@ -166,12 +189,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时18分 ~ 11时46分]"
+        },
+        {
+          "title": "零下20℃ 谁把机器人送去滑冰了",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B6%E4%B8%8B20%E2%84%83+%E8%B0%81%E6%8A%8A%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%80%81%E5%8E%BB%E6%BB%91%E5%86%B0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         }
       ]
     },
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "国内首个海上回收复用火箭基地开工在即！《科创板日报》记者实探杭州箭元科技“超级工厂”",
@@ -185,8 +219,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 15时17分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 16时20分]"
         },
         {
           "title": "汉威科技：公司近年来对无创柔性脑机接口材料的研发及用于复杂脑信息协同监测等关键技术有所突破",
@@ -202,13 +236,24 @@
           "time_info": "[00时18分 ~ 09时18分]"
         },
         {
+          "title": "航宇科技公告，公司于2024年累计回购75.28万股股份。现回购目的已实现，计划自公告披露日15个交易日后的6个月内，以集中竞价方式出售不超75.28万股，占总股本比例不超0.39%，所得资金用于补充流动资金。",
+          "url": "https://wallstreetcn.com/livenews/3034658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
           "title": "2025年十大科技突破 中国三项上榜",
           "url": "https://www.baidu.com/s?wd=2025%E5%B9%B4%E5%8D%81%E5%A4%A7%E7%A7%91%E6%8A%80%E7%AA%81%E7%A0%B4+%E4%B8%AD%E5%9B%BD%E4%B8%89%E9%A1%B9%E4%B8%8A%E6%A6%9C",
           "source": "百度热搜",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         }
@@ -216,7 +261,7 @@
     },
     {
       "keyword_group": "月球 登月 火星 宇宙 飞船 航空 @5",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "年度十大“超级航空枢纽”来了",
@@ -230,6 +275,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时16分 ~ 06时15分]"
+        },
+        {
+          "title": "冯飞刘小明在海口调研航空保税维修业务开展情况",
+          "url": "https://wallstreetcn.com/livenews/3034648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "双生子佯谬中为什么是在地球上的人老得快，飞船和地球不是相对运动的吗？",
@@ -246,7 +302,7 @@
     },
     {
       "keyword_group": "摄影 摄像 相机",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "AI照片竟然拿了摄影比赛第一名",
@@ -255,11 +311,23 @@
           "ranks": [
             20,
             1,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 15时17分]"
+          "appearance_count": 4,
+          "time_info": "[13时22分 ~ 16时20分]"
+        },
+        {
+          "title": "摄影比赛主办方回应AI照片获奖",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E4%B8%BB%E5%8A%9E%E6%96%B9%E5%9B%9E%E5%BA%94AI%E7%85%A7%E7%89%87%E8%8E%B7%E5%A5%96%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T12:45:47.203449+08:00",
-  "total_titles_processed": 862,
+  "generated_at": "2026-01-12T13:26:09.872544+08:00",
+  "total_titles_processed": 921,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时21分 ~ 12时45分]"
+          "appearance_count": 15,
+          "time_info": "[02时21分 ~ 13时26分]"
         },
         {
           "title": "AI真的来了，经济扛得住吗？——“大空头”、“AI巨头”与“顶尖科技博主”的一场激辩",
@@ -25,11 +25,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 12时45分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 13时26分]"
         },
         {
           "title": "国内首个海上回收复用火箭基地开工在即！《科创板日报》记者实探杭州箭元科技“超级工厂”",
@@ -173,8 +174,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时14分 ~ 12时45分]"
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 13时26分]"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T04:19:19.797336+08:00",
-  "total_titles_processed": 571,
+  "generated_at": "2026-01-13T05:16:45.186731+08:00",
+  "total_titles_processed": 620,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 05时16分]"
         },
         {
           "title": "豆包爆改真有两下子",
@@ -29,8 +29,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 05时16分]"
         },
         {
           "title": "英国科技大臣Liz Kendall：马斯克旗下Grok生成的图片是“滥用非法武器”。",
@@ -149,8 +149,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 05时16分]"
         },
         {
           "title": "如何评价「歼 10CE 首次取得实战战果」入选 2025 年度国防科技工业十大新闻？",
@@ -160,8 +160,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 05时16分]"
         },
         {
           "title": "恒生指数主连夜盘收涨1.49%，报26994点。 恒生科技指数主连夜盘收涨2.42%，报6005点。",
@@ -190,7 +190,7 @@
     },
     {
       "keyword_group": "月球 登月 火星 宇宙 飞船 航空 @5",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "NASA火星样本取回任务告吹 中国或将首个带回火星样本",
@@ -198,11 +198,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 05时16分]"
         },
         {
           "title": "美国国家运输安全委员会将于1月27日举行听证会，以确定美国航空客机与陆军直升机致命相撞事故的可能原因。",
@@ -215,6 +216,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时19分]"
+        },
+        {
+          "title": "Meta拟削减元宇宙团队投入 节省资金转向VR眼镜业务",
+          "url": "https://flash.jin10.com/detail/20260113044634106800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T07:15:38.861477+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-01-12T09:15:15.760462+08:00",
+  "total_titles_processed": 610,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时21分 ~ 07时15分]"
+          "appearance_count": 10,
+          "time_info": "[02时21分 ~ 09时15分]"
         },
         {
           "title": "AI真的来了，经济扛得住吗？——“大空头”、“AI巨头”与“顶尖科技博主”的一场激辩",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 07时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时18分 ~ 09时15分]"
         },
         {
           "title": "国内首个海上回收复用火箭基地开工在即！《科创板日报》记者实探杭州箭元科技“超级工厂”",
@@ -48,7 +48,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         }
@@ -90,7 +90,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         }
@@ -111,6 +111,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "摄影 摄像 相机",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为什么现在很多年轻人开始追捧 CCD 卡片机和胶片摄影？这会是一种短暂的复古潮吗？",
+          "url": "https://www.zhihu.com/question/1971901741483164423",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时14分 ~ 09时15分]"
         }
       ]
     }

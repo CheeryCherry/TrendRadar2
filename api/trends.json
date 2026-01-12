@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T17:27:40.028688+08:00",
-  "total_titles_processed": 1275,
+  "generated_at": "2026-01-12T18:20:56.070968+08:00",
+  "total_titles_processed": 1373,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "中国农民种地科技感拉满",
@@ -45,17 +45,6 @@
           "time_info": "[00时18分 ~ 07时15分]"
         },
         {
-          "title": "美股盘前，明星科技股普跌，英伟达、甲骨文跌超1%、英特尔跌2%。热门中概股走强，金山云涨13%、阿里巴巴涨超4%、百度涨3%。美股银行股普跌，摩根大通下跌2.4%，花旗下跌3.6%，美国银行下跌1.5%，特朗普呼吁给信用卡利率设“10%上限”。",
-          "url": "https://wallstreetcn.com/livenews/3035153",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
           "title": "美国驻印度大使在新德里表示，希望特朗普在一两年内访问印度。 美国和印度继续积极在贸易、安全和科技领域合作。 有关贸易问题的下一次讨论将在周二进行。",
           "url": "https://wallstreetcn.com/livenews/3035048",
           "source": "华尔街见闻-快讯",
@@ -79,6 +68,18 @@
           "time_info": "[14时28分 ~ 15时23分]"
         },
         {
+          "title": "美股盘前，明星科技股普跌，英伟达、甲骨文跌超1%、英特尔跌2%。热门中概股走强，金山云涨13%、阿里巴巴涨超4%、百度涨3%。美股银行股普跌，摩根大通下跌2.4%，花旗下跌3.6%，美国银行下跌1.5%，特朗普呼吁给信用卡利率设“10%上限”。",
+          "url": "https://wallstreetcn.com/livenews/3035153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 18时20分]"
+        },
+        {
           "title": "国防科技工业局：去年5月我国外销战机歼10CE首次取得实战战果，空战中击落多架战机，自己无一损失",
           "url": "https://www.cls.cn/detail/2254538",
           "source": "财联社热门",
@@ -87,8 +88,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时23分 ~ 17时27分]"
+          "appearance_count": 4,
+          "time_info": "[16时23分 ~ 18时20分]"
         },
         {
           "title": "恒生科技指数涨幅扩大至2%，快手、美团涨超6%。",
@@ -156,9 +157,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
+        },
+        {
+          "title": "丘钛科技：12月摄像头模组销售量同比增长43.6％。其中，手机摄像头模组销售量同比增长40.8％。",
+          "url": "https://wallstreetcn.com/livenews/3035179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "金十图示：2026年01月12日（周一）中国科技互联网公司市值排名TOP 50一览",
@@ -200,7 +212,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         }
@@ -208,7 +220,7 @@
     },
     {
       "keyword_group": "DeepSeek ChatGPT Claude Grok 豆包 doubao Gemini @10",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "Deepseek或将发布新AI模型",
@@ -236,6 +248,18 @@
           "time_info": "[00时18分 ~ 06时16分]"
         },
         {
+          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
+          "url": "https://wallstreetcn.com/articles/3763059",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时22分 ~ 18时20分]"
+        },
+        {
           "title": "微软(MSFT.O)：Microsoft Foundry中的Claude增强了面向医疗健康和生命科学客户的能力。",
           "url": "https://flash.jin10.com/detail/20260112062355901800",
           "source": "金十数据",
@@ -247,21 +271,21 @@
           "time_info": "07时15分"
         },
         {
-          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
-          "url": "https://wallstreetcn.com/articles/3763059",
-          "source": "华尔街见闻",
+          "title": "豆包爆改真有两下子",
+          "url": "https://www.douyin.com/hot/2365245",
+          "source": "抖音",
           "ranks": [
-            8
+            29
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时22分 ~ 17时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         }
       ]
     },
     {
       "keyword_group": "月球 登月 火星 宇宙 飞船 航空 @5",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "脑机海河实验室：在航空航天领域开发五代空间站在轨脑机交互系统，完成人类首次“太空脑机接口实验”",
@@ -297,12 +321,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时23分 ~ 17时27分]"
+        },
+        {
+          "title": "中国或将首个带回火星样本",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%88%96%E5%B0%86%E9%A6%96%E4%B8%AA%E5%B8%A6%E5%9B%9E%E7%81%AB%E6%98%9F%E6%A0%B7%E6%9C%AC%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         }
       ]
     },
     {
       "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "上海：积极引导企业投资布局低空经济、商业航天、具身智能、生物制造、智能终端等新兴领域",
@@ -315,6 +350,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时28分 ~ 15时23分]"
+        },
+        {
+          "title": "人形机器人供应商新剑传动冲刺IPO 丝杠产业化提速？",
+          "url": "https://www.cls.cn/detail/2254812",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         }
       ]
     },

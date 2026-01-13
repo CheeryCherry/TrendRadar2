@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T04:19:06.535728+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-01-14T05:16:47.871698+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "月球 登月 火星 宇宙 飞船 航空 @5",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "火星人地铁广告引关注，文案优化传递生活态度",
@@ -15,8 +15,19 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时16分]"
+        },
+        {
+          "title": "美国国家航空航天局（NASA）与能源部（DOE）将在2030年之前开发月球表面反应堆（LSR）。",
+          "url": "https://wallstreetcn.com/livenews/3036405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         },
         {
           "title": "达美航空首席执行官：在任何无法赚取资本成本的航空公司中，你都将看到整合与精简。",
@@ -56,7 +67,7 @@
     },
     {
       "keyword_group": "DeepSeek ChatGPT Claude Grok 豆包 doubao Gemini @10",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -67,8 +78,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时16分]"
         },
         {
           "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
@@ -79,8 +90,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时16分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
@@ -91,14 +102,25 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时25分 ~ 04时19分]"
+          "appearance_count": 5,
+          "time_info": "[02时25分 ~ 05时16分]"
+        },
+        {
+          "title": "Anthropic成立Anthropic Labs。 Instagram联合创始人Mike Krieger加盟Labs。 Ami Vora将在Labs主导产品架构。 Labs将扫描Claude体验。。",
+          "url": "https://wallstreetcn.com/livenews/3036394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         }
       ]
     },
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "恒生指数主连夜盘收涨0.21%，报26920点。 恒生科技指数主连夜盘收涨0.25%，报5900点。",
@@ -111,6 +133,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时17分 ~ 04时19分]"
+        },
+        {
+          "title": "标普500指数收跌13.53点，跌幅0.19%，报6963.74点。 道琼斯工业平均指数收跌398.21点，跌幅0.80%，报49191.99点。 纳斯达克综合指数（纳指）收跌24.032点，跌幅0.10%，报23709.873点。 纳斯达克100指数收跌45.711点，跌幅0.18%，报25741.952点。 纳斯达克生物科技指数收涨0.02%，报5775.48点。 费城半导体指数收涨0.95%，报7747.993点。 费城证交所KBW银行指数收跌1.26%，报166.87点，1月6日涨至172.98点创盘中历史新高以来逐步回撤。 道琼斯KBW地区银行指数收跌0.59%，报126.85点。",
+          "url": "https://wallstreetcn.com/livenews/3036399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         },
         {
           "title": "容百科技：收到上交所问询函，要求核实并补充披露与宁德时代合作相关事项",
@@ -135,11 +168,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时16分]"
         }
       ]
     },

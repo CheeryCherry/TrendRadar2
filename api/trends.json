@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T22:21:08.042490+08:00",
-  "total_titles_processed": 2014,
+  "generated_at": "2026-01-13T23:20:08.785284+08:00",
+  "total_titles_processed": 2127,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "2026年科技创新发力点在哪里",
@@ -189,6 +189,17 @@
           "time_info": "12时35分"
         },
         {
+          "title": "行业ETF美股盘初涨跌各异，能源业ETF涨1.27%，网络股指数ETF涨0.58%，半导体ETF涨0.42%，科技行业ETF涨幅不到0.1%，银行业ETF跌超0.2%，金融业ETF跌0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3036251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "创业板指跌超1%，沪指跌0.2%，深成指跌0.67%，商业航天、可控核聚变、量子科技、光通信等方向跌幅居前，沪深京三市下跌个股近3300只。",
           "url": "https://wallstreetcn.com/livenews/3035744",
           "source": "华尔街见闻-快讯",
@@ -272,8 +283,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时08分 ~ 22时21分]"
+          "appearance_count": 18,
+          "time_info": "[09时08分 ~ 23时20分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -286,6 +297,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时21分 ~ 09时08分]"
+        },
+        {
+          "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
+          "url": "https://wallstreetcn.com/articles/3763151",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时23分 ~ 23时20分]"
         },
         {
           "title": "豆包爆改真有两下子",
@@ -306,19 +330,6 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时21分 ~ 20时33分]"
-        },
-        {
-          "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
-          "url": "https://wallstreetcn.com/articles/3763151",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时23分 ~ 22时21分]"
         },
         {
           "title": "苹果接入Gemini模型想做啥",
@@ -503,6 +514,17 @@
           "time_info": "[19时16分 ~ 22时21分]"
         },
         {
+          "title": "火星人地铁广告引关注，文案优化传递生活态度",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32373694",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时20分 ~ 23时20分]"
+        },
+        {
           "title": "美国国家运输安全委员会将于1月27日举行听证会，以确定美国航空客机与陆军直升机致命相撞事故的可能原因。",
           "url": "https://flash.jin10.com/detail/20260113000750045800",
           "source": "金十数据",
@@ -525,17 +547,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时15分]"
-        },
-        {
-          "title": "火星人地铁广告引关注，文案优化传递生活态度",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32373694",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 22时21分]"
         },
         {
           "title": "达美航空将向员工发放13亿美元，作为其2025年利润分成。",
@@ -585,7 +596,7 @@
     },
     {
       "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美防长称马斯克旗下AI聊天机器人将接入五角大楼系统",
@@ -598,6 +609,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时24分 ~ 12时35分]"
+        },
+        {
+          "title": "2026开年公募扎堆调研商业航天股，脑机接口、具身智能同受关注",
+          "url": "https://www.cls.cn/detail/2256508",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时19分 ~ 23时20分]"
         },
         {
           "title": "现代汽车系市值本月激增240亿美元 机器人叙事催化扩张行情",

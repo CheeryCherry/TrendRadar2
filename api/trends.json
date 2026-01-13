@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T12:35:57.349639+08:00",
-  "total_titles_processed": 1115,
+  "generated_at": "2026-01-13T13:22:28.162394+08:00",
+  "total_titles_processed": 1163,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,12 @@
             24,
             19,
             18,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 12时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 13时22分]"
         },
         {
           "title": "英国科技大臣Liz Kendall：马斯克旗下Grok生成的图片是“滥用非法武器”。",
@@ -84,6 +85,19 @@
           "time_info": "[00时22分 ~ 01时19分]"
         },
         {
+          "title": "苹果选中Gemini，谷歌登上“4万亿”",
+          "url": "https://wallstreetcn.com/articles/3763115",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时08分 ~ 13时22分]"
+        },
+        {
           "title": "谷歌：苹果与谷歌已达成多年期合作协议；下一代苹果基础模型将基于谷歌的Gemini模型。苹果认定，谷歌的人工智能技术为苹果的基础模型提供了最强大的基础。苹果智能将继续在苹果设备和私有云计算上运行。",
           "url": "https://flash.jin10.com/detail/20260113001151493800",
           "source": "金十数据",
@@ -96,18 +110,6 @@
           "time_info": "[00时22分 ~ 01时19分]"
         },
         {
-          "title": "苹果选中Gemini，谷歌登上“4万亿”",
-          "url": "https://wallstreetcn.com/articles/3763115",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 12时35分]"
-        },
-        {
           "title": "DeepSeek发布梁文锋署名新论文",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%91%E5%B8%83%E6%A2%81%E6%96%87%E9%94%8B%E7%BD%B2%E5%90%8D%E6%96%B0%E8%AE%BA%E6%96%87",
           "source": "百度热搜",
@@ -116,8 +118,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时35分]"
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 13时22分]"
         },
         {
           "title": "英国：誓言将马斯克的Grok生成的“脱衣”图像定为非法",
@@ -189,8 +191,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 12时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 13时22分]"
         },
         {
           "title": "如何评价「歼 10CE 首次取得实战战果」入选 2025 年度国防科技工业十大新闻？",
@@ -256,7 +258,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         },
@@ -370,11 +372,12 @@
           "url": "https://flash.jin10.com/detail/20260113114920665800",
           "source": "金十数据",
           "ranks": [
-            15
+            15,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 13时22分]"
         }
       ]
     },
@@ -390,8 +393,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时35分]"
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 13时22分]"
         },
         {
           "title": "摄影师吐槽艺人互勉拍照不配合",

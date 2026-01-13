@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T15:22:00.161660+08:00",
-  "total_titles_processed": 1336,
+  "generated_at": "2026-01-13T16:23:22.134469+08:00",
+  "total_titles_processed": 1431,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek ChatGPT Claude Grok 豆包 doubao Gemini @10",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -32,11 +32,12 @@
             19,
             18,
             14,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 15时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 16时23分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -49,8 +50,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时08分 ~ 15时22分]"
+          "appearance_count": 8,
+          "time_info": "[09时08分 ~ 16时23分]"
         },
         {
           "title": "苹果接入Gemini模型想做啥",
@@ -159,6 +160,17 @@
           "time_info": "[02时24分 ~ 03时17分]"
         },
         {
+          "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
+          "url": "https://wallstreetcn.com/articles/3763151",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "苹果选择谷歌Gemini驱动将于今年面世的AI版Siri",
           "url": "https://wallstreetcn.com/livenews/3035441",
           "source": "华尔街见闻-快讯",
@@ -195,7 +207,7 @@
     },
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "2026年科技创新发力点在哪里",
@@ -219,6 +231,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时21分 ~ 11时24分]"
+        },
+        {
+          "title": "港股收盘：恒生指数收涨0.9%，恒生科技指数收涨0.11%， 药明康德涨超8%，阿里巴巴涨超3%，智谱跌超12%，MINIMAX跌超8%。",
+          "url": "https://wallstreetcn.com/livenews/3035951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "金十图示：2026年01月13日（周二）全球主要科技与互联网公司市值变化",
@@ -283,7 +306,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -327,7 +350,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -357,7 +380,7 @@
     },
     {
       "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美防长称马斯克旗下AI聊天机器人将接入五角大楼系统",
@@ -390,9 +413,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "现代汽车集团：任命前特斯拉、英伟达工程师领导自动驾驶业务。",
+          "url": "https://flash.jin10.com/detail/20260113155113818800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "四川兴蜀启航低空经济股权基金登记成立，出资额17亿",
@@ -473,8 +507,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时24分 ~ 15时22分]"
+          "appearance_count": 7,
+          "time_info": "[11时24分 ~ 16时23分]"
         },
         {
           "title": "摄影师吐槽艺人互勉拍照不配合",

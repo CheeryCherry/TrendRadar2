@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T19:17:09.026948+08:00",
-  "total_titles_processed": 1782,
+  "generated_at": "2026-01-14T20:32:38.296193+08:00",
+  "total_titles_processed": 1893,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "“十五五”新开局，我国科技工作的发力点在哪里？科技部部长阴和俊发声",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时24分 ~ 19时17分]"
+          "appearance_count": 5,
+          "time_info": "[17时24分 ~ 20时32分]"
         },
         {
           "title": "港股收盘：恒生指数收涨0.56%，恒生科技指数收涨0.66%，阿里健康涨近19%，携程跌超6%。",
@@ -32,6 +32,18 @@
           "time_info": "16时22分"
         },
         {
+          "title": "【数据看盘】8.35亿元资金抢筹光迅科技 岩山科技龙虎榜现游资激烈博弈",
+          "url": "https://www.cls.cn/detail/2257610",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时19分 ~ 20时32分]"
+        },
+        {
           "title": "纳指科技ETF：1月15日开市起至当日10:30停牌",
           "url": "https://wallstreetcn.com/livenews/3036859",
           "source": "华尔街见闻-快讯",
@@ -42,18 +54,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时24分 ~ 18时19分]"
-        },
-        {
-          "title": "【数据看盘】8.35亿元资金抢筹光迅科技 岩山科技龙虎榜现游资激烈博弈",
-          "url": "https://www.cls.cn/detail/2257610",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时19分 ~ 19时17分]"
         },
         {
           "title": "锂电行业惊现1200亿大单！容百科技和宁德时代签署5年长协|速读公告",
@@ -97,9 +97,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
+        },
+        {
+          "title": "钧达股份：公司拟以现金出资人民币3,000万元认购上海星翼芯能科技有限公司新增注册资本人民币46.1539万元，获得星翼芯能16.6667%的股权。星翼芯能系由杭州尚翼光电科技有限公司团队创始人及创始股东新设的项目公司，用于承接尚翼光电的全部资产、人员及业务，并且后续尚翼光电将调整为星翼芯能的全资子公司。本次合作助力公司从地面光伏领域向太空光伏领域的战略延伸。",
+          "url": "https://wallstreetcn.com/livenews/3037016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "恒生指数午后转跌，恒生科技指数跌0.19%。",
@@ -273,7 +284,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         }
@@ -437,6 +448,110 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek ChatGPT Claude Grok 豆包 doubao Gemini @10",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "苹果选中Gemini，谷歌登上“4万亿”",
+          "url": "https://wallstreetcn.com/articles/3763115",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 06时17分]"
+        },
+        {
+          "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
+          "url": "https://wallstreetcn.com/articles/3763151",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 11时43分]"
+        },
+        {
+          "title": "gemini3pro 真那么好用吗？",
+          "url": "https://www.zhihu.com/question/1990762235694434081",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时25分 ~ 06时17分]"
+        },
+        {
+          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
+          "url": "https://www.zhihu.com/question/1994425649616671736",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时22分 ~ 20时32分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 发布梁文锋署名论文，提出「条件记忆」及 Engram 记忆检索架构？有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1994233409871050526",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "Anthropic成立Anthropic Labs。 Instagram联合创始人Mike Krieger加盟Labs。 Ami Vora将在Labs主导产品架构。 Labs将扫描Claude体验。。",
+          "url": "https://wallstreetcn.com/livenews/3036394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时17分]"
+        },
+        {
+          "title": "摩根资产管理认为中国科技领域将迎来“更多DeepSeek时刻”",
+          "url": "https://wallstreetcn.com/livenews/3036793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "豆包到底是陪我吃饭还是给我添堵",
+          "url": "https://www.douyin.com/hot/2367676",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "月球 登月 火星 宇宙 飞船 航空 @5",
       "match_count": 7,
       "titles": [
@@ -521,88 +636,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek ChatGPT Claude Grok 豆包 doubao Gemini @10",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "苹果选中Gemini，谷歌登上“4万亿”",
-          "url": "https://wallstreetcn.com/articles/3763115",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时17分]"
-        },
-        {
-          "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
-          "url": "https://wallstreetcn.com/articles/3763151",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 11时43分]"
-        },
-        {
-          "title": "gemini3pro 真那么好用吗？",
-          "url": "https://www.zhihu.com/question/1990762235694434081",
-          "source": "知乎",
-          "ranks": [
-            20,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时25分 ~ 06时17分]"
-        },
-        {
-          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
-          "url": "https://www.zhihu.com/question/1994425649616671736",
-          "source": "知乎",
-          "ranks": [
-            19,
-            20,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时22分 ~ 19时17分]"
-        },
-        {
-          "title": "Anthropic成立Anthropic Labs。 Instagram联合创始人Mike Krieger加盟Labs。 Ami Vora将在Labs主导产品架构。 Labs将扫描Claude体验。。",
-          "url": "https://wallstreetcn.com/livenews/3036394",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时17分]"
-        },
-        {
-          "title": "摩根资产管理认为中国科技领域将迎来“更多DeepSeek时刻”",
-          "url": "https://wallstreetcn.com/livenews/3036793",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
         }
       ]
     },

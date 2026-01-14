@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T22:21:51.271599+08:00",
-  "total_titles_processed": 2123,
+  "generated_at": "2026-01-14T23:20:42.655039+08:00",
+  "total_titles_processed": 2224,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "“十五五”新开局，我国科技工作的发力点在哪里？科技部部长阴和俊发声",
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时24分 ~ 22时21分]"
+          "appearance_count": 8,
+          "time_info": "[17时24分 ~ 23时20分]"
         },
         {
           "title": "【数据看盘】8.35亿元资金抢筹光迅科技 岩山科技龙虎榜现游资激烈博弈",
@@ -30,8 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时19分 ~ 22时21分]"
+          "appearance_count": 7,
+          "time_info": "[18时19分 ~ 23时20分]"
         },
         {
           "title": "容百科技：延期回复上海证券交易所《问询函》，公司股票继续停牌",
@@ -68,6 +69,19 @@
           "time_info": "[17时24分 ~ 18时19分]"
         },
         {
+          "title": "上交所：对国晟科技相关投资者采取暂停账户交易等措施",
+          "url": "https://www.cls.cn/detail/2257724",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时37分 ~ 23时20分]"
+        },
+        {
           "title": "锂电行业惊现1200亿大单！容百科技和宁德时代签署5年长协|速读公告",
           "url": "https://www.cls.cn/detail/2256694",
           "source": "财联社热门",
@@ -80,18 +94,6 @@
           "time_info": "[07时16分 ~ 11时43分]"
         },
         {
-          "title": "上交所：对国晟科技相关投资者采取暂停账户交易等措施",
-          "url": "https://www.cls.cn/detail/2257724",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时37分 ~ 22时21分]"
-        },
-        {
           "title": "恒生指数主连夜盘收涨0.21%，报26920点。 恒生科技指数主连夜盘收涨0.25%，报5900点。",
           "url": "https://wallstreetcn.com/livenews/3036359",
           "source": "华尔街见闻-快讯",
@@ -102,6 +104,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时17分 ~ 04时19分]"
+        },
+        {
+          "title": "用马甲账户收受虚拟币买别墅，证监会科技监管司原司长姚前腐败细节披露",
+          "url": "https://www.cls.cn/detail/2257887",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 23时20分]"
         },
         {
           "title": "标普500指数收跌13.53点，跌幅0.19%，报6963.74点。 道琼斯工业平均指数收跌398.21点，跌幅0.80%，报49191.99点。 纳斯达克综合指数（纳指）收跌24.032点，跌幅0.10%，报23709.873点。 纳斯达克100指数收跌45.711点，跌幅0.18%，报25741.952点。 纳斯达克生物科技指数收涨0.02%，报5775.48点。 费城半导体指数收涨0.95%，报7747.993点。 费城证交所KBW银行指数收跌1.26%，报166.87点，1月6日涨至172.98点创盘中历史新高以来逐步回撤。 道琼斯KBW地区银行指数收跌0.59%，报126.85点。",
@@ -157,17 +170,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
-        },
-        {
-          "title": "用马甲账户收受虚拟币买别墅，证监会科技监管司原司长姚前腐败细节披露",
-          "url": "https://www.cls.cn/detail/2257887",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
         },
         {
           "title": "佳缘科技：公司关注到近期商业航天概念受到市场高度关注。近年来，公司为航天航空领域客户提供相关产品及技术服务支持，而非整体卫星制造。公司研发生产的主要产品系：安全载荷、计算载荷、地面数传设备、信息化技术和服务等。2022年至2024年，公司在航天产品确认收入占总收入10%至30%。",
@@ -313,6 +315,28 @@
           "time_info": "09时13分"
         },
         {
+          "title": "行业ETF美股盘初普跌，半导体ETF跌1.05%，可选消费ETF跌0.93%，科技行业ETF跌0.82%，全球科技股指数ETF、网络股指数ETF至多跌0.69%，银行业ETF跌0.46%，能源ETF涨0.91%。",
+          "url": "https://wallstreetcn.com/livenews/3037136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
+          "title": "美股开盘，道指跌113点，标普500指数跌0.44%，纳指跌0.6%。部分明星科技股走低，AMD(AMD.O)跌1.7%、博通(AVGO.O)跌1.3%。纳斯达克中国金龙指数跌0.13%，携程(TCOM.O)跌17%。",
+          "url": "https://flash.jin10.com/detail/20260114223031737800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "恒生科技指数涨超1%。阿里健康涨超10%，华虹半导体、快手涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3036591",
           "source": "华尔街见闻-快讯",
@@ -341,7 +365,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         }
@@ -543,8 +567,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时32分 ~ 22时21分]"
+          "appearance_count": 4,
+          "time_info": "[20时32分 ~ 23时20分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
@@ -580,11 +604,12 @@
           "ranks": [
             23,
             19,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时32分 ~ 22时21分]"
+          "appearance_count": 4,
+          "time_info": "[20时32分 ~ 23时20分]"
         },
         {
           "title": "Anthropic成立Anthropic Labs。 Instagram联合创始人Mike Krieger加盟Labs。 Ami Vora将在Labs主导产品架构。 Labs将扫描Claude体验。。",
@@ -605,7 +630,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -627,7 +652,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         }

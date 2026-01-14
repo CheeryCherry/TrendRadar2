@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T07:16:29.482437+08:00",
-  "total_titles_processed": 711,
+  "generated_at": "2026-01-14T09:14:00.047089+08:00",
+  "total_titles_processed": 867,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "恒生指数主连夜盘收涨0.21%，报26920点。 恒生科技指数主连夜盘收涨0.25%，报5900点。",
@@ -20,6 +20,18 @@
           "time_info": "[03时17分 ~ 04时19分]"
         },
         {
+          "title": "锂电行业惊现1200亿大单！容百科技和宁德时代签署5年长协|速读公告",
+          "url": "https://www.cls.cn/detail/2256694",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 09时13分]"
+        },
+        {
           "title": "标普500指数收跌13.53点，跌幅0.19%，报6963.74点。 道琼斯工业平均指数收跌398.21点，跌幅0.80%，报49191.99点。 纳斯达克综合指数（纳指）收跌24.032点，跌幅0.10%，报23709.873点。 纳斯达克100指数收跌45.711点，跌幅0.18%，报25741.952点。 纳斯达克生物科技指数收涨0.02%，报5775.48点。 费城半导体指数收涨0.95%，报7747.993点。 费城证交所KBW银行指数收跌1.26%，报166.87点，1月6日涨至172.98点创盘中历史新高以来逐步回撤。 道琼斯KBW地区银行指数收跌0.59%，报126.85点。",
           "url": "https://wallstreetcn.com/livenews/3036399",
           "source": "华尔街见闻-快讯",
@@ -31,24 +43,13 @@
           "time_info": "05时16分"
         },
         {
-          "title": "锂电行业惊现1200亿大单！容百科技和宁德时代签署5年长协|速读公告",
-          "url": "https://www.cls.cn/detail/2256694",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
           "title": "龙旗科技申请香港IPO。 该公司寻求发行大约5200万股股票，发行价指导区间顶端为每股31港元。 据彭博测算，该公司拟融资至多16亿港元（折合2.05亿美元）。 预计股票将从1月22日开始交易。",
           "url": "https://wallstreetcn.com/livenews/3036436",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -81,7 +82,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -92,9 +93,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "中国央行副行长邹澜：加速金融科技创新赋能 扎实做好金融“五篇大文章”",
+          "url": "https://wallstreetcn.com/livenews/3036495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         }
       ]
     },
@@ -107,11 +119,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32373694",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时13分]"
         },
         {
           "title": "达美航空首席执行官：在任何无法赚取资本成本的航空公司中，你都将看到整合与精简。",
@@ -184,11 +197,12 @@
           "ranks": [
             9,
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时13分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
@@ -219,7 +233,7 @@
     },
     {
       "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "2026开年公募扎堆调研商业航天股，脑机接口、具身智能同受关注",
@@ -241,9 +255,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "重要突破！我国首台海底地层空间钻探与监测机器人研发成功",
+          "url": "https://www.cls.cn/detail/2256891",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "机器人大脑60年进化史",

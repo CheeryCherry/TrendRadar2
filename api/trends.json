@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T12:42:44.904534+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2026-01-14T13:20:33.638436+08:00",
+  "total_titles_processed": 1182,
   "failed_sources": [],
   "trends": [
     {
@@ -169,8 +169,21 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时13分 ~ 13时20分]"
+        },
+        {
+          "title": "工信部：加快突破全固态电池、高级别自动驾驶等技术 进一步扩大汽车消费",
+          "url": "https://www.cls.cn/detail/2257032",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时13分 ~ 12时42分]"
+          "time_info": "[11时43分 ~ 13时20分]"
         },
         {
           "title": "重要突破！我国首台海底地层空间钻探与监测机器人研发成功",
@@ -182,18 +195,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
-        },
-        {
-          "title": "工信部：加快突破全固态电池、高级别自动驾驶等技术 进一步扩大汽车消费",
-          "url": "https://www.cls.cn/detail/2257032",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时42分]"
         },
         {
           "title": "机器人大脑60年进化史",
@@ -213,7 +214,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -244,8 +245,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 12时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 13时20分]"
         },
         {
           "title": "达美航空首席执行官：在任何无法赚取资本成本的航空公司中，你都将看到整合与精简。",

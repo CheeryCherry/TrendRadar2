@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T11:26:53.664972+08:00",
-  "total_titles_processed": 1082,
+  "generated_at": "2026-01-15T12:36:38.760136+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
@@ -79,8 +79,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 11时26分]"
+          "appearance_count": 4,
+          "time_info": "[09时09分 ~ 12时36分]"
         },
         {
           "title": "【早报】长期股票投资试点再迎增量资金；上交所暂停国晟科技相关投资者账户交易",
@@ -90,8 +90,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 11时26分]"
+          "appearance_count": 4,
+          "time_info": "[09时09分 ~ 12时36分]"
         },
         {
           "title": "科技股重挫拖累美股，美小盘股指跑赢大盘，白银突破93美元，金银比跌破50",
@@ -133,11 +133,12 @@
           "url": "https://www.cls.cn/detail/2258229",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 12时36分]"
         },
         {
           "title": "标普500指数初步收跌0.6%，可选消费板块跌1.8%，科技板块跌1.5%，电信板块跌0.6%，必需品板块涨1.1%，能源板块涨2.2%。 纳斯达克100指数初步收跌1.1%，成分股中，Applovin跌7.8%，Intuit跌6.4%，Shopify跌5.9%，博通跌4.1%，拼多多跌3.8%，德州仪器涨2.5%，英特尔涨3%，卡夫亨氏涨3.4%，Strategy涨3.8%。 亚马逊初步收跌2.4%，微软跌2.4%，英伟达跌1.5%，思科跌1.4%，领跌道指成分股，雪佛龙、强生、Merck则涨超2%。 半导体指数跌0.6%，银行指数跌0.7%。",
@@ -157,7 +158,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -179,7 +180,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         },
@@ -231,7 +232,7 @@
     },
     {
       "keyword_group": "DeepSeek ChatGPT Claude Grok 豆包 doubao Gemini @10",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "如何评价 DeepSeek 发布梁文锋署名论文，提出「条件记忆」及 Engram 记忆检索架构？有哪些亮点？",
@@ -257,11 +258,12 @@
             23,
             27,
             20,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 11时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 12时36分]"
         },
         {
           "title": "加州总检察长对xAI和Grok展开调查",
@@ -285,6 +287,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时09分 ~ 09时10分]"
+        },
+        {
+          "title": "如何评价 Anthropic 发布通用 AI 代理 Claude Cowork，目前实际使用怎么样？",
+          "url": "https://www.zhihu.com/question/1994356851211515794",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
         },
         {
           "title": "据华尔街日报：OpenAI与初创公司Cerebras达成计算合作，OpenAI将使用Cerebras设计的芯片为ChatGPT提供动力。OpenAI与Cerebras的交易价值超过100亿美元。",
@@ -393,7 +406,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         }

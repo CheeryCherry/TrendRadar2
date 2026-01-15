@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T18:18:30.251923+08:00",
-  "total_titles_processed": 1747,
+  "generated_at": "2026-01-15T19:16:08.151715+08:00",
+  "total_titles_processed": 1843,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时09分 ~ 18时18分]"
+          "appearance_count": 13,
+          "time_info": "[09时09分 ~ 19时16分]"
         },
         {
           "title": "【数据看盘】8.35亿元资金抢筹光迅科技 岩山科技龙虎榜现游资激烈博弈",
@@ -154,13 +154,37 @@
           "time_info": "[03时16分 ~ 04时16分]"
         },
         {
+          "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
+          "url": "https://www.cls.cn/detail/2259059",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 19时16分]"
+        },
+        {
+          "title": "央行三箭齐发！设立民营企业再贷款、增加科技创新和技术改造再贷款额度......",
+          "url": "https://www.cls.cn/detail/2258820",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 19时16分]"
+        },
+        {
           "title": "飞沃科技：股东常德福沃拟减持不超过1%。",
           "url": "https://wallstreetcn.com/livenews/3037885",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -185,17 +209,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
-        },
-        {
-          "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
-          "url": "https://www.cls.cn/detail/2259059",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
         },
         {
           "title": "金十图示：2026年01月15日（周四）全球主要科技与互联网公司市值变化",
@@ -231,17 +244,6 @@
           "time_info": "17时23分"
         },
         {
-          "title": "央行三箭齐发！设立民营企业再贷款、增加科技创新和技术改造再贷款额度......",
-          "url": "https://www.cls.cn/detail/2258820",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
           "title": "科技板块ETF领涨，资金流向持续分化",
           "url": "https://wallstreetcn.com/livenews/3037331",
           "source": "华尔街见闻-快讯",
@@ -251,6 +253,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "蓝箭电子：筹划收购成都芯翼科技51%股权事项尚在推进中",
+          "url": "https://wallstreetcn.com/livenews/3037933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "金十图示：2026年01月15日（周四）中国科技互联网公司市值排名TOP 50一览",
@@ -425,6 +438,101 @@
       ]
     },
     {
+      "keyword_group": "月球 登月 火星 宇宙 飞船 航空 @5",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "据BNO新闻：德国警告航空公司避开伊朗领空，因存在“冲突升级和反航空武器”风险。",
+          "url": "https://flash.jin10.com/detail/20260115040940398800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "美国航空航天局（NASA）方面表示，一名宇航员出现“严重的医疗状况”。",
+          "url": "https://flash.jin10.com/detail/20260115190332557800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "首个月球酒店开放预订！5晚1000万美元，主理人是22岁华人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32390869",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 19时16分]"
+        },
+        {
+          "title": "空客：2025年中国航空服务市场价值达248亿美元",
+          "url": "https://wallstreetcn.com/livenews/3037532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 14时25分]"
+        },
+        {
+          "title": "印度靛蓝航空：由于伊朗突然关闭空域，部分国际航班受到影响。",
+          "url": "https://flash.jin10.com/detail/20260115070042240800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "美国航空航天局（NASA）官员：患有疾病的宇航员目前情况良好。",
+          "url": "https://flash.jin10.com/detail/20260115185020400800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "印度航空：鉴于伊朗局势发展，飞越该地区的印度航空航班现采用替代航线，这可能导致航班延误。目前无法改道的某些航班正被取消。",
+          "url": "https://flash.jin10.com/detail/20260115080248811800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
+          "title": "据实时航班追踪器FlightRadar24，德国当局发布了新的航行通告，警告德国航空公司谨慎进入伊朗领空。",
+          "url": "https://flash.jin10.com/detail/20260115035253506800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
       "match_count": 6,
       "titles": [
@@ -434,11 +542,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时22分 ~ 18时18分]"
+          "appearance_count": 7,
+          "time_info": "[15时22分 ~ 19时16分]"
         },
         {
           "title": "花旗：文远知行年末自动驾驶车队或扩至2000-3000辆",
@@ -498,79 +607,6 @@
       ]
     },
     {
-      "keyword_group": "月球 登月 火星 宇宙 飞船 航空 @5",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "据BNO新闻：德国警告航空公司避开伊朗领空，因存在“冲突升级和反航空武器”风险。",
-          "url": "https://flash.jin10.com/detail/20260115040940398800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时16分"
-        },
-        {
-          "title": "空客：2025年中国航空服务市场价值达248亿美元",
-          "url": "https://wallstreetcn.com/livenews/3037532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 14时25分]"
-        },
-        {
-          "title": "印度靛蓝航空：由于伊朗突然关闭空域，部分国际航班受到影响。",
-          "url": "https://flash.jin10.com/detail/20260115070042240800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "印度航空：鉴于伊朗局势发展，飞越该地区的印度航空航班现采用替代航线，这可能导致航班延误。目前无法改道的某些航班正被取消。",
-          "url": "https://flash.jin10.com/detail/20260115080248811800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时10分"
-        },
-        {
-          "title": "首个月球酒店开放预订！5晚1000万美元，主理人是22岁华人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32390869",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "据实时航班追踪器FlightRadar24，德国当局发布了新的航行通告，警告德国航空公司谨慎进入伊朗领空。",
-          "url": "https://flash.jin10.com/detail/20260115035253506800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "摄影 摄像 相机",
       "match_count": 1,
       "titles": [
@@ -579,11 +615,12 @@
           "url": "https://www.zhihu.com/question/1993756665422509304",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 19时16分]"
         }
       ]
     }

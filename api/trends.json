@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T22:20:45.900371+08:00",
-  "total_titles_processed": 2152,
+  "generated_at": "2026-01-15T23:19:56.390699+08:00",
+  "total_titles_processed": 2251,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时09分 ~ 22时20分]"
+          "appearance_count": 17,
+          "time_info": "[09时09分 ~ 23时19分]"
         },
         {
           "title": "【数据看盘】8.35亿元资金抢筹光迅科技 岩山科技龙虎榜现游资激烈博弈",
@@ -101,11 +101,12 @@
             9,
             8,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时18分 ~ 22时20分]"
+          "appearance_count": 7,
+          "time_info": "[18时18分 ~ 23时19分]"
         },
         {
           "title": "1月15日投资避雷针：上交所通报国晟科技异常交易情况 对相关投资者采取暂停交易措施",
@@ -120,6 +121,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时26分 ~ 17时23分]"
+        },
+        {
+          "title": "央行三箭齐发！设立民营企业再贷款、增加科技创新和技术改造再贷款额度......",
+          "url": "https://www.cls.cn/detail/2258820",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时18分 ~ 23时19分]"
         },
         {
           "title": "科技股重挫拖累美股，美小盘股指跑赢大盘，白银突破93美元，金银比跌破50",
@@ -142,20 +157,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
-        },
-        {
-          "title": "央行三箭齐发！设立民营企业再贷款、增加科技创新和技术改造再贷款额度......",
-          "url": "https://www.cls.cn/detail/2258820",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时18分 ~ 22时20分]"
         },
         {
           "title": "央行：将科技创新和技术改造贷款额度从8,000亿元增加至1.2万亿元",
@@ -224,6 +225,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "容百科技：与宁德时代签署的“1200亿元合同总金额”是公司估算得出存在不确定性",
+          "url": "https://wallstreetcn.com/livenews/3038099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "港股收盘：恒生指数收跌0.28%，恒生科技指数收跌1.35%，携程跌超19%，阿里巴巴跌超2%；半导体板块尾盘拉升，华虹半导体收涨超6%。",
@@ -298,7 +310,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -369,6 +381,39 @@
           "time_info": "21时36分"
         },
         {
+          "title": "行业ETF美股盘初多数走高，半导体ETF涨3.26%，科技行业ETF、全球科技股指数ETF至少涨1.57%，网络股指数ETF涨0.67%，能源业ETF跌1.29%。",
+          "url": "https://wallstreetcn.com/livenews/3038075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "国务院国资委：着力强化国有企业科技创新主体作用，培育科技领军企业",
+          "url": "https://wallstreetcn.com/livenews/3038074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "美股开盘，道指涨100点、标普500指数涨0.64%、纳指涨0.88%。明星科技股普涨，阿斯麦(ASML.O)涨6.8%，总市值突破5200亿美元；台积电(TSM.N)涨4%和美光科技(MU.O)涨3%。纳斯达克中国金龙指数涨0.1%。",
+          "url": "https://flash.jin10.com/detail/20260115223034290800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "航天科技集团：2026年要全力突破重复使用火箭技术 前瞻布局太空数智等未来产业",
           "url": "https://wallstreetcn.com/livenews/3037959",
           "source": "华尔街见闻-快讯",
@@ -422,11 +467,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时32分 ~ 22时20分]"
+          "appearance_count": 4,
+          "time_info": "[20时32分 ~ 23时19分]"
         },
         {
           "title": "如何评价 Anthropic 发布通用 AI 代理 Claude Cowork，目前实际使用怎么样？",
@@ -521,7 +567,7 @@
     },
     {
       "keyword_group": "月球 登月 火星 宇宙 飞船 航空 @5",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "首个月球酒店开放预订！5晚1000万美元，主理人是22岁华人",
@@ -531,11 +577,12 @@
             18,
             13,
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时18分 ~ 22时20分]"
+          "appearance_count": 7,
+          "time_info": "[18时18分 ~ 23时19分]"
         },
         {
           "title": "据BNO新闻：德国警告航空公司避开伊朗领空，因存在“冲突升级和反航空武器”风险。",
@@ -560,6 +607,19 @@
           "time_info": "19时16分"
         },
         {
+          "title": "首个月球酒店开放预订 主理人是华人",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E4%B8%AA%E6%9C%88%E7%90%83%E9%85%92%E5%BA%97%E5%BC%80%E6%94%BE%E9%A2%84%E8%AE%A2+%E4%B8%BB%E7%90%86%E4%BA%BA%E6%98%AF%E5%8D%8E%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时32分 ~ 23时19分]"
+        },
+        {
           "title": "空客：2025年中国航空服务市场价值达248亿美元",
           "url": "https://wallstreetcn.com/livenews/3037532",
           "source": "华尔街见闻-快讯",
@@ -570,18 +630,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时22分 ~ 14时25分]"
-        },
-        {
-          "title": "首个月球酒店开放预订 主理人是华人",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E4%B8%AA%E6%9C%88%E7%90%83%E9%85%92%E5%BA%97%E5%BC%80%E6%94%BE%E9%A2%84%E8%AE%A2+%E4%B8%BB%E7%90%86%E4%BA%BA%E6%98%AF%E5%8D%8E%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时32分 ~ 22时20分]"
         },
         {
           "title": "印度靛蓝航空：由于伊朗突然关闭空域，部分国际航班受到影响。",
@@ -626,12 +674,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "从月球上眺望地球，为什么有人会说感到恐惧？到底在恐惧什么？",
+          "url": "https://www.zhihu.com/question/404206439",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         }
       ]
     },
     {
       "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "宇树人形机器人 H2 空中回旋踢将西瓜踢爆，这样高难度的动作完成有多难？有哪些技术值得关注？",
@@ -643,8 +702,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时22分 ~ 22时20分]"
+          "appearance_count": 11,
+          "time_info": "[15时22分 ~ 23时19分]"
+        },
+        {
+          "title": "中国航天科技集团：2026年要全力突破重复使用火箭技术，大力发展商业航天、低空经济等战新产业",
+          "url": "https://www.cls.cn/detail/2259278",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时36分 ~ 23时19分]"
         },
         {
           "title": "花旗：文远知行年末自动驾驶车队或扩至2000-3000辆",
@@ -656,18 +728,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
-        },
-        {
-          "title": "中国航天科技集团：2026年要全力突破重复使用火箭技术，大力发展商业航天、低空经济等战新产业",
-          "url": "https://www.cls.cn/detail/2259278",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时36分 ~ 22时20分]"
         },
         {
           "title": "海关总署称我国已成为工业机器人的净出口国，这对中国制造和全球工业格局意味着什么？",
@@ -701,6 +761,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
+        },
+        {
+          "title": "全球人形机器人市场将迎爆发式增长 投资者如何抢先布局？一文剖析",
+          "url": "https://www.cls.cn/detail/2258998",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "全球首个机器人租赁平台“擎天租”完成种子轮融资",
@@ -741,8 +812,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时18分 ~ 22时20分]"
+          "appearance_count": 7,
+          "time_info": "[18时18分 ~ 23时19分]"
         }
       ]
     }

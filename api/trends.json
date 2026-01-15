@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T02:29:27.606733+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-01-16T03:21:04.907803+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时21分]"
         },
         {
           "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
@@ -28,8 +28,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时21分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.81%，报27150点。 恒生科技指数主连夜盘收涨1.05%，报5895点。",
+          "url": "https://wallstreetcn.com/livenews/3038180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
         },
         {
           "title": "美国总统特朗普：欧盟对美国科技公司非常不公平。",
@@ -80,21 +91,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时29分]"
-        },
-        {
-          "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
-          "url": "https://wallstreetcn.com/livenews/3038124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时21分]"
         },
         {
           "title": "宇树人形机器人 H2 空中回旋踢将西瓜踢爆，这样高难度的动作完成有多难？有哪些技术值得关注？",
@@ -102,11 +100,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时21分]"
         },
         {
           "title": "全球人形机器人市场将迎爆发式增长 投资者如何抢先布局？一文剖析",
@@ -116,6 +115,19 @@
             10,
             9,
             8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时21分]"
+        },
+        {
+          "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
+          "url": "https://wallstreetcn.com/livenews/3038124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16,
+            26
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -135,8 +147,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时21分]"
         },
         {
           "title": "首个月球酒店开放预订 主理人是华人",
@@ -145,11 +157,12 @@
           "ranks": [
             26,
             25,
-            23
+            23,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时21分]"
         },
         {
           "title": "从月球上眺望地球，为什么有人会说感到恐惧？到底在恐惧什么？",
@@ -177,8 +190,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时21分]"
         }
       ]
     },
@@ -195,8 +208,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时21分]"
         }
       ]
     }

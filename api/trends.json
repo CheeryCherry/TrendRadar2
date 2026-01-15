@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T20:32:23.890527+08:00",
-  "total_titles_processed": 1952,
+  "generated_at": "2026-01-15T21:36:53.443821+08:00",
+  "total_titles_processed": 2063,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新质生产力 科技 @10",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时09分 ~ 20时32分]"
+          "appearance_count": 15,
+          "time_info": "[09时09分 ~ 21时36分]"
         },
         {
           "title": "【数据看盘】8.35亿元资金抢筹光迅科技 岩山科技龙虎榜现游资激烈博弈",
@@ -108,6 +108,20 @@
           "time_info": "[11时26分 ~ 17时23分]"
         },
         {
+          "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
+          "url": "https://www.cls.cn/detail/2259059",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时18分 ~ 21时36分]"
+        },
+        {
           "title": "科技股重挫拖累美股，美小盘股指跑赢大盘，白银突破93美元，金银比跌破50",
           "url": "https://wallstreetcn.com/articles/3763270",
           "source": "华尔街见闻",
@@ -125,7 +139,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -141,28 +155,28 @@
           "time_info": "15时22分"
         },
         {
-          "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
-          "url": "https://www.cls.cn/detail/2259059",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时18分 ~ 20时32分]"
-        },
-        {
           "title": "印尼高等教育部副部长：印尼与中国科技合作水平“卓越”",
           "url": "https://wallstreetcn.com/livenews/3037991",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
+        },
+        {
+          "title": "央行三箭齐发！设立民营企业再贷款、增加科技创新和技术改造再贷款额度......",
+          "url": "https://www.cls.cn/detail/2258820",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时18分 ~ 21时36分]"
         },
         {
           "title": "标普500指数跌幅扩大至1%，科技板块跌超1.8%，可选消费板块跌1.7%，电信板块跌1.2%，能源板块涨1.8%。 道指跌267点跌超0.5%，纳指跌348点跌幅1.5%，半导体指数跌1.5%，银行指数跌1.2%。",
@@ -187,19 +201,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 04时16分]"
-        },
-        {
-          "title": "央行三箭齐发！设立民营企业再贷款、增加科技创新和技术改造再贷款额度......",
-          "url": "https://www.cls.cn/detail/2258820",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时18分 ~ 20时32分]"
         },
         {
           "title": "飞沃科技：股东常德福沃拟减持不超过1%。",
@@ -345,13 +346,24 @@
           "time_info": "06时17分"
         },
         {
+          "title": "戴尔科技盘前上涨近2%，巴克莱将其评级从 “持有”上调至 “增持”。",
+          "url": "https://wallstreetcn.com/livenews/3038006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
           "title": "航天科技集团：2026年要全力突破重复使用火箭技术 前瞻布局太空数智等未来产业",
           "url": "https://wallstreetcn.com/livenews/3037959",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         }
@@ -404,6 +416,18 @@
           "time_info": "[12时36分 ~ 14时25分]"
         },
         {
+          "title": "DeepSeek 梁文锋旗下幻方量化 2025 年收益率 56.6%，如何评价这一业绩？",
+          "url": "https://www.zhihu.com/question/1995072623625855863",
+          "source": "知乎",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时32分 ~ 21时36分]"
+        },
+        {
           "title": "加州总检察长对xAI和Grok展开调查",
           "url": "https://wallstreetcn.com/livenews/3037233",
           "source": "华尔街见闻-快讯",
@@ -425,17 +449,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时09分 ~ 09时10分]"
-        },
-        {
-          "title": "DeepSeek 梁文锋旗下幻方量化 2025 年收益率 56.6%，如何评价这一业绩？",
-          "url": "https://www.zhihu.com/question/1995072623625855863",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
         },
         {
           "title": "据华尔街日报：OpenAI与初创公司Cerebras达成计算合作，OpenAI将使用Cerebras设计的芯片为ChatGPT提供动力。OpenAI与Cerebras的交易价值超过100亿美元。",
@@ -477,7 +490,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -526,11 +539,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            13
+            13,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时18分 ~ 20时32分]"
+          "appearance_count": 5,
+          "time_info": "[18时18分 ~ 21时36分]"
         },
         {
           "title": "空客：2025年中国航空服务市场价值达248亿美元",
@@ -595,7 +609,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         }
@@ -603,7 +617,7 @@
     },
     {
       "keyword_group": "具身智能 低空经济 自动驾驶 机器人 @10",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "宇树人形机器人 H2 空中回旋踢将西瓜踢爆，这样高难度的动作完成有多难？有哪些技术值得关注？",
@@ -615,8 +629,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时22分 ~ 20时32分]"
+          "appearance_count": 9,
+          "time_info": "[15时22分 ~ 21时36分]"
         },
         {
           "title": "花旗：文远知行年末自动驾驶车队或扩至2000-3000辆",
@@ -647,9 +661,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
+        },
+        {
+          "title": "中国航天科技集团：2026年要全力突破重复使用火箭技术，大力发展商业航天、低空经济等战新产业",
+          "url": "https://www.cls.cn/detail/2259278",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "蚂蚁数科与杭州具身智能中试基地达成合作意向 推动具身智能商业化落地",
@@ -697,11 +722,12 @@
           "ranks": [
             4,
             3,
-            14
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时18分 ~ 20时32分]"
+          "appearance_count": 5,
+          "time_info": "[18时18分 ~ 21时36分]"
         }
       ]
     }
